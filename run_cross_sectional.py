@@ -41,6 +41,8 @@ SPECS = {
     "M4 + country FE": "car ~ russia_exposure + C(country_iso)",
     "M5 + sector + country FE": "car ~ russia_exposure + C(gics_sector) + C(country_iso)",
     "M6 financial interaction": "car ~ russia_exposure + C(gics_sector) + russia_exposure:C(financial)",
+    "M7 + firm controls (sector FE)": "car ~ russia_exposure + ln_size + pb + pe + C(gics_sector)",
+    "M8 + firm controls (sector + country FE)": "car ~ russia_exposure + ln_size + pb + pe + C(gics_sector) + C(country_iso)",
 }
 
 ROBUSTNESS_DV = {"car_bh": "bhar ~ russia_exposure + C(gics_sector)", "car_win": "car_win ~ russia_exposure + C(gics_sector)"}
@@ -91,13 +93,28 @@ def build_dataset() -> pd.DataFrame:
     df["financial"] = (df["gics_sector"] == "Financials").astype(int)
     df["car_win"] = df["car"].clip(df["car"].quantile(0.01), df["car"].quantile(0.99))
 
-    chars = DATA / "firm_characteristics.csv"
-    if chars.exists():
+    controls = [DATA / "firm_controls.xlsx", DATA / "firm_characteristics.csv"]
+    chars = next((p for p in controls if p.exists()), None)
+    if chars is not None and chars.suffix.lower() == ".xlsx":
+        c = pd.read_excel(chars)
+    elif chars is not None:
         c = pd.read_csv(chars, sep=";")
-        if "firm_id" in c.columns:
-            df = df.merge(c, on="firm_id", how="left")
-            if "size" in df.columns:
-                df["ln_size"] = np.log(df["size"].replace(0, np.nan))
+    else:
+        c = None
+    if c is not None and "firm_id" not in c.columns and "firm" in c.columns:
+        c = c.rename(columns={"firm": "firm_id"})
+    if c is not None and "firm_id" in c.columns and "date" in c.columns:
+        c["date"] = pd.to_datetime(c["date"])
+        c = c[c["date"] <= pd.Timestamp("2022-01-31")].sort_values("date").groupby("firm_id").last().reset_index()
+    if c is not None:
+        df = df.merge(c.drop(columns=["date"], errors="ignore"), on="firm_id", how="left")
+        if "size_eur" in df.columns:
+            df["ln_size"] = np.log(df["size_eur"].replace(0, np.nan))
+        for col in ("pb", "pe"):
+            if col in df.columns:
+                df[col + "_w"] = df[col].clip(df[col].quantile(0.01), df[col].quantile(0.99))
+        df["pb"] = df["pb_w"]
+        df["pe"] = df["pe_w"]
 
     return df.sort_values("firm_id").reset_index(drop=True)
 

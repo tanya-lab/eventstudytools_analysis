@@ -1,29 +1,40 @@
 \begin{table}[ht]
 \centering
 \small
-\begin{tabular}{lcccccc}
+\begin{tabular}{lcccccccc}
 \toprule
- & M1 baseline & M2 supplier vs customer & M3 + sector FE & M4 + country FE & M5 + sector + country FE & M6 financial interaction \\
+ & M1 baseline & M2 supplier vs customer & M3 + sector FE & M4 + country FE & M5 + sector + country FE & M6 financial interaction & M7 + firm controls (sector FE) & M8 + firm controls (sector + country FE) \\
 \midrule
 \textit{russia_exposure} & -0.035
 (-1.62) &  & -0.060***
 (-2.65) & -0.006
 (-0.40) & -0.029*
 (-1.70) & -0.059***
-(-2.62) \\
+(-2.62) & -0.033*
+(-1.81) & -0.018
+(-0.97) \\
 \textit{ru_supplier} &  & -0.070*
-(-1.80) &  &  &  &  \\
+(-1.80) &  &  &  &  &  &  \\
 \textit{ru_customer} &  & 0.002
-(0.07) &  &  &  &  \\
+(0.07) &  &  &  &  &  &  \\
 \textit{russia_exposure:C(financial)[T.1]} &  &  &  &  &  & -0.006
-(-0.04) \\
+(-0.04) &  &  \\
+\textit{ln_size} &  &  &  &  &  &  & 0.001
+(0.21) & 0.002
+(0.40) \\
+\textit{pb} &  &  &  &  &  &  & 0.006***
+(5.27) & 0.006***
+(4.99) \\
+\textit{pe} &  &  &  &  &  &  & 0.000**
+(2.34) & 0.000**
+(2.55) \\
 \midrule
-N & 599 & 599 & 599 & 599 & 599 & 599 \\
-R2 & 0.007 & 0.017 & 0.133 & 0.304 & 0.426 & 0.133 \\
-Sector FE &  &  & Y &  & Y & Y \\
-Country FE &  &  &  & Y & Y &  \\
+N & 599 & 599 & 599 & 599 & 599 & 599 & 555 & 555 \\
+R2 & 0.007 & 0.017 & 0.133 & 0.304 & 0.426 & 0.133 & 0.243 & 0.370 \\
+Sector FE &  &  & Y &  & Y & Y & Y & Y \\
+Country FE &  &  &  & Y & Y &  &  & Y \\
 \addlinespace
-\multicolumn{7}{l}{\footnotesize \textit{Notes:} HC1 robust t-statistics in parentheses. * p$<$0.10, ** p$<$0.05, *** p$<$0.01. CAR = cumulative abnormal return over (-10, +10).} \\
+\multicolumn{9}{l}{\footnotesize \textit{Notes:} HC1 robust t-statistics in parentheses. * p$<$0.10, ** p$<$0.05, *** p$<$0.01. CAR = cumulative abnormal return over (-10, +10).} \\
 \bottomrule
 \end{tabular}
 \caption{Cross-sectional regressions of CAR(-10,+10) on Russia exposure}
