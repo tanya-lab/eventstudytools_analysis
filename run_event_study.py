@@ -4,6 +4,7 @@ Run an ARC event study through the eventstudytools.com API.
 Usage:
     python run_event_study.py sector     # 01_RequestFile_sector_gics.csv
     python run_event_study.py industry   # 01_RequestFile_industry_gics.csv
+    python run_event_study.py country    # 01_RequestFile_country.csv
 
 Requires the EST_API_KEY environment variable.
 Outputs land in <analysis>_analysis/results/.
@@ -20,6 +21,7 @@ BASE = Path(__file__).parent
 ANALYSES = {
     "sector": "data/01_RequestFile_sector_gics.csv",
     "industry": "data/01_RequestFile_industry_gics.csv",
+    "country": "data/01_RequestFile_country.csv",
 }
 
 

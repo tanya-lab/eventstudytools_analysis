@@ -8,6 +8,7 @@ Tables : CSV (API output) + .tex (Overleaf \\input) -> <analysis>_analysis/resul
 Usage:
     python visualize_results.py sector
     python visualize_results.py industry
+    python visualize_results.py country
     python visualize_results.py all
 """
 
@@ -25,7 +26,18 @@ BASE = Path(__file__).parent
 DATA = BASE / "data"
 DAYS = list(range(-10, 11))
 EVENT_DAY = 0
-GROUP_LABEL = {"sector": "GICS sector", "industry": "GICS industry group"}
+GROUP_LABEL = {"sector": "GICS sector", "industry": "GICS industry group", "country": "country"}
+GROUP_LABEL_PLURAL = {
+    "sector": "GICS sectors",
+    "industry": "GICS industry groups",
+    "country": "countries",
+}
+REQUEST_FILES = {
+    "sector": "01_RequestFile_sector_gics.csv",
+    "industry": "01_RequestFile_industry_gics.csv",
+    "country": "01_RequestFile_country.csv",
+}
+ANALYSES = list(REQUEST_FILES)
 
 SECTOR_COLORS = {
     "Industrials": "#1f77b4",
@@ -47,7 +59,7 @@ def analysis_paths(name: str):
     return (
         root / "results",
         root / "figures",
-        DATA / f"01_RequestFile_{name}_gics.csv",
+        DATA / REQUEST_FILES[name],
     )
 
 
@@ -277,7 +289,7 @@ def fig_aar_heatmap(ar: pd.DataFrame, req: pd.DataFrame, figs: Path, label: str)
     plt.close(fig)
 
 
-def fig_event_timeline(req: pd.DataFrame, caar: pd.DataFrame, figs: Path, label: str):
+def fig_event_timeline(req: pd.DataFrame, caar: pd.DataFrame, figs: Path, label: str, plural: str):
     dec1, apr1 = pd.Timestamp("2021-12-01"), pd.Timestamp("2022-04-01")
     event = pd.Timestamp("2022-02-24")
 
@@ -326,7 +338,7 @@ def fig_event_timeline(req: pd.DataFrame, caar: pd.DataFrame, figs: Path, label:
 
     ax.set_ylabel("Cumulative return since 01.12.2021 (%)")
     ax.set_title(
-        f"Market and 3 most affected {label.lower()}s around the event\n"
+        f"Market and 3 most affected {plural} around the event\n"
         "(equal-weighted portfolios, market model benchmark)",
         fontweight="bold",
     )
@@ -425,7 +437,7 @@ def analyze(name: str):
     mean, med, t_stat = fig_car_distribution(ar, figs, label)
     beta = fig_betas(results, figs, label)
     fig_aar_heatmap(ar, req, figs, label)
-    fig_event_timeline(req, caar, figs, label)
+    fig_event_timeline(req, caar, figs, label, GROUP_LABEL_PLURAL[name])
     tex_tables(results, caar, ar, req, name, label)
     sync_to_thesis(name, figs)
 
@@ -434,9 +446,9 @@ def analyze(name: str):
 
 
 def main():
-    if len(sys.argv) != 2 or sys.argv[1] not in ("sector", "industry", "all"):
+    if len(sys.argv) != 2 or sys.argv[1] not in (*ANALYSES, "all"):
         sys.exit(__doc__)
-    names = ["sector", "industry"] if sys.argv[1] == "all" else [sys.argv[1]]
+    names = ANALYSES if sys.argv[1] == "all" else [sys.argv[1]]
     for name in names:
         analyze(name)
 
