@@ -1,0 +1,12 @@
+"Grouping Variable";"CAAR Type";"CAAR Value";"Precision Weighted CAAR Value";ABHAR;"pos:neg CAR";"Number of CARs considered";"Patell Z";"Patell Z P-Value";"Csect T";"Csect T P-Value";"Sign Z";"Sign Z P-Value";"Generalized Sign Z";"Generalized Sign Z P-Value";"StdCSect T";"StdCSect T P-Value";"Rank Z";"Rank Z P-Value";"Generalized Rank T";"Generalized Rank T P-Value";"Adjusted Patell Z";"Adjusted Patell Z P-Value";"Adjusted StdCSect T";"Adjusted StdCSect T P-Value";"Generalized Rank Z";"Generalized Rank Z P-Value";"Skewness-Corrected T";"Skewness-Corrected T P-Value";"ABHAR Csect T";"ABHAR Skewness-Corrected T";"CDA T";"CDA T P-Value"
+Industrials;"(-10, 10)";0.0218;0.0252;0.023;67:52;119;4.3955;0;1.626;0.1066;;;;;1.9989;0.0479;;;;;;;;;;;;;;;;
+Materials;"(-10, 10)";-0.0075;-0.0386;0.0135;28:22;50;-3.1435;0.0017;-0.1784;0.8591;;;;;-0.7818;0.4381;;;;;;;;;;;;;;;;
+Financials;"(-10, 10)";-0.1068;-0.089;-0.0908;22:83;105;-19.3608;1.652E-83;-7.5806;1.4966E-11;;;;;-8.293;4.1995E-13;;;;;;;;;;;;;;;;
+Utilities;"(-10, 10)";0.0003;-0.0219;0.0071;22:11;33;-1.7751;0.0759;0.0091;0.9928;;;;;-0.3842;0.7033;;;;;;;;;;;;;;;;
+"Consumer Staples";"(-10, 10)";-0.0343;-0.0264;-0.0318;19:27;46;-3.8185;0.0001;-2.6346;0.0115;;;;;-2.251;0.0293;;;;;;;;;;;;;;;;
+"Consumer Discretionary";"(-10, 10)";-0.0569;-0.0609;-0.0465;27:45;72;-7.284;3.2405E-13;-3.0868;0.0029;;;;;-3.8838;0.0002;;;;;;;;;;;;;;;;
+"Communication Services";"(-10, 10)";-0.0308;-0.0304;-0.0269;14:23;37;-2.8977;0.0038;-1.0827;0.2862;;;;;-1.3879;0.1737;;;;;;;;;;;;;;;;
+"Real Estate";"(-10, 10)";0.0362;0.0425;0.0321;25:10;35;4.585;4.5409E-6;3.4785;0.0014;;;;;3.3568;0.002;;;;;;;;;;;;;;;;
+"Health Care";"(-10, 10)";0.0793;0.068;0.0735;45:11;56;7.969;1.5999E-15;4.9069;8.6194E-6;;;;;4.4745;0;;;;;;;;;;;;;;;;
+Energy;"(-10, 10)";0.0428;0.0159;0.0402;8:6;14;1.5454;0.1223;1.1686;0.2635;;;;;0.866;0.4022;;;;;;;;;;;;;;;;
+"Information Technology";"(-10, 10)";0.0478;0.0219;0.0419;24:8;32;2.7257;0.0064;2.1719;0.0376;;;;;1.6425;0.1106;;;;;;;;;;;;;;;;

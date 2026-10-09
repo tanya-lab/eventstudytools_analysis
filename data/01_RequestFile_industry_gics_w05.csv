@@ -1,0 +1,600 @@
+10001;1CNHI IM Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10002;1COV GY Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10003;2462936D LN Equity;SXXP Index;24.2.2022;Trading Companies & Distributors;-5;5;-11;120
+10004;2655007D LN Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10005;A2A IM Equity;SXXP Index;24.2.2022;Multi-Utilities;-5;5;-11;120
+10006;AAK SS Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10007;AAL LN Equity;SXXP Index;24.2.2022;Metals & Mining;-5;5;-11;120
+10008;AALB NA Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10009;ABBN SE Equity;SXXP Index;24.2.2022;Electrical Equipment;-5;5;-11;120
+10010;ABDN LN Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10011;ABF LN Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10012;ABI BB Equity;SXXP Index;24.2.2022;Beverages;-5;5;-11;120
+10013;ABN NA Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10014;AC FP Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10015;ACA FP Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10016;ACKB BB Equity;SXXP Index;24.2.2022;Construction & Engineering;-5;5;-11;120
+10017;ACS SQ Equity;SXXP Index;24.2.2022;Construction & Engineering;-5;5;-11;120
+10018;AD NA Equity;SXXP Index;24.2.2022;Consumer Staples Distribution & Retail;-5;5;-11;120
+10019;ADDTB SS Equity;SXXP Index;24.2.2022;Trading Companies & Distributors;-5;5;-11;120
+10020;ADE NO Equity;SXXP Index;24.2.2022;Interactive Media & Services;-5;5;-11;120
+10021;ADEN SE Equity;SXXP Index;24.2.2022;Professional Services;-5;5;-11;120
+10022;ADM LN Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10023;ADP FP Equity;SXXP Index;24.2.2022;Transportation Infrastructure;-5;5;-11;120
+10024;ADS GY Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10025;ADYEN NA Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10026;AED BB Equity;SXXP Index;24.2.2022;Health Care REITs;-5;5;-11;120
+10027;AENA SQ Equity;SXXP Index;24.2.2022;Transportation Infrastructure;-5;5;-11;120
+10028;AFRY SS Equity;SXXP Index;24.2.2022;Professional Services;-5;5;-11;120
+10029;AFX GY Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10030;AG1 GY Equity;SXXP Index;24.2.2022;Specialty Retail;-5;5;-11;120
+10031;AGN NA Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10032;AGS BB Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10033;AHT LN Equity;SXXP Index;24.2.2022;Trading Companies & Distributors;-5;5;-11;120
+10034;AI FP Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10035;AIR FP Equity;SXXP Index;24.2.2022;Aerospace & Defense;-5;5;-11;120
+10036;AKE FP Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10037;AKRBP NO Equity;SXXP Index;24.2.2022;Oil, Gas & Consumable Fuels;-5;5;-11;120
+10038;AKZA NA Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10039;ALC SE Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10040;ALE PW Equity;SXXP Index;24.2.2022;Broadline Retail;-5;5;-11;120
+10041;ALFA SS Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10042;ALIFB SS Equity;SXXP Index;24.2.2022;Life Sciences Tools & Services;-5;5;-11;120
+10043;ALKB DC Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10044;ALLFG NA Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10045;ALLN SE Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10046;ALO FP Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10047;ALV GY Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10048;AMBUB DC Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10049;AMP IM Equity;SXXP Index;24.2.2022;Health Care Providers & Services;-5;5;-11;120
+10050;AMS SE Equity;SXXP Index;24.2.2022;Semiconductors & Semiconductor Equipment;-5;5;-11;120
+10051;AMS SQ Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10052;AMUN FP Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10053;ANA SQ Equity;SXXP Index;24.2.2022;Electric Utilities;-5;5;-11;120
+10054;ANDR AV Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10055;ANTO LN Equity;SXXP Index;24.2.2022;Metals & Mining;-5;5;-11;120
+10056;ARCAD NA Equity;SXXP Index;24.2.2022;Professional Services;-5;5;-11;120
+10057;ARGX BB Equity;SXXP Index;24.2.2022;Biotechnology;-5;5;-11;120
+10058;ASM NA Equity;SXXP Index;24.2.2022;Semiconductors & Semiconductor Equipment;-5;5;-11;120
+10059;ASML NA Equity;SXXP Index;24.2.2022;Semiconductors & Semiconductor Equipment;-5;5;-11;120
+10060;ASRNL NA Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10061;ASSAB SS Equity;SXXP Index;24.2.2022;Building Products;-5;5;-11;120
+10062;AT1 GY Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10063;ATCOA SS Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10064;ATE FP Equity;SXXP Index;24.2.2022;IT Services;-5;5;-11;120
+10065;ATL IM Equity;SXXP Index;24.2.2022;Transportation Infrastructure;-5;5;-11;120
+10066;ATO FP Equity;SXXP Index;24.2.2022;IT Services;-5;5;-11;120
+10067;AUTO LN Equity;SXXP Index;24.2.2022;Interactive Media & Services;-5;5;-11;120
+10068;AUTO NO Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10069;AV/ LN Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10070;AVOL SE Equity;SXXP Index;24.2.2022;Specialty Retail;-5;5;-11;120
+10071;AVST LN Equity;SXXP Index;24.2.2022;Software;-5;5;-11;120
+10072;AVV LN Equity;SXXP Index;24.2.2022;Software;-5;5;-11;120
+10073;AZA SS Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10074;AZN LN Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10075;BA/ LN Equity;SXXP Index;24.2.2022;Aerospace & Defense;-5;5;-11;120
+10076;BAER SE Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10077;BAKKA NO Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10078;BALDB SS Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10079;BALN SE Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10080;BAMI IM Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10081;BANB SE Equity;SXXP Index;24.2.2022;Life Sciences Tools & Services;-5;5;-11;120
+10082;BARC LN Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10083;BARN SE Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10084;BAS GY Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10085;BATS LN Equity;SXXP Index;24.2.2022;Tobacco;-5;5;-11;120
+10086;BAYN GY Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10087;BBOX LN Equity;SXXP Index;24.2.2022;Industrial REITs;-5;5;-11;120
+10088;BBVA SQ Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10089;BC8 GY Equity;SXXP Index;24.2.2022;IT Services;-5;5;-11;120
+10090;BEAN SE Equity;SXXP Index;24.2.2022;Building Products;-5;5;-11;120
+10091;BEI GY Equity;SXXP Index;24.2.2022;Personal Care Products;-5;5;-11;120
+10092;BEIJB SS Equity;SXXP Index;24.2.2022;Trading Companies & Distributors;-5;5;-11;120
+10093;BESI NA Equity;SXXP Index;24.2.2022;Semiconductors & Semiconductor Equipment;-5;5;-11;120
+10094;BEZ LN Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10095;BG AV Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10096;BILL SS Equity;SXXP Index;24.2.2022;Containers & Packaging;-5;5;-11;120
+10097;BIM FP Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10098;BIRG ID Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10099;BKG LN Equity;SXXP Index;24.2.2022;Household Durables;-5;5;-11;120
+10100;BKT SQ Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10101;BLND LN Equity;SXXP Index;24.2.2022;Diversified REITs;-5;5;-11;120
+10102;BME LN Equity;SXXP Index;24.2.2022;Broadline Retail;-5;5;-11;120
+10103;BMW GY Equity;SXXP Index;24.2.2022;Automobiles;-5;5;-11;120
+10104;BN FP Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10105;BNP FP Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10106;BNR GY Equity;SXXP Index;24.2.2022;Trading Companies & Distributors;-5;5;-11;120
+10107;BNZL LN Equity;SXXP Index;24.2.2022;Trading Companies & Distributors;-5;5;-11;120
+10108;BOL FP Equity;SXXP Index;24.2.2022;Oil, Gas & Consumable Fuels;-5;5;-11;120
+10109;BOL SS Equity;SXXP Index;24.2.2022;Metals & Mining;-5;5;-11;120
+10110;BOSS GY Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10111;BP/ LN Equity;SXXP Index;24.2.2022;Oil, Gas & Consumable Fuels;-5;5;-11;120
+10112;BPT LN Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10113;BRBY LN Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10114;BT/A LN Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10115;BTRW LN Equity;SXXP Index;24.2.2022;Household Durables;-5;5;-11;120
+10116;BUCN SE Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10117;BVI FP Equity;SXXP Index;24.2.2022;Professional Services;-5;5;-11;120
+10118;BVIC LN Equity;SXXP Index;24.2.2022;Beverages;-5;5;-11;120
+10119;BWY LN Equity;SXXP Index;24.2.2022;Household Durables;-5;5;-11;120
+10120;BYG LN Equity;SXXP Index;24.2.2022;Specialized REITs;-5;5;-11;120
+10121;CA FP Equity;SXXP Index;24.2.2022;Consumer Staples Distribution & Retail;-5;5;-11;120
+10122;CABK SQ Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10123;CAP FP Equity;SXXP Index;24.2.2022;IT Services;-5;5;-11;120
+10124;CARLB DC Equity;SXXP Index;24.2.2022;Beverages;-5;5;-11;120
+10125;CAST SS Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10126;CBG LN Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10127;CBK GY Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10128;CCH LN Equity;SXXP Index;24.2.2022;Beverages;-5;5;-11;120
+10129;CDI FP Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10130;CDR PW Equity;SXXP Index;24.2.2022;Entertainment;-5;5;-11;120
+10131;CFR SE Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10132;CHR DC Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10133;CLN SE Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10134;CLNX SQ Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10135;CNA LN Equity;SXXP Index;24.2.2022;Multi-Utilities;-5;5;-11;120
+10136;CNP FP Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10137;COFB BB Equity;SXXP Index;24.2.2022;Health Care REITs;-5;5;-11;120
+10138;COL SQ Equity;SXXP Index;24.2.2022;Office REITs;-5;5;-11;120
+10139;COLOB DC Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10140;COLR BB Equity;SXXP Index;24.2.2022;Consumer Staples Distribution & Retail;-5;5;-11;120
+10141;CON GY Equity;SXXP Index;24.2.2022;Automobile Components;-5;5;-11;120
+10142;COV FP Equity;SXXP Index;24.2.2022;Diversified REITs;-5;5;-11;120
+10143;CPG LN Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10144;CPR IM Equity;SXXP Index;24.2.2022;Beverages;-5;5;-11;120
+10145;CRDA LN Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10146;CRH ID Equity;SXXP Index;24.2.2022;Construction Materials;-5;5;-11;120
+10147;CS FP Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10148;CSGN SE Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10149;CSP LN Equity;SXXP Index;24.2.2022;Household Durables;-5;5;-11;120
+10150;CTEC LN Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10151;DANSKE DC Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10152;DB1 GY Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10153;DBK GY Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10154;DCC LN Equity;SXXP Index;24.2.2022;Oil, Gas & Consumable Fuels;-5;5;-11;120
+10155;DEMANT DC Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10156;DG FP Equity;SXXP Index;24.2.2022;Construction & Engineering;-5;5;-11;120
+10157;DGE LN Equity;SXXP Index;24.2.2022;Beverages;-5;5;-11;120
+10158;DHER GY Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10159;DHL GY Equity;SXXP Index;24.2.2022;Air Freight & Logistics;-5;5;-11;120
+10160;DIA IM Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10161;DIE BB Equity;SXXP Index;24.2.2022;Distributors;-5;5;-11;120
+10162;DIM FP Equity;SXXP Index;24.2.2022;Life Sciences Tools & Services;-5;5;-11;120
+10163;DLG LN Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10164;DLN LN Equity;SXXP Index;24.2.2022;Office REITs;-5;5;-11;120
+10165;DNB NO Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10166;DNP PW Equity;SXXP Index;24.2.2022;Consumer Staples Distribution & Retail;-5;5;-11;120
+10167;DOCM SE Equity;SXXP Index;24.2.2022;Consumer Staples Distribution & Retail;-5;5;-11;120
+10168;DOCS LN Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10169;DOM SS Equity;SXXP Index;24.2.2022;Automobile Components;-5;5;-11;120
+10170;DPH LN Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10171;DPLM LN Equity;SXXP Index;24.2.2022;Trading Companies & Distributors;-5;5;-11;120
+10172;DRX LN Equity;SXXP Index;24.2.2022;Independent Power and Renewable Electricity Producers;-5;5;-11;120
+10173;DSM NA Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10174;DSV DC Equity;SXXP Index;24.2.2022;Air Freight & Logistics;-5;5;-11;120
+10175;DSY FP Equity;SXXP Index;24.2.2022;Software;-5;5;-11;120
+10176;DTE GY Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10177;DTG GY Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10178;EBS AV Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10179;EDEN FP Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10180;EDF FP Equity;SXXP Index;24.2.2022;Electric Utilities;-5;5;-11;120
+10181;EDP PL Equity;SXXP Index;24.2.2022;Electric Utilities;-5;5;-11;120
+10182;EDPR PL Equity;SXXP Index;24.2.2022;Independent Power and Renewable Electricity Producers;-5;5;-11;120
+10183;EKTAB SS Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10184;EL FP Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10185;ELE SQ Equity;SXXP Index;24.2.2022;Electric Utilities;-5;5;-11;120
+10186;ELI BB Equity;SXXP Index;24.2.2022;Electric Utilities;-5;5;-11;120
+10187;ELIS FP Equity;SXXP Index;24.2.2022;Commercial Services & Supplies;-5;5;-11;120
+10188;ELISA FH Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10189;ELUXB SS Equity;SXXP Index;24.2.2022;Household Durables;-5;5;-11;120
+10190;EMEIS FP Equity;SXXP Index;24.2.2022;Health Care Providers & Services;-5;5;-11;120
+10191;EMG LN Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10192;EMSN SE Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10193;EN FP Equity;SXXP Index;24.2.2022;Construction & Engineering;-5;5;-11;120
+10194;ENEL IM Equity;SXXP Index;24.2.2022;Electric Utilities;-5;5;-11;120
+10195;ENG SQ Equity;SXXP Index;24.2.2022;Gas Utilities;-5;5;-11;120
+10196;ENGI FP Equity;SXXP Index;24.2.2022;Multi-Utilities;-5;5;-11;120
+10197;ENI IM Equity;SXXP Index;24.2.2022;Oil, Gas & Consumable Fuels;-5;5;-11;120
+10198;ENR GY Equity;SXXP Index;24.2.2022;Electrical Equipment;-5;5;-11;120
+10199;ENT LN Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10200;ENX FP Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10201;EOAN GY Equity;SXXP Index;24.2.2022;Multi-Utilities;-5;5;-11;120
+10202;EPIA SS Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10203;EQNR NO Equity;SXXP Index;24.2.2022;Oil, Gas & Consumable Fuels;-5;5;-11;120
+10204;EQT SS Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10205;ERF FP Equity;SXXP Index;24.2.2022;Life Sciences Tools & Services;-5;5;-11;120
+10206;ERICB SS Equity;SXXP Index;24.2.2022;Communications Equipment;-5;5;-11;120
+10207;ESSITYB SS Equity;SXXP Index;24.2.2022;Household Products;-5;5;-11;120
+10208;EVD GY Equity;SXXP Index;24.2.2022;Entertainment;-5;5;-11;120
+10209;EVK GY Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10210;EVO SS Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10211;EVT GY Equity;SXXP Index;24.2.2022;Life Sciences Tools & Services;-5;5;-11;120
+10212;EXO IM Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10213;EXPN LN Equity;SXXP Index;24.2.2022;Professional Services;-5;5;-11;120
+10214;FABG SS Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10215;FBK IM Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10216;FDJU FP Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10217;FDR SQ Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10218;FER SQ Equity;SXXP Index;24.2.2022;Construction & Engineering;-5;5;-11;120
+10219;FGR FP Equity;SXXP Index;24.2.2022;Construction & Engineering;-5;5;-11;120
+10220;FHZN SE Equity;SXXP Index;24.2.2022;Transportation Infrastructure;-5;5;-11;120
+10221;FLTR ID Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10222;FME GY Equity;SXXP Index;24.2.2022;Health Care Providers & Services;-5;5;-11;120
+10223;FNTN GY Equity;SXXP Index;24.2.2022;Wireless Telecommunication Services;-5;5;-11;120
+10224;FORTUM FH Equity;SXXP Index;24.2.2022;Electric Utilities;-5;5;-11;120
+10225;FPE3 GY Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10226;FR FP Equity;SXXP Index;24.2.2022;Automobile Components;-5;5;-11;120
+10227;FRE GY Equity;SXXP Index;24.2.2022;Health Care Providers & Services;-5;5;-11;120
+10228;FRVIA FP Equity;SXXP Index;24.2.2022;Automobile Components;-5;5;-11;120
+10229;FUTR LN Equity;SXXP Index;24.2.2022;Media;-5;5;-11;120
+10230;G IM Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10231;G1A GY Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10232;G24 GY Equity;SXXP Index;24.2.2022;Interactive Media & Services;-5;5;-11;120
+10233;GALE SE Equity;SXXP Index;24.2.2022;Health Care Providers & Services;-5;5;-11;120
+10234;GALP PL Equity;SXXP Index;24.2.2022;Oil, Gas & Consumable Fuels;-5;5;-11;120
+10235;GAW LN Equity;SXXP Index;24.2.2022;Leisure Products;-5;5;-11;120
+10236;GBLB BB Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10237;GEBN SE Equity;SXXP Index;24.2.2022;Building Products;-5;5;-11;120
+10238;GET FP Equity;SXXP Index;24.2.2022;Transportation Infrastructure;-5;5;-11;120
+10239;GETIB SS Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10240;GF SE Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10241;GFC FP Equity;SXXP Index;24.2.2022;Office REITs;-5;5;-11;120
+10242;GFTU LN Equity;SXXP Index;24.2.2022;Trading Companies & Distributors;-5;5;-11;120
+10243;GIVN SE Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10244;GJF NO Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10245;GLB ID Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10246;GLE FP Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10247;GLEN LN Equity;SXXP Index;24.2.2022;Metals & Mining;-5;5;-11;120
+10248;GMAB DC Equity;SXXP Index;24.2.2022;Biotechnology;-5;5;-11;120
+10249;GN DC Equity;SXXP Index;24.2.2022;Household Durables;-5;5;-11;120
+10250;GNS LN Equity;SXXP Index;24.2.2022;Biotechnology;-5;5;-11;120
+10251;GRF SQ Equity;SXXP Index;24.2.2022;Biotechnology;-5;5;-11;120
+10252;GRG LN Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10253;GSK LN Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10254;GXI GY Equity;SXXP Index;24.2.2022;Life Sciences Tools & Services;-5;5;-11;120
+10255;HAS LN Equity;SXXP Index;24.2.2022;Professional Services;-5;5;-11;120
+10256;HBAN SE Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10257;HEI GY Equity;SXXP Index;24.2.2022;Construction Materials;-5;5;-11;120
+10258;HEIA NA Equity;SXXP Index;24.2.2022;Beverages;-5;5;-11;120
+10259;HEIO NA Equity;SXXP Index;24.2.2022;Beverages;-5;5;-11;120
+10260;HEN3 GY Equity;SXXP Index;24.2.2022;Household Products;-5;5;-11;120
+10261;HER IM Equity;SXXP Index;24.2.2022;Multi-Utilities;-5;5;-11;120
+10262;HEXAB SS Equity;SXXP Index;24.2.2022;Electronic Equipment, Instruments & Components;-5;5;-11;120
+10263;HFG GY Equity;SXXP Index;24.2.2022;Consumer Staples Distribution & Retail;-5;5;-11;120
+10264;HIK LN Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10265;HL/ LN Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10266;HLMA LN Equity;SXXP Index;24.2.2022;Electronic Equipment, Instruments & Components;-5;5;-11;120
+10267;HMB SS Equity;SXXP Index;24.2.2022;Specialty Retail;-5;5;-11;120
+10268;HNR1 GY Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10269;HO FP Equity;SXXP Index;24.2.2022;Aerospace & Defense;-5;5;-11;120
+10270;HOLMB SS Equity;SXXP Index;24.2.2022;Paper & Forest Products;-5;5;-11;120
+10271;HOLN SE Equity;SXXP Index;24.2.2022;Construction Materials;-5;5;-11;120
+10272;HPOLB SS Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10273;HSBA LN Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10274;HSV LN Equity;SXXP Index;24.2.2022;Commercial Services & Supplies;-5;5;-11;120
+10275;HSX LN Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10276;HUH1V FH Equity;SXXP Index;24.2.2022;Containers & Packaging;-5;5;-11;120
+10277;HUSQB SS Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10278;HWDN LN Equity;SXXP Index;24.2.2022;Trading Companies & Distributors;-5;5;-11;120
+10279;IAG LN Equity;SXXP Index;24.2.2022;Passenger Airlines;-5;5;-11;120
+10280;IBE SQ Equity;SXXP Index;24.2.2022;Electric Utilities;-5;5;-11;120
+10281;ICG LN Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10282;IDS LN Equity;SXXP Index;24.2.2022;Air Freight & Logistics;-5;5;-11;120
+10283;IFX GY Equity;SXXP Index;24.2.2022;Semiconductors & Semiconductor Equipment;-5;5;-11;120
+10284;IG IM Equity;SXXP Index;24.2.2022;Gas Utilities;-5;5;-11;120
+10285;IGG LN Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10286;IHG LN Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10287;III LN Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10288;IMB LN Equity;SXXP Index;24.2.2022;Tobacco;-5;5;-11;120
+10289;IMCD NA Equity;SXXP Index;24.2.2022;Trading Companies & Distributors;-5;5;-11;120
+10290;IMI LN Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10291;INCH LN Equity;SXXP Index;24.2.2022;Distributors;-5;5;-11;120
+10292;INDT SS Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10293;INDUA SS Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10294;INF LN Equity;SXXP Index;24.2.2022;Media;-5;5;-11;120
+10295;INGA NA Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10296;INPST NA Equity;SXXP Index;24.2.2022;Air Freight & Logistics;-5;5;-11;120
+10297;INRN SE Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10298;INVEB SS Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10299;INVP LN Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10300;INW IM Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10301;IP IM Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10302;IPN FP Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10303;ISP IM Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10304;ISS DC Equity;SXXP Index;24.2.2022;Commercial Services & Supplies;-5;5;-11;120
+10305;ITRK LN Equity;SXXP Index;24.2.2022;Professional Services;-5;5;-11;120
+10306;ITV LN Equity;SXXP Index;24.2.2022;Media;-5;5;-11;120
+10307;ITX SQ Equity;SXXP Index;24.2.2022;Specialty Retail;-5;5;-11;120
+10308;IVG IM Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10309;IWG LN Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10310;JD/ LN Equity;SXXP Index;24.2.2022;Specialty Retail;-5;5;-11;120
+10311;JDEP NA Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10312;JMAT LN Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10313;JMT PL Equity;SXXP Index;24.2.2022;Consumer Staples Distribution & Retail;-5;5;-11;120
+10314;KBC BB Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10315;KBX GY Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10316;KER FP Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10317;KESKOB FH Equity;SXXP Index;24.2.2022;Consumer Staples Distribution & Retail;-5;5;-11;120
+10318;KGF LN Equity;SXXP Index;24.2.2022;Specialty Retail;-5;5;-11;120
+10319;KGH PW Equity;SXXP Index;24.2.2022;Metals & Mining;-5;5;-11;120
+10320;KGX GY Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10321;KINDSDB SS Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10322;KINVB SS Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10323;KNEBV FH Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10324;KNIN SE Equity;SXXP Index;24.2.2022;Marine Transportation;-5;5;-11;120
+10325;KPN NA Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10326;KSP ID Equity;SXXP Index;24.2.2022;Building Products;-5;5;-11;120
+10327;KYGA ID Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10328;LAND LN Equity;SXXP Index;24.2.2022;Diversified REITs;-5;5;-11;120
+10329;LATOB SS Equity;SXXP Index;24.2.2022;Industrial Conglomerates;-5;5;-11;120
+10330;LDO IM Equity;SXXP Index;24.2.2022;Aerospace & Defense;-5;5;-11;120
+10331;LEG GY Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10332;LGEN LN Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10333;LHA GY Equity;SXXP Index;24.2.2022;Passenger Airlines;-5;5;-11;120
+10334;LI FP Equity;SXXP Index;24.2.2022;Retail REITs;-5;5;-11;120
+10335;LIFCOB SS Equity;SXXP Index;24.2.2022;Industrial Conglomerates;-5;5;-11;120
+10336;LIGHT NA Equity;SXXP Index;24.2.2022;Electrical Equipment;-5;5;-11;120
+10337;LIN GY Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10338;LISN SE Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10339;LLOY LN Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10340;LMP LN Equity;SXXP Index;24.2.2022;Industrial REITs;-5;5;-11;120
+10341;LOGN SE Equity;SXXP Index;24.2.2022;Technology Hardware, Storage & Peripherals;-5;5;-11;120
+10342;LONN SE Equity;SXXP Index;24.2.2022;Life Sciences Tools & Services;-5;5;-11;120
+10343;LPP PW Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10344;LR FP Equity;SXXP Index;24.2.2022;Electrical Equipment;-5;5;-11;120
+10345;LSEG LN Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10346;LUMO FH Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10347;LUNDB SS Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10348;LXS GY Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10349;MAERSKB DC Equity;SXXP Index;24.2.2022;Marine Transportation;-5;5;-11;120
+10350;MB IM Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10351;MBG GY Equity;SXXP Index;24.2.2022;Automobiles;-5;5;-11;120
+10352;MC FP Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10353;METSO FH Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10354;MF FP Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10355;MGGT LN Equity;SXXP Index;24.2.2022;Aerospace & Defense;-5;5;-11;120
+10356;MIPS SS Equity;SXXP Index;24.2.2022;Leisure Products;-5;5;-11;120
+10357;MKS LN Equity;SXXP Index;24.2.2022;Consumer Staples Distribution & Retail;-5;5;-11;120
+10358;ML FP Equity;SXXP Index;24.2.2022;Automobile Components;-5;5;-11;120
+10359;MNDI LN Equity;SXXP Index;24.2.2022;Paper & Forest Products;-5;5;-11;120
+10360;MNG LN Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10361;MONC IM Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10362;MOWI NO Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10363;MRK GY Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10364;MRL SQ Equity;SXXP Index;24.2.2022;Diversified REITs;-5;5;-11;120
+10365;MRO LN Equity;SXXP Index;24.2.2022;Aerospace & Defense;-5;5;-11;120
+10366;MT NA Equity;SXXP Index;24.2.2022;Metals & Mining;-5;5;-11;120
+10367;MTX GY Equity;SXXP Index;24.2.2022;Aerospace & Defense;-5;5;-11;120
+10368;MUV2 GY Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10369;NDA FH Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10370;NEM GY Equity;SXXP Index;24.2.2022;Software;-5;5;-11;120
+10371;NESN SE Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10372;NESTE FH Equity;SXXP Index;24.2.2022;Oil, Gas & Consumable Fuels;-5;5;-11;120
+10373;NETC DC Equity;SXXP Index;24.2.2022;IT Services;-5;5;-11;120
+10374;NEXI IM Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10375;NG/ LN Equity;SXXP Index;24.2.2022;Multi-Utilities;-5;5;-11;120
+10376;NHY NO Equity;SXXP Index;24.2.2022;Metals & Mining;-5;5;-11;120
+10377;NIBEB SS Equity;SXXP Index;24.2.2022;Building Products;-5;5;-11;120
+10378;NN NA Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10379;NOD NO Equity;SXXP Index;24.2.2022;Semiconductors & Semiconductor Equipment;-5;5;-11;120
+10380;NOKIA FH Equity;SXXP Index;24.2.2022;Communications Equipment;-5;5;-11;120
+10381;NOVN SE Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10382;NOVOB DC Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10383;NSISB DC Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10384;NTGY SQ Equity;SXXP Index;24.2.2022;Gas Utilities;-5;5;-11;120
+10385;NWG LN Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10386;NXT LN Equity;SXXP Index;24.2.2022;Broadline Retail;-5;5;-11;120
+10387;OCDO LN Equity;SXXP Index;24.2.2022;Consumer Staples Distribution & Retail;-5;5;-11;120
+10388;OMV AV Equity;SXXP Index;24.2.2022;Oil, Gas & Consumable Fuels;-5;5;-11;120
+10389;ONT LN Equity;SXXP Index;24.2.2022;Life Sciences Tools & Services;-5;5;-11;120
+10390;OR FP Equity;SXXP Index;24.2.2022;Personal Care Products;-5;5;-11;120
+10391;ORA FP Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10392;ORK NO Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10393;ORNBV FH Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10394;ORRON SS Equity;SXXP Index;24.2.2022;Independent Power and Renewable Electricity Producers;-5;5;-11;120
+10395;ORSTED DC Equity;SXXP Index;24.2.2022;Independent Power and Renewable Electricity Producers;-5;5;-11;120
+10396;PAH3 GY Equity;SXXP Index;24.2.2022;Automobiles;-5;5;-11;120
+10397;PEO PW Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10398;PGHN SE Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10399;PHIA NA Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10400;PHP LN Equity;SXXP Index;24.2.2022;Health Care REITs;-5;5;-11;120
+10401;PKN PW Equity;SXXP Index;24.2.2022;Oil, Gas & Consumable Fuels;-5;5;-11;120
+10402;PKO PW Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10403;PNDORA DC Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10404;PNN LN Equity;SXXP Index;24.2.2022;Water Utilities;-5;5;-11;120
+10405;POLY LN Equity;SXXP Index;24.2.2022;Metals & Mining;-5;5;-11;120
+10406;PROX BB Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10407;PRU LN Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10408;PRX NA Equity;SXXP Index;24.2.2022;Broadline Retail;-5;5;-11;120
+10409;PRY IM Equity;SXXP Index;24.2.2022;Electrical Equipment;-5;5;-11;120
+10410;PSM GY Equity;SXXP Index;24.2.2022;Media;-5;5;-11;120
+10411;PSN LN Equity;SXXP Index;24.2.2022;Household Durables;-5;5;-11;120
+10412;PSON LN Equity;SXXP Index;24.2.2022;Diversified Consumer Services;-5;5;-11;120
+10413;PSPN SE Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10414;PST IM Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10415;PUB FP Equity;SXXP Index;24.2.2022;Media;-5;5;-11;120
+10416;PUM GY Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10417;PZU PW Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10418;QIA GY Equity;SXXP Index;24.2.2022;Life Sciences Tools & Services;-5;5;-11;120
+10419;QLT LN Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10420;QTCOM FH Equity;SXXP Index;24.2.2022;Software;-5;5;-11;120
+10421;RAA GY Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10422;RACE IM Equity;SXXP Index;24.2.2022;Automobiles;-5;5;-11;120
+10423;RAND NA Equity;SXXP Index;24.2.2022;Professional Services;-5;5;-11;120
+10424;RBI AV Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10425;RBREW DC Equity;SXXP Index;24.2.2022;Beverages;-5;5;-11;120
+10426;RCO FP Equity;SXXP Index;24.2.2022;Beverages;-5;5;-11;120
+10427;REC IM Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10428;RED SQ Equity;SXXP Index;24.2.2022;Electric Utilities;-5;5;-11;120
+10429;REL LN Equity;SXXP Index;24.2.2022;Professional Services;-5;5;-11;120
+10430;REP SQ Equity;SXXP Index;24.2.2022;Oil, Gas & Consumable Fuels;-5;5;-11;120
+10431;REY IM Equity;SXXP Index;24.2.2022;IT Services;-5;5;-11;120
+10432;RF FP Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10433;RHM GY Equity;SXXP Index;24.2.2022;Aerospace & Defense;-5;5;-11;120
+10434;RI FP Equity;SXXP Index;24.2.2022;Beverages;-5;5;-11;120
+10435;RILBA DC Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10436;RIO LN Equity;SXXP Index;24.2.2022;Metals & Mining;-5;5;-11;120
+10437;RKT LN Equity;SXXP Index;24.2.2022;Household Products;-5;5;-11;120
+10438;RMS FP Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10439;RMV LN Equity;SXXP Index;24.2.2022;Interactive Media & Services;-5;5;-11;120
+10440;RNO FP Equity;SXXP Index;24.2.2022;Automobiles;-5;5;-11;120
+10441;ROCKB DC Equity;SXXP Index;24.2.2022;Building Products;-5;5;-11;120
+10442;ROG SE Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10443;ROO LN Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10444;ROR LN Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10445;RR/ LN Equity;SXXP Index;24.2.2022;Aerospace & Defense;-5;5;-11;120
+10446;RS1 LN Equity;SXXP Index;24.2.2022;Trading Companies & Distributors;-5;5;-11;120
+10447;RTO LN Equity;SXXP Index;24.2.2022;Commercial Services & Supplies;-5;5;-11;120
+10448;RUI FP Equity;SXXP Index;24.2.2022;Gas Utilities;-5;5;-11;120
+10449;RWE GY Equity;SXXP Index;24.2.2022;Independent Power and Renewable Electricity Producers;-5;5;-11;120
+10450;RXL FP Equity;SXXP Index;24.2.2022;Trading Companies & Distributors;-5;5;-11;120
+10451;RYA ID Equity;SXXP Index;24.2.2022;Passenger Airlines;-5;5;-11;120
+10452;SAB SQ Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10453;SAF FP Equity;SXXP Index;24.2.2022;Aerospace & Defense;-5;5;-11;120
+10454;SAFE LN Equity;SXXP Index;24.2.2022;Specialized REITs;-5;5;-11;120
+10455;SAGAB SS Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10456;SALM NO Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10457;SAMPO FH Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10458;SAN FP Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10459;SAN SQ Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10460;SAND SS Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10461;SAP GY Equity;SXXP Index;24.2.2022;Software;-5;5;-11;120
+10462;SBBB SS Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10463;SBRY LN Equity;SXXP Index;24.2.2022;Consumer Staples Distribution & Retail;-5;5;-11;120
+10464;SCAB SS Equity;SXXP Index;24.2.2022;Paper & Forest Products;-5;5;-11;120
+10465;SCHP SE Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10466;SCMN SE Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10467;SCR FP Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10468;SCT LN Equity;SXXP Index;24.2.2022;IT Services;-5;5;-11;120
+10469;SDF GY Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10470;SDLF LN Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10471;SDR LN Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10472;SEBA SS Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10473;SECTB SS Equity;SXXP Index;24.2.2022;Health Care Technology;-5;5;-11;120
+10474;SECUB SS Equity;SXXP Index;24.2.2022;Commercial Services & Supplies;-5;5;-11;120
+10475;SESG FP Equity;SXXP Index;24.2.2022;Media;-5;5;-11;120
+10476;SFOR LN Equity;SXXP Index;24.2.2022;Media;-5;5;-11;120
+10477;SFZN SE Equity;SXXP Index;24.2.2022;Life Sciences Tools & Services;-5;5;-11;120
+10478;SGE LN Equity;SXXP Index;24.2.2022;Software;-5;5;-11;120
+10479;SGO FP Equity;SXXP Index;24.2.2022;Building Products;-5;5;-11;120
+10480;SGRE SQ Equity;SXXP Index;24.2.2022;Electrical Equipment;-5;5;-11;120
+10481;SGRO LN Equity;SXXP Index;24.2.2022;Industrial REITs;-5;5;-11;120
+10482;SGSN SE Equity;SXXP Index;24.2.2022;Professional Services;-5;5;-11;120
+10483;SHBA SS Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10484;SHELL NA Equity;SXXP Index;24.2.2022;Oil, Gas & Consumable Fuels;-5;5;-11;120
+10485;SHL GY Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10486;SIE GY Equity;SXXP Index;24.2.2022;Industrial Conglomerates;-5;5;-11;120
+10487;SIGN SE Equity;SXXP Index;24.2.2022;Containers & Packaging;-5;5;-11;120
+10488;SIKA SE Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10489;SIM DC Equity;SXXP Index;24.2.2022;Software;-5;5;-11;120
+10490;SINCH SS Equity;SXXP Index;24.2.2022;Software;-5;5;-11;120
+10491;SK FP Equity;SXXP Index;24.2.2022;Household Durables;-5;5;-11;120
+10492;SKAB SS Equity;SXXP Index;24.2.2022;Construction & Engineering;-5;5;-11;120
+10493;SKFB SS Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10494;SKG ID Equity;SXXP Index;24.2.2022;Containers & Packaging;-5;5;-11;120
+10495;SLHN SE Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10496;SMDS LN Equity;SXXP Index;24.2.2022;Containers & Packaging;-5;5;-11;120
+10497;SMIN LN Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10498;SN/ LN Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10499;SOBI SS Equity;SXXP Index;24.2.2022;Biotechnology;-5;5;-11;120
+10500;SOF BB Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10501;SOI FP Equity;SXXP Index;24.2.2022;Semiconductors & Semiconductor Equipment;-5;5;-11;120
+10502;SOLB BB Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10503;SOON SE Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10504;SOP FP Equity;SXXP Index;24.2.2022;IT Services;-5;5;-11;120
+10505;SPIE FP Equity;SXXP Index;24.2.2022;Commercial Services & Supplies;-5;5;-11;120
+10506;SPSN SE Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10507;SPX LN Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10508;SREN SE Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10509;SRG IM Equity;SXXP Index;24.2.2022;Gas Utilities;-5;5;-11;120
+10510;SRT3 GY Equity;SXXP Index;24.2.2022;Life Sciences Tools & Services;-5;5;-11;120
+10511;SSE LN Equity;SXXP Index;24.2.2022;Electric Utilities;-5;5;-11;120
+10512;STAN LN Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10513;STB NO Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10514;STERV FH Equity;SXXP Index;24.2.2022;Paper & Forest Products;-5;5;-11;120
+10515;STJ LN Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10516;STLAM IM Equity;SXXP Index;24.2.2022;Automobiles;-5;5;-11;120
+10517;STMMI IM Equity;SXXP Index;24.2.2022;Semiconductors & Semiconductor Equipment;-5;5;-11;120
+10518;STMN SE Equity;SXXP Index;24.2.2022;Health Care Equipment & Supplies;-5;5;-11;120
+10519;STORB SS Equity;SXXP Index;24.2.2022;Industrial Conglomerates;-5;5;-11;120
+10520;SU FP Equity;SXXP Index;24.2.2022;Electrical Equipment;-5;5;-11;120
+10521;SVT LN Equity;SXXP Index;24.2.2022;Water Utilities;-5;5;-11;120
+10522;SW FP Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10523;SWECB SS Equity;SXXP Index;24.2.2022;Construction & Engineering;-5;5;-11;120
+10524;SWEDA SS Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10525;SWMA SS Equity;SXXP Index;24.2.2022;Tobacco;-5;5;-11;120
+10526;SXS LN Equity;SXXP Index;24.2.2022;Electronic Equipment, Instruments & Components;-5;5;-11;120
+10527;SY1 GY Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10528;TATE LN Equity;SXXP Index;24.2.2022;Food Products;-5;5;-11;120
+10529;TECN SE Equity;SXXP Index;24.2.2022;Life Sciences Tools & Services;-5;5;-11;120
+10530;TEF SQ Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10531;TEG GY Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10532;TEL NO Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10533;TEL2B SS Equity;SXXP Index;24.2.2022;Wireless Telecommunication Services;-5;5;-11;120
+10534;TELIA SS Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10535;TEMN SE Equity;SXXP Index;24.2.2022;Software;-5;5;-11;120
+10536;TEN IM Equity;SXXP Index;24.2.2022;Energy Equipment & Services;-5;5;-11;120
+10537;TEP FP Equity;SXXP Index;24.2.2022;Professional Services;-5;5;-11;120
+10538;THULE SS Equity;SXXP Index;24.2.2022;Leisure Products;-5;5;-11;120
+10539;TIGO SS Equity;SXXP Index;24.2.2022;Wireless Telecommunication Services;-5;5;-11;120
+10540;TIT IM Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10541;TKA GY Equity;SXXP Index;24.2.2022;Metals & Mining;-5;5;-11;120
+10542;TKWY NA Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10543;TOM NO Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10544;TPK LN Equity;SXXP Index;24.2.2022;Trading Companies & Distributors;-5;5;-11;120
+10545;TRELB SS Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10546;TRN IM Equity;SXXP Index;24.2.2022;Electric Utilities;-5;5;-11;120
+10547;TRYG DC Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120
+10548;TSCO LN Equity;SXXP Index;24.2.2022;Consumer Staples Distribution & Retail;-5;5;-11;120
+10549;TTE FP Equity;SXXP Index;24.2.2022;Oil, Gas & Consumable Fuels;-5;5;-11;120
+10550;TUI LN Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10551;TW/ LN Equity;SXXP Index;24.2.2022;Household Durables;-5;5;-11;120
+10552;TYRES FH Equity;SXXP Index;24.2.2022;Automobile Components;-5;5;-11;120
+10553;UBI FP Equity;SXXP Index;24.2.2022;Entertainment;-5;5;-11;120
+10554;UBSG SE Equity;SXXP Index;24.2.2022;Capital Markets;-5;5;-11;120
+10555;UCB BB Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10556;UCG IM Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10557;UHR SE Equity;SXXP Index;24.2.2022;Textiles, Apparel & Luxury Goods;-5;5;-11;120
+10558;ULVR LN Equity;SXXP Index;24.2.2022;Personal Care Products;-5;5;-11;120
+10559;UMG NA Equity;SXXP Index;24.2.2022;Entertainment;-5;5;-11;120
+10560;UMI BB Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10561;UN0 GY Equity;SXXP Index;24.2.2022;Independent Power and Renewable Electricity Producers;-5;5;-11;120
+10562;UPM FH Equity;SXXP Index;24.2.2022;Paper & Forest Products;-5;5;-11;120
+10563;URW NA Equity;SXXP Index;24.2.2022;Retail REITs;-5;5;-11;120
+10564;UTDI GY Equity;SXXP Index;24.2.2022;Diversified Telecommunication Services;-5;5;-11;120
+10565;UTG LN Equity;SXXP Index;24.2.2022;Residential REITs;-5;5;-11;120
+10566;UU/ LN Equity;SXXP Index;24.2.2022;Water Utilities;-5;5;-11;120
+10567;VACN SE Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10568;VALMT FH Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10569;VCT LN Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10570;VENDA NO Equity;SXXP Index;24.2.2022;Interactive Media & Services;-5;5;-11;120
+10571;VER AV Equity;SXXP Index;24.2.2022;Electric Utilities;-5;5;-11;120
+10572;VIE FP Equity;SXXP Index;24.2.2022;Multi-Utilities;-5;5;-11;120
+10573;VIFN SE Equity;SXXP Index;24.2.2022;Pharmaceuticals;-5;5;-11;120
+10574;VITR SS Equity;SXXP Index;24.2.2022;Biotechnology;-5;5;-11;120
+10575;VIV FP Equity;SXXP Index;24.2.2022;Entertainment;-5;5;-11;120
+10576;VMUK LN Equity;SXXP Index;24.2.2022;Banks;-5;5;-11;120
+10577;VNA GY Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10578;VOD LN Equity;SXXP Index;24.2.2022;Wireless Telecommunication Services;-5;5;-11;120
+10579;VOE AV Equity;SXXP Index;24.2.2022;Metals & Mining;-5;5;-11;120
+10580;VOLCARB SS Equity;SXXP Index;24.2.2022;Automobiles;-5;5;-11;120
+10581;VOLVB SS Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10582;VOW3 GY Equity;SXXP Index;24.2.2022;Automobiles;-5;5;-11;120
+10583;VPLAYB SS Equity;SXXP Index;24.2.2022;Media;-5;5;-11;120
+10584;VTY LN Equity;SXXP Index;24.2.2022;Household Durables;-5;5;-11;120
+10585;VWS DC Equity;SXXP Index;24.2.2022;Electrical Equipment;-5;5;-11;120
+10586;WALLB SS Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10587;WDP BB Equity;SXXP Index;24.2.2022;Industrial REITs;-5;5;-11;120
+10588;WEIR LN Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10589;WIE AV Equity;SXXP Index;24.2.2022;Construction Materials;-5;5;-11;120
+10590;WIHL SS Equity;SXXP Index;24.2.2022;Real Estate Management & Development;-5;5;-11;120
+10591;WIZZ LN Equity;SXXP Index;24.2.2022;Passenger Airlines;-5;5;-11;120
+10592;WKL NA Equity;SXXP Index;24.2.2022;Professional Services;-5;5;-11;120
+10593;WLN FP Equity;SXXP Index;24.2.2022;Financial Services;-5;5;-11;120
+10594;WOSG LN Equity;SXXP Index;24.2.2022;Specialty Retail;-5;5;-11;120
+10595;WPP LN Equity;SXXP Index;24.2.2022;Media;-5;5;-11;120
+10596;WRT1V FH Equity;SXXP Index;24.2.2022;Machinery;-5;5;-11;120
+10597;WTB LN Equity;SXXP Index;24.2.2022;Hotels, Restaurants & Leisure;-5;5;-11;120
+10598;YAR NO Equity;SXXP Index;24.2.2022;Chemicals;-5;5;-11;120
+10599;ZAL GY Equity;SXXP Index;24.2.2022;Specialty Retail;-5;5;-11;120
+10600;ZURN SE Equity;SXXP Index;24.2.2022;Insurance;-5;5;-11;120

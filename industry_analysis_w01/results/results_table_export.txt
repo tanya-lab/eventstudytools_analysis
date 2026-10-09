@@ -1,0 +1,1065 @@
+www.eventstudytools.com – Research Apps for Studying Events
+TABLES IN THIS REPORT: AAR, CAAR
+Overarching Analysis Parameters:
+    • Expected Return Model: Market Model
+    • Return Type: Log
+    • Adjustment Rule for Non-Trading Days: Take later trading day
+ 
+Total instances of Stock-Events: 599
+Number of sub-samples / groupings: 70
+ 
+---------/// AAR Results of SUB-SAMPLE: Machinery ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.007     37     11:26    -3.232**                             -2.440*     -2.635*                                                                                                
+    0    0.012     37     26:11    4.618***                              2.573*      2.378*                                                                                                
+    1   -0.016     37      5:32   -7.818***                           -7.109***   -6.962***                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Chemicals ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.006     25      19:6     3.191**                              2.372*     3.144**                                                                                                
+    0    0.002     25     15:10      -0.965                               0.297      -0.367                                                                                                
+    1   -0.007     25      9:16    -2.839**                             -2.341*     -2.379*                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Trading Companies & Distributors ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.006     13      1:12      -1.453                             -2.703*     -2.226*                                                                                                
+    0    0.026     13      11:2    6.591***                             3.152**      2.618*                                                                                                
+    1   -0.012     13      2:11    -2.676**                             -2.648*     -2.077$                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Financial Services ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.003     16      4:12      -1.395                              -1.025      -1.349                                                                                                
+    0    0.020     16      13:3    4.722***                              2.485*      2.165*                                                                                                
+    1   -0.021     16      5:11   -4.435***                            -3.279**    -2.955**                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Multi-Utilities ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.006      7       4:3      1.646$                               1.785       1.776                                                                                                
+    0   -0.019      7       1:6   -5.186***                             -3.683*    -3.750**                                                                                                
+    1    0.024      7       7:0    6.420***                            6.863***    7.229***                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Food Products ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.024     14      12:2    8.020***                              2.543*      2.648*                                                                                                
+    0   -0.014     14       5:9      -4.267                             -2.413*     -2.343*                                                                                                
+    1    0.003     14       9:5       1.069                               0.791       0.819                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Metals & Mining ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1      0.0     11       6:5       0.129                               0.064       0.112                                                                                                
+    0   -0.025     11       7:4   -4.035***                              -0.585      -0.537                                                                                                
+    1    0.015     11       5:6     2.592**                               1.183       1.162                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Electrical Equipment ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.001      8       5:3       0.096                               0.461       0.175                                                                                                
+    0    0.063      8       7:1    8.853***                              2.842*     4.497**                                                                                                
+    1   -0.012      8       2:6     -1.995*                              -1.697      -1.681                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Capital Markets ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.004     23     11:12      -0.775                              -1.223      -0.909                                                                                                
+    0   -0.008     23      7:16   -3.989***                              -1.075      -1.490                                                                                                
+    1   -0.009     23      8:15     -2.319*                              -1.290      -1.295                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Beverages ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.005     11       7:4     -1.849$                              -0.547      -0.586                                                                                                
+    0   -0.005     11       3:8      -1.592                              -0.772      -0.882                                                                                                
+    1    0.018     11      11:0    5.208***                            6.012***    6.084***                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Banks ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.008     37     12:25    -3.265**                            -3.144**    -3.041**                                                                                                
+    0   -0.056     37      1:36  -23.659***                           -7.105***   -8.391***                                                                                                
+    1    0.010     37     24:13    3.377***                              2.031*       1.645                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Hotels, Restaurants & Leisure ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.006     16      6:10      -1.039                              -1.386      -1.284                                                                                                
+    0    0.021     16      12:4    3.292***                              2.630*      2.266*                                                                                                
+    1   -0.021     16      1:15   -3.927***                            -3.890**   -4.525***                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Construction & Engineering ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.007      8       3:5      -1.462                              -1.154      -1.084                                                                                                
+    0   -0.009      8       2:6    -2.664**                              -1.822     -2.329$                                                                                                
+    1    0.004      8       5:3       1.541                               0.649       1.021                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Consumer Staples Distribution & Retail ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.001     12       7:5       0.574                              -0.178       0.707                                                                                                
+    0    0.003     12       6:6      -1.246                               0.305      -0.634                                                                                                
+    1    0.007     12       9:3      2.090*                               1.044       1.659                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Interactive Media & Services ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.003      5       2:3      -0.374                              -0.484      -0.536                                                                                                
+    0    0.055      5       5:0    6.316***                              3.304*     5.364**                                                                                                
+    1    0.006      5       4:1       0.696                              2.425$      2.749$                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Professional Services ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.006     12      11:1      2.186*                              1.866$      2.029$                                                                                                
+    0    0.009     12       8:4    3.358***                              1.933$      2.033$                                                                                                
+    1   -0.010     12      2:10    -2.787**                             -2.971*     -2.690*                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Insurance ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.001     29     15:14       0.932                               0.459       0.810                                                                                                
+    0   -0.021     29      6:23  -11.108***                           -5.513***   -5.839***                                                                                                
+    1    0.005     29      21:8      1.817$                               1.262       0.795                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Transportation Infrastructure ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.020      5       0:5   -3.595***                             -3.722*    -4.639**                                                                                                
+    0    0.002      5       3:2       0.247                               0.649       0.506                                                                                                
+    1    0.004      5       3:2       1.220                               0.658       0.930                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Textiles, Apparel & Luxury Goods ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.005     14       9:5      -0.780                              -0.590      -0.505                                                                                                
+    0   -0.023     14       6:8   -3.550***                              -1.062      -1.098                                                                                                
+    1   -0.013     14      4:10   -3.618***                            -3.280**     -2.651*                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Health Care REITs ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.021      3       3:0     2.989**                              3.081$      5.194*                                                                                                
+    0      0.0      3       2:1       0.146                               0.155       0.405                                                                                                
+    1    0.029      3       3:0    3.858***                                2.50      3.001$                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Health Care Equipment & Supplies ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.006     16      11:5      1.779$                               1.749      2.085$                                                                                                
+    0    0.025     16      13:3    6.060***                             3.993**    4.126***                                                                                                
+    1   -0.011     16      4:12   -3.311***                             -2.653*     -2.852*                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Specialty Retail ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.026      8       1:7      -4.150                            -4.103**     -3.214*                                                                                                
+    0    0.017      8       6:2     2.647**                               1.807      2.092$                                                                                                
+    1   -0.023      8       0:8   -3.654***                              -3.20*     -2.588*                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Aerospace & Defense ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.004     10       7:3       1.491                              2.394*      2.533*                                                                                                
+    0    0.017     10       7:3    6.135***                               1.109       1.638                                                                                                
+    1    0.010     10       7:3      2.557*                               1.525       1.439                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Oil, Gas & Consumable Fuels ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.005     13      2:11      -1.355                              -1.462     -1.855$                                                                                                
+    0    0.011     13       7:6      1.691$                               0.843       0.670                                                                                                
+    1   -0.015     13      1:12    -2.849**                              -1.443      -1.519                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Broadline Retail ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.035      4       0:4   -3.449***                             -2.636$     -3.617*                                                                                                
+    0   -0.028      4       2:2      -1.057                              -0.749      -0.399                                                                                                
+    1   -0.013      4       1:3     -2.092*                              -1.071      -1.575                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Life Sciences Tools & Services ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.001     12       6:6      -0.312                               0.176      -0.245                                                                                                
+    0    0.018     12      10:2      2.353*                              1.954$      2.047$                                                                                                
+    1   -0.002     12       5:7       0.358                              -0.290       0.322                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Pharmaceuticals ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.008     16      13:3     3.109**                              2.734*     2.954**                                                                                                
+    0   -0.004     16      6:10     -2.386*                              -0.473      -0.810                                                                                                
+    1    0.010     16      12:4    3.720***                             3.485**     3.451**                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Real Estate Management & Development ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.011     16       7:9     -1.975*                              -1.289      -0.968                                                                                                
+    0    0.012     16      12:4    3.530***                              2.732*      2.686*                                                                                                
+    1    0.007     16      10:6      2.244*                              2.287*      2.183*                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Health Care Providers & Services ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.006      5       4:1       0.524                               0.511       0.302                                                                                                
+    0   -0.009      5       1:4      -0.580                              -0.458      -0.242                                                                                                
+    1    0.005      5       2:3      -0.269                               0.483      -0.262                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Semiconductors & Semiconductor Equipment ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.010      8       3:5      -1.351                              -1.009      -0.957                                                                                                
+    0    0.040      8       8:0    5.833***                               8.891    6.647***                                                                                                
+    1   -0.013      8       1:7     -2.009*                             -2.109$     -2.336$                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Electric Utilities ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.001     12       6:6       0.548                               0.096       0.276                                                                                                
+    0    0.022     12       9:3    7.179***                              1.821$      2.122$                                                                                                
+    1    0.028     12      11:1    8.963***                               6.926    6.211***                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Biotechnology ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.011      6       5:1       1.502                               1.627       1.510                                                                                                
+    0    0.037      6       6:0       4.356                             4.130**     4.151**                                                                                                
+    1    0.002      6       3:3       0.462                               0.503       0.850                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Building Products ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.007      6       4:2       1.089                               1.967       1.490                                                                                                
+    0   -0.006      6       3:3      -0.907                              -0.260      -0.305                                                                                                
+    1   -0.005      6       2:4      -0.896                              -0.604      -0.694                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: IT Services ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1     -0.0      8       5:3       0.124                              -0.046       0.185                                                                                                
+    0    0.023      8       7:1    4.578***                              3.407*     3.769**                                                                                                
+    1   -0.008      8       3:5      -1.349                              -1.512      -1.495                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Software ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.003     10       4:6      -0.497                              -0.828      -0.839                                                                                                
+    0    0.036     10       9:1    5.341***                             3.266**     4.413**                                                                                                
+    1   -0.006     10       2:8      -1.498                              -1.255     -1.971$                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Tobacco ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.001      3       2:1      -0.227                              -0.209      -0.362                                                                                                
+    0   -0.027      3       1:2    -5.50***                              -0.982      -1.208                                                                                                
+    1    0.023      3       3:0    3.553***                              5.852*   33.662***                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Industrial REITs ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.004      4       2:2       0.634                               1.068       0.953                                                                                                
+    0    0.008      4       3:1       1.643                               1.358       1.358                                                                                                
+    1    0.011      4       3:1      2.098*                               1.506       1.487                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Personal Care Products ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.007      3       2:1       0.981                               0.688       0.544                                                                                                
+    0   -0.016      3       1:2      -1.571                              -0.598      -0.420                                                                                                
+    1    0.020      3       3:0     2.905**                               2.389       2.504                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Containers & Packaging ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.001      5       3:2      -0.294                              -0.252      -0.491                                                                                                
+    0    0.002      5       3:2      -1.252                               0.096      -0.398                                                                                                
+    1    0.004      5       3:2       1.031                               0.574       0.955                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Household Durables ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.011     10      0:10     -2.539*                           -5.711***   -5.176***                                                                                                
+    0     -0.0     10       3:7      -0.425                              -0.063      -0.475                                                                                                
+    1   -0.021     10      0:10   -4.437***                           -5.838***   -5.256***                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Diversified REITs ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.006      4       1:3      -1.007                              -0.822      -0.789                                                                                                
+    0   -0.012      4       1:3     -2.068*                              -2.048      -2.162                                                                                                
+    1    0.017      4       4:0     2.872**                           16.283***    10.666**                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Automobiles ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.012      8       6:2      2.412*                               1.184       1.140                                                                                                
+    0   -0.014      8       2:6    -3.267**                              -1.329      -1.863                                                                                                
+    1   -0.005      8       3:5      -1.063                              -1.114      -1.076                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Diversified Telecommunication Services ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.003     14       5:9      -0.695                              -0.872      -0.725                                                                                                
+    0   -0.020     14      1:13   -6.850***                           -4.725***   -4.854***                                                                                                
+    1    0.007     14      10:4      2.485*                               1.496      1.988$                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Specialized REITs ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.003      2       1:1       0.395                               0.674       0.685                                                                                                
+    0    0.006      2       2:0       0.741                               1.595       1.568                                                                                                
+    1    0.017      2       2:0      2.155*                               3.346       3.591                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Entertainment ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.006      5       2:3      -0.734                              -1.217      -0.990                                                                                                
+    0    0.001      5       3:2       0.997                               0.039       0.533                                                                                                
+    1   -0.013      5       2:3     -2.253*                              -0.946      -1.291                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Office REITs ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.006      3       1:2      -1.179                              -1.187      -1.272                                                                                                
+    0    0.002      3       2:1       0.278                               0.617       0.491                                                                                                
+    1    0.018      3       3:0     3.028**                               2.227       2.237                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Automobile Components ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.004      6       3:3      -0.802                              -1.192      -1.317                                                                                                
+    0   -0.031      6       1:5   -4.874***                              -1.632      -1.632                                                                                                
+    1   -0.047      6       0:6   -7.140***                             -2.237$     -2.323$                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Construction Materials ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.022      4       0:4   -4.950***                            -6.350**    -7.984**                                                                                                
+    0   -0.048      4       0:4   -9.808***                             -2.759$     -2.984$                                                                                                
+    1    0.005      4       3:1       0.818                               0.546       0.402                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Air Freight & Logistics ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.022      4       0:4     -2.506*                             -3.490*    -6.421**                                                                                                
+    0   -0.002      4       1:3       0.005                              -0.211       0.004                                                                                                
+    1    0.011      4       4:0       0.840                               1.510      2.408$                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Distributors ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.004      2       1:1       0.805                               0.465       0.657                                                                                                
+    0   -0.044      2       1:1   -8.298***                              -0.648      -0.788                                                                                                
+    1   -0.011      2       0:2      -1.215                              -2.208      -5.175                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Independent Power and Renewable Electricity Producers ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.014      6       3:3   -4.490***                              -0.838      -0.936                                                                                                
+    0    0.057      6       5:1    4.470***                               1.248       0.507                                                                                                
+    1   -0.006      6       3:3       1.007                              -0.317       0.343                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Commercial Services & Supplies ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.004      6       0:6      -0.853                             -3.486*     -3.206*                                                                                                
+    0      0.0      6       4:2      -0.032                               0.044      -0.026                                                                                                
+    1   -0.021      6       2:4   -3.712***                              -1.550      -1.508                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Gas Utilities ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.005      5       4:1       1.105                               1.855       1.627                                                                                                
+    0    0.001      5       3:2       0.558                               0.333       0.751                                                                                                
+    1    0.023      5       5:0    4.996***                             5.711**      4.188*                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Communications Equipment ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.010      2       0:2      -1.165                            -34.667*     -8.372$                                                                                                
+    0    0.022      2       2:0      2.248*                             13.091*   111.178**                                                                                                
+    1   -0.008      2       0:2      -0.861                              -1.110      -1.085                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Household Products ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.008      3       2:1       0.942                               1.160       1.278                                                                                                
+    0   -0.032      3       0:3   -3.890***                             -5.355*   -13.983**                                                                                                
+    1    0.024      3       3:0     2.971**                              4.111$      4.420*                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Wireless Telecommunication Services ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.003      4       1:3      -0.303                              -0.587      -0.420                                                                                                
+    0   -0.028      4       1:3   -4.558***                             -2.741$     -2.549$                                                                                                
+    1    0.019      4       3:1     3.192**                               1.316       1.328                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Media ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.002      9       5:4       0.044                              -0.518       0.074                                                                                                
+    0   -0.005      9       4:5    -3.076**                              -0.312      -0.897                                                                                                
+    1   -0.007      9       4:5      -0.754                              -1.068      -0.636                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Leisure Products ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1     -0.0      3       1:2       0.016                              -0.039       0.035                                                                                                
+    0    0.042      3       3:0     2.619**                               1.852       2.238                                                                                                
+    1   -0.035      3       0:3     -2.268*                             -3.084$     -7.994*                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Electronic Equipment, Instruments & Components ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.005      3       1:2      -0.286                              -0.509      -0.160                                                                                                
+    0    0.022      3       2:1      1.848$                               0.794       0.441                                                                                                
+    1   -0.013      3       0:3     -2.097*                              -2.632      -1.940                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Paper & Forest Products ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.008      5       5:0      1.661$                              4.233*      4.389*                                                                                                
+    0   -0.030      5       0:5   -6.943***                             -2.193$      -1.797                                                                                                
+    1    0.009      5       5:0      1.859$                              2.994*      3.176*                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Passenger Airlines ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.038      4       0:4    -3.108**                              -2.284     -2.508$                                                                                                
+    0   -0.017      4       2:2      -1.126                              -0.769      -0.666                                                                                                
+    1    0.003      4       2:2       0.125                               0.184       0.089                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Marine Transportation ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.023      2       0:2     -1.951$                              -3.157      -3.956                                                                                                
+    0    0.016      2       1:1       1.426                               0.507       0.556                                                                                                
+    1   -0.009      2       0:2      -0.736                              -60.0*    -11.298$                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Industrial Conglomerates ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.051      4       2:2   -5.327***                              -1.154      -1.234                                                                                                
+    0    0.027      4       3:1     2.907**                               1.942       1.559                                                                                                
+    1   -0.021      4       0:4     -2.349*                              -2.318     -3.021$                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Retail REITs ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1   -0.005      2       0:2      -0.343                              -1.284      -1.363                                                                                                
+    0    0.006      2       2:0       0.443                               32.0*     10.421$                                                                                                
+    1   -0.006      2       0:2      -0.396                              -2.744      -4.035                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Technology Hardware, Storage & Peripherals ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1                                                                                                                                                                                      
+    0                                                                                                                                                                                      
+    1                                                                                                                                                                                      
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Water Utilities ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1    0.008      3       3:0      1.829$                               2.123       2.116                                                                                                
+    0   -0.023      3       0:3   -4.938***                           -16.203**  -32.292***                                                                                                
+    1    0.014      3       3:0     2.946**                              4.684*      4.459*                                                                                                
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Diversified Consumer Services ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1                                                                                                                                                                                      
+    0                                                                                                                                                                                      
+    1                                                                                                                                                                                      
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Health Care Technology ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1                                                                                                                                                                                      
+    0                                                                                                                                                                                      
+    1                                                                                                                                                                                      
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Energy Equipment & Services ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1                                                                                                                                                                                      
+    0                                                                                                                                                                                      
+    1                                                                                                                                                                                      
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// AAR Results of SUB-SAMPLE: Residential REITs ///------------
+ 
+  Day      AAR      N   Pos:Neg      Patell Generalized        Sign       Csect    StdCSect        Rank Generalized Generalized    Adjusted    Adjusted    Skewness         CDA    Wilcoxon
+                                          Z        Sign           Z           T           T           Z        Rank        Rank      Patell    StdCSect   Corrected           T            
+                                                      Z                                                           T           Z           Z           T           T                        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   -1                                                                                                                                                                                      
+    0                                                                                                                                                                                      
+    1                                                                                                                                                                                      
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+ 
+---------/// CAAR Results ///------------
+ 
+    Days  Grouping    CAAR Precision           #      Patell     Csect      Sign Generalized    StdCSect      Rank Generalized  Adjusted  Adjusted Generalized  Skewness       CDA
+          Variable   Value  Weighted          of           Z         T         Z        Sign           T         Z        Rank    Patell  StdCSect        Rank Corrected         T
+              (GV)              CAAR        CARs                                           Z                                 T         Z         T           Z         T          
+                               Value  considered                                                                                                                                  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    -1,1       GV1  -0.011    -0.017          37   -3.714***   -2.001$                           -2.578*                                                                          
+    -1,1       GV2   0.001    -0.004          25      -0.354     0.114                            -0.249                                                                          
+    -1,1       GV3   0.009     0.009          13       1.421     1.124                             1.010                                                                          
+    -1,1       GV4  -0.005    -0.001          16      -0.640    -0.864                            -0.544                                                                          
+    -1,1       GV5   0.011     0.010           7      1.663$     1.502                             1.430                                                                          
+    -1,1       GV6   0.014     0.013          14     2.784**     1.729                            1.809$                                                                          
+    -1,1       GV7  -0.010    -0.005          11      -0.759    -0.298                            -0.238                                                                          
+    -1,1       GV8   0.052     0.025           8    4.014***    2.310$                            2.727*                                                                          
+    -1,1       GV9  -0.020    -0.019          23      -4.089   -2.677*                          -2.858**                                                                          
+    -1,1      GV10   0.008     0.005          11       1.021     0.948                             0.815                                                                          
+    -1,1      GV11  -0.054    -0.050          37  -13.595*** -7.715***                         -9.045***                                                                          
+    -1,1      GV12  -0.006    -0.007          16      -0.967    -0.885                            -1.141                                                                          
+    -1,1      GV13  -0.011    -0.009           8      -1.493    -1.216                            -1.086                                                                          
+    -1,1      GV14   0.009     0.004          12       0.819     1.396                             1.101                                                                          
+    -1,1      GV15   0.058     0.046           5    3.832***    3.766*                           6.124**                                                                          
+    -1,1      GV16   0.005     0.012          12       1.592     0.655                             1.022                                                                          
+    -1,1      GV17  -0.015    -0.015          29   -4.826***  -2.793**                          -2.894**                                                                          
+    -1,1      GV18  -0.014    -0.007           5      -1.228    -1.417                            -1.157                                                                          
+    -1,1      GV19  -0.041    -0.023          14   -4.589***    -1.359                            -1.694                                                                          
+    -1,1      GV20   0.050     0.037           3    4.037***    3.034$                            4.395*                                                                          
+    -1,1      GV21   0.020     0.015          16     2.614**    2.738*                            2.511*                                                                          
+    -1,1      GV22  -0.031    -0.033           8    -2.977**   -3.251*                           -3.064*                                                                          
+    -1,1      GV23   0.031     0.026          10    5.879***     1.437                             1.825                                                                          
+    -1,1      GV24  -0.009    -0.011          13      -1.451    -0.797                            -0.943                                                                          
+    -1,1      GV25  -0.076    -0.043           4   -3.809***    -1.967                           -2.897$                                                                          
+    -1,1      GV26   0.017     0.011          12       1.385     1.313                             1.064                                                                          
+    -1,1      GV27   0.015     0.012          16      2.566*    2.010$                             1.711                                                                          
+    -1,1      GV28   0.008     0.014          16      2.193*     0.889                             1.717                                                                          
+    -1,1      GV29   0.003    -0.005           5      -0.188     0.128                            -0.122                                                                          
+    -1,1      GV30   0.017     0.019           8       1.428     1.495                             1.531                                                                          
+    -1,1      GV31   0.050     0.055          12    9.636***   3.193**                           3.593**                                                                          
+    -1,1      GV32   0.050     0.054           6    3.649***   5.205**                           4.205**                                                                          
+    -1,1      GV33  -0.004    -0.007           6      -0.412    -0.245                            -0.330                                                                          
+    -1,1      GV34   0.016     0.021           8      1.936$     1.737                             1.849                                                                          
+    -1,1      GV35   0.026     0.012          10      1.932$    1.976$                            2.084$                                                                          
+    -1,1      GV36  -0.005    -0.021           3      -1.255    -0.142                            -0.430                                                                          
+    -1,1      GV37   0.023     0.020           4      2.526*    3.421*                            4.042*                                                                          
+    -1,1      GV38   0.011     0.017           3       1.337     0.610                             0.859                                                                          
+    -1,1      GV39   0.004    -0.010           5      -0.297     0.278                            -0.188                                                                          
+    -1,1      GV40  -0.032    -0.035          10      -4.272 -9.694***                         -6.646***                                                                          
+    -1,1      GV41    -0.0    -0.001           4      -0.117    -0.046                            -0.101                                                                          
+    -1,1      GV42  -0.007    -0.010           8      -1.107    -0.422                            -0.807                                                                          
+    -1,1      GV43  -0.017    -0.016          14    -2.922**  -4.175**                          -4.109**                                                                          
+    -1,1      GV44   0.026     0.026           2       1.90$    9.357$                            7.922$                                                                          
+    -1,1      GV45  -0.019    -0.007           5      -1.149    -1.884                            -2.037                                                                          
+    -1,1      GV46   0.014     0.011           3       1.228     1.288                             1.187                                                                          
+    -1,1      GV47  -0.082    -0.076           6   -7.399***   -3.189*                            -3.30*                                                                          
+    -1,1      GV48  -0.065    -0.063           4   -8.048***   -5.573*                          -7.045**                                                                          
+    -1,1      GV49  -0.014    -0.011           4      -0.959    -0.994                            -0.835                                                                          
+    -1,1      GV50  -0.051    -0.080           2   -5.027***    -0.924                            -0.957                                                                          
+    -1,1      GV51   0.037    -0.031           6       0.570     0.733                             0.113                                                                          
+    -1,1      GV52  -0.025    -0.022           6    -2.654**    -1.302                            -1.323                                                                          
+    -1,1      GV53   0.028     0.033           5    3.845***    3.735*                            3.164*                                                                          
+    -1,1      GV54   0.004     0.002           2       0.128     0.409                             0.333                                                                          
+    -1,1      GV55     0.0    -0.001           3       0.013     0.161                            -0.103                                                                          
+    -1,1      GV56  -0.012    -0.009           4      -0.964    -1.090                            -0.965                                                                          
+    -1,1      GV57  -0.014    -0.025           9     -2.186*    -1.076                            -1.384                                                                          
+    -1,1      GV58   0.007     0.004           3       0.212     0.903                             0.774                                                                          
+    -1,1      GV59   0.003    -0.010           3      -0.309     0.157                            -0.142                                                                          
+    -1,1      GV60  -0.013    -0.022           5     -1.976*    -0.990                            -0.991                                                                          
+    -1,1      GV61  -0.051    -0.045           4     -2.372*   -2.476$                           -2.709$                                                                          
+    -1,1      GV62  -0.017    -0.011           2      -0.728    -0.442                            -0.383                                                                          
+    -1,1      GV63  -0.046    -0.023           4    -2.753**    -0.843                            -0.877                                                                          
+    -1,1      GV64  -0.005    -0.003           2      -0.171    -0.783                            -0.730                                                                          
+    -1,1      GV66  -0.002    -0.001           3      -0.095    -0.232                            -0.189                                                                          
+ 
+The symbols $, *, **, and *** indicate statistical significance at the 0.10, 0.05, 0.01, and 0.001 levels, respectively, using a two-sided test.
+ 
+GV1 = Machinery
+GV2 = Chemicals
+GV3 = Trading Companies & Distributors
+GV4 = Financial Services
+GV5 = Multi-Utilities
+GV6 = Food Products
+GV7 = Metals & Mining
+GV8 = Electrical Equipment
+GV9 = Capital Markets
+GV10 = Beverages
+GV11 = Banks
+GV12 = Hotels, Restaurants & Leisure
+GV13 = Construction & Engineering
+GV14 = Consumer Staples Distribution & Retail
+GV15 = Interactive Media & Services
+GV16 = Professional Services
+GV17 = Insurance
+GV18 = Transportation Infrastructure
+GV19 = Textiles, Apparel & Luxury Goods
+GV20 = Health Care REITs
+GV21 = Health Care Equipment & Supplies
+GV22 = Specialty Retail
+GV23 = Aerospace & Defense
+GV24 = Oil, Gas & Consumable Fuels
+GV25 = Broadline Retail
+GV26 = Life Sciences Tools & Services
+GV27 = Pharmaceuticals
+GV28 = Real Estate Management & Development
+GV29 = Health Care Providers & Services
+GV30 = Semiconductors & Semiconductor Equipment
+GV31 = Electric Utilities
+GV32 = Biotechnology
+GV33 = Building Products
+GV34 = IT Services
+GV35 = Software
+GV36 = Tobacco
+GV37 = Industrial REITs
+GV38 = Personal Care Products
+GV39 = Containers & Packaging
+GV40 = Household Durables
+GV41 = Diversified REITs
+GV42 = Automobiles
+GV43 = Diversified Telecommunication Services
+GV44 = Specialized REITs
+GV45 = Entertainment
+GV46 = Office REITs
+GV47 = Automobile Components
+GV48 = Construction Materials
+GV49 = Air Freight & Logistics
+GV50 = Distributors
+GV51 = Independent Power and Renewable Electricity Producers
+GV52 = Commercial Services & Supplies
+GV53 = Gas Utilities
+GV54 = Communications Equipment
+GV55 = Household Products
+GV56 = Wireless Telecommunication Services
+GV57 = Media
+GV58 = Leisure Products
+GV59 = Electronic Equipment, Instruments & Components
+GV60 = Paper & Forest Products
+GV61 = Passenger Airlines
+GV62 = Marine Transportation
+GV63 = Industrial Conglomerates
+GV64 = Retail REITs
+GV65 = Technology Hardware, Storage & Peripherals
+GV66 = Water Utilities
+GV67 = Diversified Consumer Services
+GV68 = Health Care Technology
+GV69 = Energy Equipment & Services
+GV70 = Residential REITs
