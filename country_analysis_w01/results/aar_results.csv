@@ -1,0 +1,784 @@
+Sub-Sample;"Day Relative to Event";-1;0;1
+GB;"Average Abnormal Return (AAR)";-0.0017;-0.0057;-0.0038
+GB;N;134;134;134
+GB;Pos:Neg;65:69;58:76;61:73
+GB;"Patell Z";-0.4471;-7.2471;-1.3029
+GB;"Patell Z P-Values";0.6548;4.2566E-13;0.1926
+GB;"Generalized Sign Z";;;
+GB;"Generalized Sign Z P-Values";;;
+GB;"Sign Z";;;
+GB;"Sign Z P-Values";;;
+GB;"Csect T";-1.3973;-1.9474;-1.8595
+GB;"Csect T P-Values";0.1647;0.0536;0.0652
+GB;"StdCSect T";-0.3903;-2.5319;-0.8038
+GB;"StdCSect T P-Values";0.697;0.0125;0.4229
+GB;"Rank Z";;;
+GB;"Rank Z P-Values";;;
+GB;"Generalized Rank T";;;
+GB;"Generalized Rank T P-Values";;;
+GB;"Generalized Rank Z";;;
+GB;"Generalized Rank Z P-Values";;;
+GB;"Adjusted Patell Z";;;
+GB;"Adjusted Patell Z P-Values";;;
+GB;"Adjusted StdCSect T";;;
+GB;"Adjusted StdCSect T P-Values";;;
+GB;"Skewness-Corrected T";;;
+GB;"Skewness-Corrected T P-Values";;;
+GB;"CDA T";;;
+GB;"CDA T P-Values";;;
+GB;Wilcoxon;;;
+GB;"Wilcoxon P-Values";;;
+DE;"Average Abnormal Return (AAR)";-0.0063;-0.0062;0.0012
+DE;N;67;67;67
+DE;Pos:Neg;26:41;26:41;36:31
+DE;"Patell Z";-3.6921;-6.8119;1.774
+DE;"Patell Z P-Values";0.0002;9.6311E-12;0.0761
+DE;"Generalized Sign Z";;;
+DE;"Generalized Sign Z P-Values";;;
+DE;"Sign Z";;;
+DE;"Sign Z P-Values";;;
+DE;"Csect T";-2.5957;-1.2195;0.4309
+DE;"Csect T P-Values";0.0116;0.227;0.6679
+DE;"StdCSect T";-2.0439;-2.2257;1.0131
+DE;"StdCSect T P-Values";0.045;0.0295;0.3147
+DE;"Rank Z";;;
+DE;"Rank Z P-Values";;;
+DE;"Generalized Rank T";;;
+DE;"Generalized Rank T P-Values";;;
+DE;"Generalized Rank Z";;;
+DE;"Generalized Rank Z P-Values";;;
+DE;"Adjusted Patell Z";;;
+DE;"Adjusted Patell Z P-Values";;;
+DE;"Adjusted StdCSect T";;;
+DE;"Adjusted StdCSect T P-Values";;;
+DE;"Skewness-Corrected T";;;
+DE;"Skewness-Corrected T P-Values";;;
+DE;"CDA T";;;
+DE;"CDA T P-Values";;;
+DE;Wilcoxon;;;
+DE;"Wilcoxon P-Values";;;
+IT;"Average Abnormal Return (AAR)";-0.002;0.0019;0.0004
+IT;N;29;29;29
+IT;Pos:Neg;16:13;16:13;17:12
+IT;"Patell Z";-0.2162;0.9217;1.4585
+IT;"Patell Z P-Values";0.8288;0.3567;0.1447
+IT;"Generalized Sign Z";;;
+IT;"Generalized Sign Z P-Values";;;
+IT;"Sign Z";;;
+IT;"Sign Z P-Values";;;
+IT;"Csect T";-0.431;0.2598;0.1081
+IT;"Csect T P-Values";0.6698;0.7969;0.9147
+IT;"StdCSect T";-0.1002;0.321;0.8046
+IT;"StdCSect T P-Values";0.9209;0.7506;0.4278
+IT;"Rank Z";;;
+IT;"Rank Z P-Values";;;
+IT;"Generalized Rank T";;;
+IT;"Generalized Rank T P-Values";;;
+IT;"Generalized Rank Z";;;
+IT;"Generalized Rank Z P-Values";;;
+IT;"Adjusted Patell Z";;;
+IT;"Adjusted Patell Z P-Values";;;
+IT;"Adjusted StdCSect T";;;
+IT;"Adjusted StdCSect T P-Values";;;
+IT;"Skewness-Corrected T";;;
+IT;"Skewness-Corrected T P-Values";;;
+IT;"CDA T";;;
+IT;"CDA T P-Values";;;
+IT;Wilcoxon;;;
+IT;"Wilcoxon P-Values";;;
+SE;"Average Abnormal Return (AAR)";-0.0118;0.022;-0.015
+SE;N;63;63;63
+SE;Pos:Neg;19:44;48:15;12:51
+SE;"Patell Z";-6.5162;8.1595;-6.9988
+SE;"Patell Z P-Values";7.2128E-11;3.3655E-16;2.5809E-12
+SE;"Generalized Sign Z";;;
+SE;"Generalized Sign Z P-Values";;;
+SE;"Sign Z";;;
+SE;"Sign Z P-Values";;;
+SE;"Csect T";-3.1827;5.9051;-5.9799
+SE;"Csect T P-Values";0.0023;1.6095E-7;1.204E-7
+SE;"StdCSect T";-4.1559;4.6596;-5.7989
+SE;"StdCSect T P-Values";0.0001;0;2.4283E-7
+SE;"Rank Z";;;
+SE;"Rank Z P-Values";;;
+SE;"Generalized Rank T";;;
+SE;"Generalized Rank T P-Values";;;
+SE;"Generalized Rank Z";;;
+SE;"Generalized Rank Z P-Values";;;
+SE;"Adjusted Patell Z";;;
+SE;"Adjusted Patell Z P-Values";;;
+SE;"Adjusted StdCSect T";;;
+SE;"Adjusted StdCSect T P-Values";;;
+SE;"Skewness-Corrected T";;;
+SE;"Skewness-Corrected T P-Values";;;
+SE;"CDA T";;;
+SE;"CDA T P-Values";;;
+SE;Wilcoxon;;;
+SE;"Wilcoxon P-Values";;;
+NL;"Average Abnormal Return (AAR)";0.0036;0.0042;-0.007
+NL;N;32;32;32
+NL;Pos:Neg;18:14;18:14;13:19
+NL;"Patell Z";3.0124;-0.7651;-2.0959
+NL;"Patell Z P-Values";0.0026;0.4442;0.0361
+NL;"Generalized Sign Z";;;
+NL;"Generalized Sign Z P-Values";;;
+NL;"Sign Z";;;
+NL;"Sign Z P-Values";;;
+NL;"Csect T";0.6254;0.6586;-1.9578
+NL;"Csect T P-Values";0.5363;0.515;0.0593
+NL;"StdCSect T";1.2029;-0.2912;-1.5982
+NL;"StdCSect T P-Values";0.2381;0.7728;0.1201
+NL;"Rank Z";;;
+NL;"Rank Z P-Values";;;
+NL;"Generalized Rank T";;;
+NL;"Generalized Rank T P-Values";;;
+NL;"Generalized Rank Z";;;
+NL;"Generalized Rank Z P-Values";;;
+NL;"Adjusted Patell Z";;;
+NL;"Adjusted Patell Z P-Values";;;
+NL;"Adjusted StdCSect T";;;
+NL;"Adjusted StdCSect T P-Values";;;
+NL;"Skewness-Corrected T";;;
+NL;"Skewness-Corrected T P-Values";;;
+NL;"CDA T";;;
+NL;"CDA T P-Values";;;
+NL;Wilcoxon;;;
+NL;"Wilcoxon P-Values";;;
+CH;"Average Abnormal Return (AAR)";0.0029;0.0143;-0.0096
+CH;N;55;55;55
+CH;Pos:Neg;35:20;38:17;9:46
+CH;"Patell Z";2.3531;6.3797;-6.0227
+CH;"Patell Z P-Values";0.0186;1.7741E-10;1.7151E-9
+CH;"Generalized Sign Z";;;
+CH;"Generalized Sign Z P-Values";;;
+CH;"Sign Z";;;
+CH;"Sign Z P-Values";;;
+CH;"Csect T";2.0509;4.4002;-4.8063
+CH;"Csect T P-Values";0.0451;0.0001;0
+CH;"StdCSect T";2.5922;3.7604;-4.2655
+CH;"StdCSect T P-Values";0.0122;0.0004;0.0001
+CH;"Rank Z";;;
+CH;"Rank Z P-Values";;;
+CH;"Generalized Rank T";;;
+CH;"Generalized Rank T P-Values";;;
+CH;"Generalized Rank Z";;;
+CH;"Generalized Rank Z P-Values";;;
+CH;"Adjusted Patell Z";;;
+CH;"Adjusted Patell Z P-Values";;;
+CH;"Adjusted StdCSect T";;;
+CH;"Adjusted StdCSect T P-Values";;;
+CH;"Skewness-Corrected T";;;
+CH;"Skewness-Corrected T P-Values";;;
+CH;"CDA T";;;
+CH;"CDA T P-Values";;;
+CH;Wilcoxon;;;
+CH;"Wilcoxon P-Values";;;
+BE;"Average Abnormal Return (AAR)";0.0075;0.0045;0.0182
+BE;N;17;17;17
+BE;Pos:Neg;10:7;9:8;13:4
+BE;"Patell Z";2.4331;0.6251;6.0837
+BE;"Patell Z P-Values";0.015;0.5319;1.1742E-9
+BE;"Generalized Sign Z";;;
+BE;"Generalized Sign Z P-Values";;;
+BE;"Sign Z";;;
+BE;"Sign Z P-Values";;;
+BE;"Csect T";2.1222;0.5159;3.4783
+BE;"Csect T P-Values";0.0498;0.613;0.0031
+BE;"StdCSect T";2.2932;0.2227;3.9463
+BE;"StdCSect T P-Values";0.0357;0.8266;0.0012
+BE;"Rank Z";;;
+BE;"Rank Z P-Values";;;
+BE;"Generalized Rank T";;;
+BE;"Generalized Rank T P-Values";;;
+BE;"Generalized Rank Z";;;
+BE;"Generalized Rank Z P-Values";;;
+BE;"Adjusted Patell Z";;;
+BE;"Adjusted Patell Z P-Values";;;
+BE;"Adjusted StdCSect T";;;
+BE;"Adjusted StdCSect T P-Values";;;
+BE;"Skewness-Corrected T";;;
+BE;"Skewness-Corrected T P-Values";;;
+BE;"CDA T";;;
+BE;"CDA T P-Values";;;
+BE;Wilcoxon;;;
+BE;"Wilcoxon P-Values";;;
+FR;"Average Abnormal Return (AAR)";-0.0003;-0.0035;-0.0016
+FR;N;72;72;72
+FR;Pos:Neg;34:38;33:39;39:33
+FR;"Patell Z";0.2005;-2.8972;-0.2356
+FR;"Patell Z P-Values";0.8411;0.0038;0.8137
+FR;"Generalized Sign Z";;;
+FR;"Generalized Sign Z P-Values";;;
+FR;"Sign Z";;;
+FR;"Sign Z P-Values";;;
+FR;"Csect T";-0.1863;-1.067;-0.5352
+FR;"Csect T P-Values";0.8527;0.2896;0.5942
+FR;"StdCSect T";0.1857;-1.2306;-0.1357
+FR;"StdCSect T P-Values";0.8532;0.2225;0.8925
+FR;"Rank Z";;;
+FR;"Rank Z P-Values";;;
+FR;"Generalized Rank T";;;
+FR;"Generalized Rank T P-Values";;;
+FR;"Generalized Rank Z";;;
+FR;"Generalized Rank Z P-Values";;;
+FR;"Adjusted Patell Z";;;
+FR;"Adjusted Patell Z P-Values";;;
+FR;"Adjusted StdCSect T";;;
+FR;"Adjusted StdCSect T P-Values";;;
+FR;"Skewness-Corrected T";;;
+FR;"Skewness-Corrected T P-Values";;;
+FR;"CDA T";;;
+FR;"CDA T P-Values";;;
+FR;Wilcoxon;;;
+FR;"Wilcoxon P-Values";;;
+ES;"Average Abnormal Return (AAR)";-0.0035;0.0131;0.0076
+ES;N;24;24;24
+ES;Pos:Neg;9:15;14:10;16:8
+ES;"Patell Z";-1.0065;4.0064;3.8738
+ES;"Patell Z P-Values";0.3142;0.0001;0.0001
+ES;"Generalized Sign Z";;;
+ES;"Generalized Sign Z P-Values";;;
+ES;"Sign Z";;;
+ES;"Sign Z P-Values";;;
+ES;"Csect T";-0.955;1.3589;1.8746
+ES;"Csect T P-Values";0.3495;0.1874;0.0736
+ES;"StdCSect T";-0.7088;1.4766;2.3353
+ES;"StdCSect T P-Values";0.4856;0.1533;0.0286
+ES;"Rank Z";;;
+ES;"Rank Z P-Values";;;
+ES;"Generalized Rank T";;;
+ES;"Generalized Rank T P-Values";;;
+ES;"Generalized Rank Z";;;
+ES;"Generalized Rank Z P-Values";;;
+ES;"Adjusted Patell Z";;;
+ES;"Adjusted Patell Z P-Values";;;
+ES;"Adjusted StdCSect T";;;
+ES;"Adjusted StdCSect T P-Values";;;
+ES;"Skewness-Corrected T";;;
+ES;"Skewness-Corrected T P-Values";;;
+ES;"CDA T";;;
+ES;"CDA T P-Values";;;
+ES;Wilcoxon;;;
+ES;"Wilcoxon P-Values";;;
+NO;"Average Abnormal Return (AAR)";0.0107;0.0292;-0.0092
+NO;N;16;16;16
+NO;Pos:Neg;11:5;10:6;8:8
+NO;"Patell Z";3.1362;3.6773;-1.3073
+NO;"Patell Z P-Values";0.0017;0.0002;0.1911
+NO;"Generalized Sign Z";;;
+NO;"Generalized Sign Z P-Values";;;
+NO;"Sign Z";;;
+NO;"Sign Z P-Values";;;
+NO;"Csect T";1.8952;2.3538;-1.2224
+NO;"Csect T P-Values";0.0775;0.0326;0.2404
+NO;"StdCSect T";2.1055;1.4211;-0.8201
+NO;"StdCSect T P-Values";0.0525;0.1757;0.425
+NO;"Rank Z";;;
+NO;"Rank Z P-Values";;;
+NO;"Generalized Rank T";;;
+NO;"Generalized Rank T P-Values";;;
+NO;"Generalized Rank Z";;;
+NO;"Generalized Rank Z P-Values";;;
+NO;"Adjusted Patell Z";;;
+NO;"Adjusted Patell Z P-Values";;;
+NO;"Adjusted StdCSect T";;;
+NO;"Adjusted StdCSect T P-Values";;;
+NO;"Skewness-Corrected T";;;
+NO;"Skewness-Corrected T P-Values";;;
+NO;"CDA T";;;
+NO;"CDA T P-Values";;;
+NO;Wilcoxon;;;
+NO;"Wilcoxon P-Values";;;
+PL;"Average Abnormal Return (AAR)";-0.0344;-0.103;0.0494
+PL;N;10;10;10
+PL;Pos:Neg;0:10;0:10;9:1
+PL;"Patell Z";-4.9374;-16.3493;9.2526
+PL;"Patell Z P-Values";7.9154E-7;4.4022E-60;2.1914E-20
+PL;"Generalized Sign Z";;;
+PL;"Generalized Sign Z P-Values";;;
+PL;"Sign Z";;;
+PL;"Sign Z P-Values";;;
+PL;"Csect T";-3.3052;-3.7829;3.6121
+PL;"Csect T P-Values";0.0092;0.0043;0.0056
+PL;"StdCSect T";-3.9516;-4.1103;3.2703
+PL;"StdCSect T P-Values";0.0033;0.0026;0.0097
+PL;"Rank Z";;;
+PL;"Rank Z P-Values";;;
+PL;"Generalized Rank T";;;
+PL;"Generalized Rank T P-Values";;;
+PL;"Generalized Rank Z";;;
+PL;"Generalized Rank Z P-Values";;;
+PL;"Adjusted Patell Z";;;
+PL;"Adjusted Patell Z P-Values";;;
+PL;"Adjusted StdCSect T";;;
+PL;"Adjusted StdCSect T P-Values";;;
+PL;"Skewness-Corrected T";;;
+PL;"Skewness-Corrected T P-Values";;;
+PL;"CDA T";;;
+PL;"CDA T P-Values";;;
+PL;Wilcoxon;;;
+PL;"Wilcoxon P-Values";;;
+DK;"Average Abnormal Return (AAR)";0.001;0.0226;-0.0039
+DK;N;23;23;23
+DK;Pos:Neg;13:10;15:8;12:11
+DK;"Patell Z";0.4496;5.0462;-0.9918
+DK;"Patell Z P-Values";0.653;4.5065E-7;0.3213
+DK;"Generalized Sign Z";;;
+DK;"Generalized Sign Z P-Values";;;
+DK;"Sign Z";;;
+DK;"Sign Z P-Values";;;
+DK;"Csect T";0.4066;1.8694;-0.8325
+DK;"Csect T P-Values";0.6882;0.0749;0.4141
+DK;"StdCSect T";0.6205;1.7013;-0.6366
+DK;"StdCSect T P-Values";0.5413;0.103;0.531
+DK;"Rank Z";;;
+DK;"Rank Z P-Values";;;
+DK;"Generalized Rank T";;;
+DK;"Generalized Rank T P-Values";;;
+DK;"Generalized Rank Z";;;
+DK;"Generalized Rank Z P-Values";;;
+DK;"Adjusted Patell Z";;;
+DK;"Adjusted Patell Z P-Values";;;
+DK;"Adjusted StdCSect T";;;
+DK;"Adjusted StdCSect T P-Values";;;
+DK;"Skewness-Corrected T";;;
+DK;"Skewness-Corrected T P-Values";;;
+DK;"CDA T";;;
+DK;"CDA T P-Values";;;
+DK;Wilcoxon;;;
+DK;"Wilcoxon P-Values";;;
+AT;"Average Abnormal Return (AAR)";-0.008;-0.0554;0.0008
+AT;N;9;9;9
+AT;Pos:Neg;2:7;3:6;5:4
+AT;"Patell Z";-1.8798;-12.1034;0.9406
+AT;"Patell Z P-Values";0.0601;1.0136E-33;0.3469
+AT;"Generalized Sign Z";;;
+AT;"Generalized Sign Z P-Values";;;
+AT;"Sign Z";;;
+AT;"Sign Z P-Values";;;
+AT;"Csect T";-1.2416;-1.9723;0.0723
+AT;"Csect T P-Values";0.2495;0.084;0.9441
+AT;"StdCSect T";-1.1907;-2.3695;0.4088
+AT;"StdCSect T P-Values";0.2679;0.0453;0.6934
+AT;"Rank Z";;;
+AT;"Rank Z P-Values";;;
+AT;"Generalized Rank T";;;
+AT;"Generalized Rank T P-Values";;;
+AT;"Generalized Rank Z";;;
+AT;"Generalized Rank Z P-Values";;;
+AT;"Adjusted Patell Z";;;
+AT;"Adjusted Patell Z P-Values";;;
+AT;"Adjusted StdCSect T";;;
+AT;"Adjusted StdCSect T P-Values";;;
+AT;"Skewness-Corrected T";;;
+AT;"Skewness-Corrected T P-Values";;;
+AT;"CDA T";;;
+AT;"CDA T P-Values";;;
+AT;Wilcoxon;;;
+AT;"Wilcoxon P-Values";;;
+CL;"Average Abnormal Return (AAR)";;;
+CL;N;;;
+CL;Pos:Neg;;;
+CL;"Patell Z";;;
+CL;"Patell Z P-Values";;;
+CL;"Generalized Sign Z";;;
+CL;"Generalized Sign Z P-Values";;;
+CL;"Sign Z";;;
+CL;"Sign Z P-Values";;;
+CL;"Csect T";;;
+CL;"Csect T P-Values";;;
+CL;"StdCSect T";;;
+CL;"StdCSect T P-Values";;;
+CL;"Rank Z";;;
+CL;"Rank Z P-Values";;;
+CL;"Generalized Rank T";;;
+CL;"Generalized Rank T P-Values";;;
+CL;"Generalized Rank Z";;;
+CL;"Generalized Rank Z P-Values";;;
+CL;"Adjusted Patell Z";;;
+CL;"Adjusted Patell Z P-Values";;;
+CL;"Adjusted StdCSect T";;;
+CL;"Adjusted StdCSect T P-Values";;;
+CL;"Skewness-Corrected T";;;
+CL;"Skewness-Corrected T P-Values";;;
+CL;"CDA T";;;
+CL;"CDA T P-Values";;;
+CL;Wilcoxon;;;
+CL;"Wilcoxon P-Values";;;
+LU;"Average Abnormal Return (AAR)";-0.0016;-0.0055;0.0177
+LU;N;6;6;6
+LU;Pos:Neg;2:4;3:3;4:2
+LU;"Patell Z";-0.1045;-1.325;2.6107
+LU;"Patell Z P-Values";0.9168;0.1852;0.009
+LU;"Generalized Sign Z";;;
+LU;"Generalized Sign Z P-Values";;;
+LU;"Sign Z";;;
+LU;"Sign Z P-Values";;;
+LU;"Csect T";-0.6778;-0.5517;1.7991
+LU;"Csect T P-Values";0.528;0.6049;0.1319
+LU;"StdCSect T";-0.2493;-0.7538;1.8345
+LU;"StdCSect T P-Values";0.8131;0.4849;0.126
+LU;"Rank Z";;;
+LU;"Rank Z P-Values";;;
+LU;"Generalized Rank T";;;
+LU;"Generalized Rank T P-Values";;;
+LU;"Generalized Rank Z";;;
+LU;"Generalized Rank Z P-Values";;;
+LU;"Adjusted Patell Z";;;
+LU;"Adjusted Patell Z P-Values";;;
+LU;"Adjusted StdCSect T";;;
+LU;"Adjusted StdCSect T P-Values";;;
+LU;"Skewness-Corrected T";;;
+LU;"Skewness-Corrected T P-Values";;;
+LU;"CDA T";;;
+LU;"CDA T P-Values";;;
+LU;Wilcoxon;;;
+LU;"Wilcoxon P-Values";;;
+CZ;"Average Abnormal Return (AAR)";;;
+CZ;N;;;
+CZ;Pos:Neg;;;
+CZ;"Patell Z";;;
+CZ;"Patell Z P-Values";;;
+CZ;"Generalized Sign Z";;;
+CZ;"Generalized Sign Z P-Values";;;
+CZ;"Sign Z";;;
+CZ;"Sign Z P-Values";;;
+CZ;"Csect T";;;
+CZ;"Csect T P-Values";;;
+CZ;"StdCSect T";;;
+CZ;"StdCSect T P-Values";;;
+CZ;"Rank Z";;;
+CZ;"Rank Z P-Values";;;
+CZ;"Generalized Rank T";;;
+CZ;"Generalized Rank T P-Values";;;
+CZ;"Generalized Rank Z";;;
+CZ;"Generalized Rank Z P-Values";;;
+CZ;"Adjusted Patell Z";;;
+CZ;"Adjusted Patell Z P-Values";;;
+CZ;"Adjusted StdCSect T";;;
+CZ;"Adjusted StdCSect T P-Values";;;
+CZ;"Skewness-Corrected T";;;
+CZ;"Skewness-Corrected T P-Values";;;
+CZ;"CDA T";;;
+CZ;"CDA T P-Values";;;
+CZ;Wilcoxon;;;
+CZ;"Wilcoxon P-Values";;;
+FO;"Average Abnormal Return (AAR)";;;
+FO;N;;;
+FO;Pos:Neg;;;
+FO;"Patell Z";;;
+FO;"Patell Z P-Values";;;
+FO;"Generalized Sign Z";;;
+FO;"Generalized Sign Z P-Values";;;
+FO;"Sign Z";;;
+FO;"Sign Z P-Values";;;
+FO;"Csect T";;;
+FO;"Csect T P-Values";;;
+FO;"StdCSect T";;;
+FO;"StdCSect T P-Values";;;
+FO;"Rank Z";;;
+FO;"Rank Z P-Values";;;
+FO;"Generalized Rank T";;;
+FO;"Generalized Rank T P-Values";;;
+FO;"Generalized Rank Z";;;
+FO;"Generalized Rank Z P-Values";;;
+FO;"Adjusted Patell Z";;;
+FO;"Adjusted Patell Z P-Values";;;
+FO;"Adjusted StdCSect T";;;
+FO;"Adjusted StdCSect T P-Values";;;
+FO;"Skewness-Corrected T";;;
+FO;"Skewness-Corrected T P-Values";;;
+FO;"CDA T";;;
+FO;"CDA T P-Values";;;
+FO;Wilcoxon;;;
+FO;"Wilcoxon P-Values";;;
+IE;"Average Abnormal Return (AAR)";-0.0079;-0.017;0.0002
+IE;N;9;9;9
+IE;Pos:Neg;3:6;3:6;5:4
+IE;"Patell Z";-1.6806;-4.971;0.272
+IE;"Patell Z P-Values";0.0928;6.6599E-7;0.7856
+IE;"Generalized Sign Z";;;
+IE;"Generalized Sign Z P-Values";;;
+IE;"Sign Z";;;
+IE;"Sign Z P-Values";;;
+IE;"Csect T";-1.3568;-2.0795;0.0331
+IE;"Csect T P-Values";0.2119;0.0712;0.9744
+IE;"StdCSect T";-1.2739;-2.2577;0.1835
+IE;"StdCSect T P-Values";0.2385;0.0539;0.859
+IE;"Rank Z";;;
+IE;"Rank Z P-Values";;;
+IE;"Generalized Rank T";;;
+IE;"Generalized Rank T P-Values";;;
+IE;"Generalized Rank Z";;;
+IE;"Generalized Rank Z P-Values";;;
+IE;"Adjusted Patell Z";;;
+IE;"Adjusted Patell Z P-Values";;;
+IE;"Adjusted StdCSect T";;;
+IE;"Adjusted StdCSect T P-Values";;;
+IE;"Skewness-Corrected T";;;
+IE;"Skewness-Corrected T P-Values";;;
+IE;"CDA T";;;
+IE;"CDA T P-Values";;;
+IE;Wilcoxon;;;
+IE;"Wilcoxon P-Values";;;
+PT;"Average Abnormal Return (AAR)";0.0023;0.0235;0.013
+PT;N;3;3;3
+PT;Pos:Neg;3:0;2:1;2:1
+PT;"Patell Z";0.2881;4.0844;1.9024
+PT;"Patell Z P-Values";0.7732;0;0.0571
+PT;"Generalized Sign Z";;;
+PT;"Generalized Sign Z P-Values";;;
+PT;"Sign Z";;;
+PT;"Sign Z P-Values";;;
+PT;"Csect T";1.1307;0.8528;1.3
+PT;"Csect T P-Values";0.3755;0.4836;0.3232
+PT;"StdCSect T";1.1974;0.9177;1.353
+PT;"StdCSect T P-Values";0.3538;0.4556;0.3087
+PT;"Rank Z";;;
+PT;"Rank Z P-Values";;;
+PT;"Generalized Rank T";;;
+PT;"Generalized Rank T P-Values";;;
+PT;"Generalized Rank Z";;;
+PT;"Generalized Rank Z P-Values";;;
+PT;"Adjusted Patell Z";;;
+PT;"Adjusted Patell Z P-Values";;;
+PT;"Adjusted StdCSect T";;;
+PT;"Adjusted StdCSect T P-Values";;;
+PT;"Skewness-Corrected T";;;
+PT;"Skewness-Corrected T P-Values";;;
+PT;"CDA T";;;
+PT;"CDA T P-Values";;;
+PT;Wilcoxon;;;
+PT;"Wilcoxon P-Values";;;
+FI;"Average Abnormal Return (AAR)";-0.0021;-0.0058;5.5556E-6
+FI;N;18;18;18
+FI;Pos:Neg;9:9;9:9;10:8
+FI;"Patell Z";-0.5163;-3.28;0.9449
+FI;"Patell Z P-Values";0.6057;0.001;0.3447
+FI;"Generalized Sign Z";;;
+FI;"Generalized Sign Z P-Values";;;
+FI;"Sign Z";;;
+FI;"Sign Z P-Values";;;
+FI;"Csect T";-0.583;-0.5694;0.0014
+FI;"Csect T P-Values";0.5675;0.5765;0.9989
+FI;"StdCSect T";-0.4249;-1.1734;0.6154
+FI;"StdCSect T P-Values";0.6763;0.2568;0.5465
+FI;"Rank Z";;;
+FI;"Rank Z P-Values";;;
+FI;"Generalized Rank T";;;
+FI;"Generalized Rank T P-Values";;;
+FI;"Generalized Rank Z";;;
+FI;"Generalized Rank Z P-Values";;;
+FI;"Adjusted Patell Z";;;
+FI;"Adjusted Patell Z P-Values";;;
+FI;"Adjusted StdCSect T";;;
+FI;"Adjusted StdCSect T P-Values";;;
+FI;"Skewness-Corrected T";;;
+FI;"Skewness-Corrected T P-Values";;;
+FI;"CDA T";;;
+FI;"CDA T P-Values";;;
+FI;Wilcoxon;;;
+FI;"Wilcoxon P-Values";;;
+US;"Average Abnormal Return (AAR)";-0.0042;0.0487;-0.001
+US;N;3;3;3
+US;Pos:Neg;2:1;3:0;2:1
+US;"Patell Z";0.388;3.3087;-0.5614
+US;"Patell Z P-Values";0.698;0.0009;0.5745
+US;"Generalized Sign Z";;;
+US;"Generalized Sign Z P-Values";;;
+US;"Sign Z";;;
+US;"Sign Z P-Values";;;
+US;"Csect T";-0.3348;1.6073;-0.0521
+US;"Csect T P-Values";0.7696;0.2492;0.9632
+US;"StdCSect T";0.3793;3.0608;-0.3589
+US;"StdCSect T P-Values";0.7409;0.0922;0.754
+US;"Rank Z";;;
+US;"Rank Z P-Values";;;
+US;"Generalized Rank T";;;
+US;"Generalized Rank T P-Values";;;
+US;"Generalized Rank Z";;;
+US;"Generalized Rank Z P-Values";;;
+US;"Adjusted Patell Z";;;
+US;"Adjusted Patell Z P-Values";;;
+US;"Adjusted StdCSect T";;;
+US;"Adjusted StdCSect T P-Values";;;
+US;"Skewness-Corrected T";;;
+US;"Skewness-Corrected T P-Values";;;
+US;"CDA T";;;
+US;"CDA T P-Values";;;
+US;Wilcoxon;;;
+US;"Wilcoxon P-Values";;;
+BM;"Average Abnormal Return (AAR)";;;
+BM;N;;;
+BM;Pos:Neg;;;
+BM;"Patell Z";;;
+BM;"Patell Z P-Values";;;
+BM;"Generalized Sign Z";;;
+BM;"Generalized Sign Z P-Values";;;
+BM;"Sign Z";;;
+BM;"Sign Z P-Values";;;
+BM;"Csect T";;;
+BM;"Csect T P-Values";;;
+BM;"StdCSect T";;;
+BM;"StdCSect T P-Values";;;
+BM;"Rank Z";;;
+BM;"Rank Z P-Values";;;
+BM;"Generalized Rank T";;;
+BM;"Generalized Rank T P-Values";;;
+BM;"Generalized Rank Z";;;
+BM;"Generalized Rank Z P-Values";;;
+BM;"Adjusted Patell Z";;;
+BM;"Adjusted Patell Z P-Values";;;
+BM;"Adjusted StdCSect T";;;
+BM;"Adjusted StdCSect T P-Values";;;
+BM;"Skewness-Corrected T";;;
+BM;"Skewness-Corrected T P-Values";;;
+BM;"CDA T";;;
+BM;"CDA T P-Values";;;
+BM;Wilcoxon;;;
+BM;"Wilcoxon P-Values";;;
+ZA;"Average Abnormal Return (AAR)";;;
+ZA;N;;;
+ZA;Pos:Neg;;;
+ZA;"Patell Z";;;
+ZA;"Patell Z P-Values";;;
+ZA;"Generalized Sign Z";;;
+ZA;"Generalized Sign Z P-Values";;;
+ZA;"Sign Z";;;
+ZA;"Sign Z P-Values";;;
+ZA;"Csect T";;;
+ZA;"Csect T P-Values";;;
+ZA;"StdCSect T";;;
+ZA;"StdCSect T P-Values";;;
+ZA;"Rank Z";;;
+ZA;"Rank Z P-Values";;;
+ZA;"Generalized Rank T";;;
+ZA;"Generalized Rank T P-Values";;;
+ZA;"Generalized Rank Z";;;
+ZA;"Generalized Rank Z P-Values";;;
+ZA;"Adjusted Patell Z";;;
+ZA;"Adjusted Patell Z P-Values";;;
+ZA;"Adjusted StdCSect T";;;
+ZA;"Adjusted StdCSect T P-Values";;;
+ZA;"Skewness-Corrected T";;;
+ZA;"Skewness-Corrected T P-Values";;;
+ZA;"CDA T";;;
+ZA;"CDA T P-Values";;;
+ZA;Wilcoxon;;;
+ZA;"Wilcoxon P-Values";;;
+MT;"Average Abnormal Return (AAR)";;;
+MT;N;;;
+MT;Pos:Neg;;;
+MT;"Patell Z";;;
+MT;"Patell Z P-Values";;;
+MT;"Generalized Sign Z";;;
+MT;"Generalized Sign Z P-Values";;;
+MT;"Sign Z";;;
+MT;"Sign Z P-Values";;;
+MT;"Csect T";;;
+MT;"Csect T P-Values";;;
+MT;"StdCSect T";;;
+MT;"StdCSect T P-Values";;;
+MT;"Rank Z";;;
+MT;"Rank Z P-Values";;;
+MT;"Generalized Rank T";;;
+MT;"Generalized Rank T P-Values";;;
+MT;"Generalized Rank Z";;;
+MT;"Generalized Rank Z P-Values";;;
+MT;"Adjusted Patell Z";;;
+MT;"Adjusted Patell Z P-Values";;;
+MT;"Adjusted StdCSect T";;;
+MT;"Adjusted StdCSect T P-Values";;;
+MT;"Skewness-Corrected T";;;
+MT;"Skewness-Corrected T P-Values";;;
+MT;"CDA T";;;
+MT;"CDA T P-Values";;;
+MT;Wilcoxon;;;
+MT;"Wilcoxon P-Values";;;
+KZ;"Average Abnormal Return (AAR)";;;
+KZ;N;;;
+KZ;Pos:Neg;;;
+KZ;"Patell Z";;;
+KZ;"Patell Z P-Values";;;
+KZ;"Generalized Sign Z";;;
+KZ;"Generalized Sign Z P-Values";;;
+KZ;"Sign Z";;;
+KZ;"Sign Z P-Values";;;
+KZ;"Csect T";;;
+KZ;"Csect T P-Values";;;
+KZ;"StdCSect T";;;
+KZ;"StdCSect T P-Values";;;
+KZ;"Rank Z";;;
+KZ;"Rank Z P-Values";;;
+KZ;"Generalized Rank T";;;
+KZ;"Generalized Rank T P-Values";;;
+KZ;"Generalized Rank Z";;;
+KZ;"Generalized Rank Z P-Values";;;
+KZ;"Adjusted Patell Z";;;
+KZ;"Adjusted Patell Z P-Values";;;
+KZ;"Adjusted StdCSect T";;;
+KZ;"Adjusted StdCSect T P-Values";;;
+KZ;"Skewness-Corrected T";;;
+KZ;"Skewness-Corrected T P-Values";;;
+KZ;"CDA T";;;
+KZ;"CDA T P-Values";;;
+KZ;Wilcoxon;;;
+KZ;"Wilcoxon P-Values";;;
+HK;"Average Abnormal Return (AAR)";;;
+HK;N;;;
+HK;Pos:Neg;;;
+HK;"Patell Z";;;
+HK;"Patell Z P-Values";;;
+HK;"Generalized Sign Z";;;
+HK;"Generalized Sign Z P-Values";;;
+HK;"Sign Z";;;
+HK;"Sign Z P-Values";;;
+HK;"Csect T";;;
+HK;"Csect T P-Values";;;
+HK;"StdCSect T";;;
+HK;"StdCSect T P-Values";;;
+HK;"Rank Z";;;
+HK;"Rank Z P-Values";;;
+HK;"Generalized Rank T";;;
+HK;"Generalized Rank T P-Values";;;
+HK;"Generalized Rank Z";;;
+HK;"Generalized Rank Z P-Values";;;
+HK;"Adjusted Patell Z";;;
+HK;"Adjusted Patell Z P-Values";;;
+HK;"Adjusted StdCSect T";;;
+HK;"Adjusted StdCSect T P-Values";;;
+HK;"Skewness-Corrected T";;;
+HK;"Skewness-Corrected T P-Values";;;
+HK;"CDA T";;;
+HK;"CDA T P-Values";;;
+HK;Wilcoxon;;;
+HK;"Wilcoxon P-Values";;;
+HU;"Average Abnormal Return (AAR)";;;
+HU;N;;;
+HU;Pos:Neg;;;
+HU;"Patell Z";;;
+HU;"Patell Z P-Values";;;
+HU;"Generalized Sign Z";;;
+HU;"Generalized Sign Z P-Values";;;
+HU;"Sign Z";;;
+HU;"Sign Z P-Values";;;
+HU;"Csect T";;;
+HU;"Csect T P-Values";;;
+HU;"StdCSect T";;;
+HU;"StdCSect T P-Values";;;
+HU;"Rank Z";;;
+HU;"Rank Z P-Values";;;
+HU;"Generalized Rank T";;;
+HU;"Generalized Rank T P-Values";;;
+HU;"Generalized Rank Z";;;
+HU;"Generalized Rank Z P-Values";;;
+HU;"Adjusted Patell Z";;;
+HU;"Adjusted Patell Z P-Values";;;
+HU;"Adjusted StdCSect T";;;
+HU;"Adjusted StdCSect T P-Values";;;
+HU;"Skewness-Corrected T";;;
+HU;"Skewness-Corrected T P-Values";;;
+HU;"CDA T";;;
+HU;"CDA T P-Values";;;
+HU;Wilcoxon;;;
+HU;"Wilcoxon P-Values";;;

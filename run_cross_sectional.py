@@ -31,8 +31,7 @@ BASE = Path(__file__).parent
 DATA = BASE / "data"
 RESULTS = BASE / "cross_sectional" / "results"
 FIGURES = BASE / "cross_sectional" / "figures"
-DAYS = list(range(-10, 11))
-CAR_COLS = [f"AR({d})" for d in DAYS]
+WINDOWS = (1, 5, 10, 15, 20)
 
 SPECS = {
     "M1 baseline": "car ~ russia_exposure",
@@ -66,7 +65,14 @@ def load_request(path: Path) -> pd.DataFrame:
     return df[["event_id", "firm_id", "group"]]
 
 
-def build_dataset() -> pd.DataFrame:
+def sector_results(window: int) -> Path:
+    return BASE / ("sector_analysis" if window == 10 else f"sector_analysis_w{window:02d}") / "results"
+
+
+def build_dataset(window: int = 10) -> pd.DataFrame:
+    days = list(range(-window, window + 1))
+    car_cols = [f"AR({d})" for d in days]
+    res = sector_results(window)
     req_sector = load_request(DATA / "01_RequestFile_sector_gics.csv").rename(columns={"group": "gics_sector"})
     req_industry = load_request(DATA / "01_RequestFile_industry_gics.csv").rename(columns={"group": "gics_industry_group"})
     req_country = load_request(DATA / "01_RequestFile_country.csv").rename(columns={"group": "country_iso"})
@@ -75,12 +81,12 @@ def build_dataset() -> pd.DataFrame:
         req_country, on=["event_id", "firm_id"]
     )
 
-    ar = pd.read_csv(BASE / "sector_analysis" / "results" / "ar_results.csv", sep=";")
-    ar[CAR_COLS] = ar[CAR_COLS].apply(pd.to_numeric, errors="coerce")
-    car = ar[["Event ID"] + CAR_COLS].set_index("Event ID").sum(axis=1).rename("car")
+    ar = pd.read_csv(res / "ar_results.csv", sep=";")
+    ar[car_cols] = ar[car_cols].apply(pd.to_numeric, errors="coerce")
+    car = ar[["Event ID"] + car_cols].set_index("Event ID").sum(axis=1).rename("car")
     df = firms.merge(car, left_on="event_id", right_index=True, how="left")
 
-    car_res = pd.read_csv(BASE / "sector_analysis" / "results" / "car_results.csv", sep=";")
+    car_res = pd.read_csv(res / "car_results.csv", sep=";")
     bhar = car_res[["Event ID", "BHAR value"]].rename(
         columns={"Event ID": "event_id", "BHAR value": "bhar"}
     )
@@ -245,13 +251,83 @@ def fig_coef_plot(df: pd.DataFrame, dvs: list):
     plt.close(fig)
 
 
+def build_ladder() -> pd.DataFrame:
+    rows = []
+    for w in WINDOWS:
+        df = build_dataset(w)
+        car = df["car"].dropna()
+        t_stat = car.mean() / (car.std() / np.sqrt(len(car)))
+        m = run_model(df, SPECS["M3 + sector FE"])
+        m3 = next((r for r in m["rows"] if r["term"] == "russia_exposure"), None)
+        rows.append({
+            "window": w,
+            "n": int(len(car)),
+            "car_mean": car.mean(),
+            "car_median": car.median(),
+            "t_stat": t_stat,
+            "m3_coef": m3["coef"] if m3 else np.nan,
+            "m3_t": m3["t"] if m3 else np.nan,
+            "m3_p": m3["p"] if m3 else np.nan,
+        })
+    ladder = pd.DataFrame(rows)
+    ladder.to_csv(RESULTS / "window_ladder.csv", sep=";", index=False)
+    ladder.to_latex(
+        RESULTS / "window_ladder.tex",
+        index=False,
+        float_format="%.4f",
+        caption="Aggregate CAR and Russia-exposure effect by event window (sector FE)",
+        label="tab:window_ladder",
+    )
+    return ladder
+
+
+def fig_window_ladder(df: pd.DataFrame):
+    fig, axes = plt.subplots(1, 2, figsize=(12, 4.6))
+
+    ax = axes[0]
+    exposed, other = [], []
+    for w in WINDOWS:
+        d = build_dataset(w)
+        exposed.append(d.loc[d["russia_exposure"] == 1, "car"].mean() * 100)
+        other.append(d.loc[d["russia_exposure"] == 0, "car"].mean() * 100)
+    ax.plot(WINDOWS, other, "o-", label="Not exposed", color="#1f77b4")
+    ax.plot(WINDOWS, exposed, "o-", label="Exposed", color="#d62728")
+    ax.axhline(0, color="gray", linewidth=0.8)
+    ax.set_xlabel("Half-window (trading days)")
+    ax.set_ylabel("Mean CAR (%)")
+    ax.set_title("Mean CAR by window and exposure", fontweight="bold")
+    ax.legend()
+
+    ax = axes[1]
+    ax.errorbar(
+        df["window"], df["m3_coef"] * 100, yerr=1.96 * (df["m3_coef"].abs() / np.abs(df["m3_t"])),
+        fmt="o-", capsize=4, color="#2ca02c",
+    )
+    ax.axhline(0, color="gray", linewidth=0.8, linestyle="--")
+    for _, r in df.iterrows():
+        ax.annotate(f'{r["m3_coef"] * 100:+.1f}%{stars(r["m3_p"])}', (r["window"], r["m3_coef"] * 100),
+                    textcoords="offset points", xytext=(0, 8), ha="center", fontsize=8)
+    ax.set_xlabel("Half-window (trading days)")
+    ax.set_ylabel("Exposure coefficient, CAR (%)")
+    ax.set_title("Russia-exposure coefficient by window\n(sector FE, 95% CI)", fontweight="bold")
+
+    fig.tight_layout()
+    fig.savefig(FIGURES / "window_ladder.png", dpi=300)
+    plt.close(fig)
+
+
 def main():
+    import sys
+
+    window = int(sys.argv[1]) if len(sys.argv) > 1 else 10
+    if window not in WINDOWS:
+        sys.exit(f"Unknown window '{window}'. Choose from: {WINDOWS}")
     RESULTS.mkdir(parents=True, exist_ok=True)
     FIGURES.mkdir(parents=True, exist_ok=True)
 
-    df = build_dataset()
+    df = build_dataset(window)
     df.to_csv(RESULTS / "xs_dataset.csv", sep=";", index=False)
-    print(f"Dataset: {len(df)} firms, CAR obs {df['car'].notna().sum()}")
+    print(f"Dataset: {len(df)} firms, CAR obs {df['car'].notna().sum()} (window +/-{window})")
 
     descriptives(df, RESULTS / "descriptives.tex")
 
@@ -277,6 +353,13 @@ def main():
     print("\nRegression results (russia_exposure):")
     for _, row in res[res["term"] == "russia_exposure"].iterrows():
         print(f"  {row['model']:<28} coef {row['coef']:+.4f} (t={row['t']: .2f}, p={row['p']:.3f})")
+
+    ladder = build_ladder()
+    fig_window_ladder(ladder)
+    print("\nWindow ladder (russia_exposure, sector FE):")
+    for _, row in ladder.iterrows():
+        print(f"  +/-{int(row['window']):<3} CAR {row['car_mean'] * 100:+.2f}% (t={row['t_stat']: .2f}) | "
+              f"exposure {row['m3_coef'] * 100:+.2f}% (t={row['m3_t']: .2f}, p={row['m3_p']:.3f})")
     print(f"\nOutputs -> {RESULTS}")
 
 

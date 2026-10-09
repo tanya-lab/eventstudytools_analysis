@@ -1,15 +1,13 @@
 """
-Figures and LaTeX tables for the two ARC event-study analyses
-(sector grouping vs. industry-group grouping).
+Figures and LaTeX tables for the ARC event-study analyses
+(sector / industry-group / country grouping; multiple event windows).
 
-Figures: PNG, 300 dpi (Overleaf-compatible) -> <analysis>_analysis/figures/
-Tables : CSV (API output) + .tex (Overleaf \\input) -> <analysis>_analysis/results/
+Figures: PNG, 300 dpi (Overleaf-compatible) -> <name>_analysis[_wNN]/figures/
+Tables : CSV (API output) + .tex (Overleaf \\input) -> <name>_analysis[_wNN]/results/
 
 Usage:
-    python visualize_results.py sector
-    python visualize_results.py industry
-    python visualize_results.py country
-    python visualize_results.py all
+    python visualize_results.py sector [window]
+    python visualize_results.py all [window]
 """
 
 import re
@@ -24,7 +22,7 @@ import pandas as pd
 
 BASE = Path(__file__).parent
 DATA = BASE / "data"
-DAYS = list(range(-10, 11))
+WINDOWS = (1, 5, 10, 15, 20)
 EVENT_DAY = 0
 GROUP_LABEL = {"sector": "GICS sector", "industry": "GICS industry group", "country": "country"}
 GROUP_LABEL_PLURAL = {
@@ -33,9 +31,9 @@ GROUP_LABEL_PLURAL = {
     "country": "countries",
 }
 REQUEST_FILES = {
-    "sector": "01_RequestFile_sector_gics.csv",
-    "industry": "01_RequestFile_industry_gics.csv",
-    "country": "01_RequestFile_country.csv",
+    "sector": "01_RequestFile_sector_gics",
+    "industry": "01_RequestFile_industry_gics",
+    "country": "01_RequestFile_country",
 }
 ANALYSES = list(REQUEST_FILES)
 
@@ -54,12 +52,12 @@ SECTOR_COLORS = {
 }
 
 
-def analysis_paths(name: str):
-    root = BASE / f"{name}_analysis"
+def analysis_paths(name: str, window: int):
+    root = BASE / (f"{name}_analysis" if window == 10 else f"{name}_analysis_w{window:02d}")
     return (
         root / "results",
         root / "figures",
-        DATA / REQUEST_FILES[name],
+        DATA / f"{REQUEST_FILES[name]}_w{window:02d}.csv",
     )
 
 
@@ -177,7 +175,7 @@ def fig_caar_paths(ar: pd.DataFrame, req: pd.DataFrame, caar: pd.DataFrame, figs
     ax.axvline(EVENT_DAY, color="red", linestyle="--", linewidth=1)
     ax.set_xlabel("Day relative to event")
     ax.set_ylabel("Cumulative abnormal return (%)")
-    ax.set_title(f"CAAR paths by {label}, window (-10, +10){title_add}", fontweight="bold")
+    ax.set_title(f"CAAR paths by {label}, window (-{WINDOW}, +{WINDOW}){title_add}", fontweight="bold")
     ax.set_xticks(DAYS)
     ax.legend(loc="best", fontsize=7, ncol=2, framealpha=0.9)
     fig.tight_layout()
@@ -193,7 +191,7 @@ def fig_caar_bars(caar: pd.DataFrame, figs: Path, label: str):
     colors = ["#d62728" if v < 0 else "#2ca02c" for v in df["CAAR Value"]]
     bars = ax.barh(df["Grouping Variable"], df["CAAR Value"] * 100, color=colors, alpha=0.85)
     ax.axvline(0, color="black", linewidth=0.6)
-    ax.set_xlabel(f"CAAR (-10, +10) (%)")
+    ax.set_xlabel(f"CAAR (-{WINDOW}, +{WINDOW}) (%)")
     ax.set_title(f"CAAR by {label} with Patell Z significance", fontweight="bold")
 
     for bar, (_, row) in zip(bars, df.iterrows()):
@@ -234,7 +232,7 @@ def fig_car_distribution(ar: pd.DataFrame, figs: Path, label: str):
     ax.axvline(mean * 100, color="red", linewidth=1.5, label=f"Mean = {mean * 100:.2f}%")
     ax.axvline(med * 100, color="black", linewidth=1.5, linestyle="--", label=f"Median = {med * 100:.2f}%")
     ax.axvline(0, color="gray", linewidth=0.8)
-    ax.set_xlabel("CAR (-10, +10) (%)")
+    ax.set_xlabel(f"CAR (-{WINDOW}, +{WINDOW}) (%)")
     ax.set_ylabel("Number of firms")
     ax.set_title(f"Distribution of firm-level CARs (N={len(car)}, t={t_stat:.2f})", fontweight="bold")
     ax.legend()
@@ -283,7 +281,7 @@ def fig_aar_heatmap(ar: pd.DataFrame, req: pd.DataFrame, figs: Path, label: str)
     ax.set_xlabel("Day relative to event")
     ax.set_title(f"Average abnormal return by {label} and day (%)", fontweight="bold")
     fig.colorbar(im, ax=ax, label="AAR (%)")
-    ax.axvline(10, color="black", linewidth=1.5)
+    ax.axvline(WINDOW, color="black", linewidth=1.5)
     fig.tight_layout()
     fig.savefig(figs / "aar_heatmap.png", dpi=300)
     plt.close(fig)
@@ -298,7 +296,7 @@ def fig_event_timeline(req: pd.DataFrame, caar: pd.DataFrame, figs: Path, label:
     mkt = mkt.sort_values("date").set_index("date")
     cal = mkt.index
     pos = cal.get_loc(event)
-    win_start, win_end = cal[pos - 10], cal[pos + 10]
+    win_start, win_end = cal[pos - WINDOW], cal[pos + WINDOW]
     mkt_ret = mkt["px"].pct_change()
 
     firms = pd.read_csv(DATA / "02_FirmData.csv", sep=";", header=None, names=["firm", "date", "px"])
@@ -331,7 +329,7 @@ def fig_event_timeline(req: pd.DataFrame, caar: pd.DataFrame, figs: Path, label:
         )
 
     ax.axvline(event, color="red", linewidth=1.8, label="Event (24.02.2022)")
-    ax.axvspan(win_start, win_end, color="red", alpha=0.08, label="Event window (-10, +10)")
+    ax.axvspan(win_start, win_end, color="red", alpha=0.08, label=f"Event window (-{WINDOW}, +{WINDOW})")
     ax.axvline(win_start, color="red", linewidth=1, linestyle="--")
     ax.axvline(win_end, color="red", linewidth=1, linestyle="--")
     ax.axhline(0, color="gray", linewidth=0.7)
@@ -392,7 +390,7 @@ def tex_tables(results: Path, caar: pd.DataFrame, ar: pd.DataFrame, req: pd.Data
         results / "caar_table.tex",
         index=False,
         float_format="%.4f",
-        caption=f"CAAR (-10, +10) by {label} ({name} analysis)",
+        caption=f"CAAR (-{WINDOW}, +{WINDOW}) by {label} ({name} analysis)",
         label=f"tab:{name}_caar",
     )
 
@@ -420,10 +418,13 @@ def sync_to_thesis(name: str, figs: Path):
         print(f"  Synced to {target}")
 
 
-def analyze(name: str):
-    results, figs, request_path = analysis_paths(name)
+def analyze(name: str, window: int = 10):
+    global WINDOW, DAYS
+    WINDOW = window
+    DAYS = list(range(-WINDOW, WINDOW + 1))
+    results, figs, request_path = analysis_paths(name, window)
     if not results.exists():
-        sys.exit(f"{results} not found - run 'python run_event_study.py {name}' first.")
+        sys.exit(f"{results} not found - run 'python run_event_study.py {name} {window}' first.")
     figs.mkdir(exist_ok=True)
     label = GROUP_LABEL[name]
 
@@ -439,18 +440,23 @@ def analyze(name: str):
     fig_aar_heatmap(ar, req, figs, label)
     fig_event_timeline(req, caar, figs, label, GROUP_LABEL_PLURAL[name])
     tex_tables(results, caar, ar, req, name, label)
-    sync_to_thesis(name, figs)
+    sync_to_thesis(f"{name}_w{window:02d}", figs)
 
-    print(f"[{name}] groups={caar.shape[0]}, mean CAR={mean * 100:.2f}%, "
+    print(f"[{name} w{window:02d}] groups={caar.shape[0]}, mean CAR={mean * 100:.2f}%, "
           f"median={med * 100:.2f}%, t={t_stat:.2f}, beta mean={beta.mean():.2f}")
 
 
 def main():
-    if len(sys.argv) != 2 or sys.argv[1] not in (*ANALYSES, "all"):
+    if len(sys.argv) not in (2, 3):
         sys.exit(__doc__)
+    if sys.argv[1] not in (*ANALYSES, "all"):
+        sys.exit(f"Unknown analysis. Choose from: {ANALYSES + ['all']}")
+    window = int(sys.argv[2]) if len(sys.argv) == 3 else 10
+    if window not in WINDOWS:
+        sys.exit(f"Unknown window '{window}'. Choose from: {WINDOWS}")
     names = ANALYSES if sys.argv[1] == "all" else [sys.argv[1]]
     for name in names:
-        analyze(name)
+        analyze(name, window)
 
 
 if __name__ == "__main__":

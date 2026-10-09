@@ -1,0 +1,320 @@
+Sub-Sample;"Day Relative to Event";-5;-4;-3;-2;-1;0;1;2;3;4;5
+Industrials;"Average Abnormal Return (AAR)";0.0005;0.0005;-0.0009;0.0028;-0.0071;0.0128;-0.0086;0.0005;0.0005;0.012;-0.0006
+Industrials;N;119;119;119;119;119;119;119;119;119;119;119
+Industrials;Pos:Neg;73:46;73:46;59:60;63:56;44:75;78:41;36:83;73:46;73:46;73:46;65:54
+Industrials;"Patell Z";0.2976;0.2976;-1.4107;1.2111;-4.4527;9.5552;-6.6391;0.2976;0.2976;10.1032;1.1225
+Industrials;"Patell Z P-Values";0.766;0.766;0.1583;0.2258;8.4789E-6;1.234E-21;3.1567E-11;0.766;0.766;5.3483E-24;0.2617
+Industrials;"Generalized Sign Z";;;;;;;;;;;
+Industrials;"Generalized Sign Z P-Values";;;;;;;;;;;
+Industrials;"Sign Z";;;;;;;;;;;
+Industrials;"Sign Z P-Values";;;;;;;;;;;
+Industrials;"Csect T";3.4065;3.4065;-0.7727;1.6959;-3.3797;3.8906;-4.7634;3.4065;3.4065;3.0953;-0.186
+Industrials;"Csect T P-Values";0.0009;0.0009;0.4412;0.0925;0.001;0.0002;5.4652E-6;0.0009;0.0009;0.0025;0.8528
+Industrials;"StdCSect T";4.0503;4.0503;-1.3732;0.9933;-3.2502;4.2072;-4.5366;4.0503;4.0503;2.8758;0.4207
+Industrials;"StdCSect T P-Values";0.0001;0.0001;0.1723;0.3226;0.0015;0.0001;0;0.0001;0.0001;0.0048;0.6748
+Industrials;"Rank Z";;;;;;;;;;;
+Industrials;"Rank Z P-Values";;;;;;;;;;;
+Industrials;"Generalized Rank T";;;;;;;;;;;
+Industrials;"Generalized Rank T P-Values";;;;;;;;;;;
+Industrials;"Generalized Rank Z";;;;;;;;;;;
+Industrials;"Generalized Rank Z P-Values";;;;;;;;;;;
+Industrials;"Adjusted Patell Z";;;;;;;;;;;
+Industrials;"Adjusted Patell Z P-Values";;;;;;;;;;;
+Industrials;"Adjusted StdCSect T";;;;;;;;;;;
+Industrials;"Adjusted StdCSect T P-Values";;;;;;;;;;;
+Industrials;"Skewness-Corrected T";;;;;;;;;;;
+Industrials;"Skewness-Corrected T P-Values";;;;;;;;;;;
+Industrials;"CDA T";;;;;;;;;;;
+Industrials;"CDA T P-Values";;;;;;;;;;;
+Industrials;Wilcoxon;;;;;;;;;;;
+Industrials;"Wilcoxon P-Values";;;;;;;;;;;
+Materials;"Average Abnormal Return (AAR)";0.0001;0.0001;-0.0019;-0.0012;0.0018;-0.0114;0.0018;0.0001;0.0001;-0.011;0.0019
+Materials;N;50;50;50;50;50;50;50;50;50;50;50
+Materials;Pos:Neg;21:29;21:29;22:28;24:26;33:17;25:25;25:25;21:29;21:29;27:23;28:22
+Materials;"Patell Z";-0.022;-0.022;-1.5223;-2.189;1.3491;-7.9404;0.3532;-0.022;-0.022;-6.8132;-0.6148
+Materials;"Patell Z P-Values";0.9825;0.9825;0.1279;0.0286;0.1773;2.0159E-15;0.7239;0.9825;0.9825;9.5438E-12;0.5387
+Materials;"Generalized Sign Z";;;;;;;;;;;
+Materials;"Generalized Sign Z P-Values";;;;;;;;;;;
+Materials;"Sign Z";;;;;;;;;;;
+Materials;"Sign Z P-Values";;;;;;;;;;;
+Materials;"Csect T";0.5527;0.5527;-0.7761;-0.5755;0.851;-1.1105;0.5202;0.5527;0.5527;-0.6396;0.2502
+Materials;"Csect T P-Values";0.583;0.583;0.4414;0.5676;0.3989;0.2722;0.6053;0.583;0.583;0.5254;0.8034
+Materials;"StdCSect T";-0.2374;-0.2374;-1.2159;-1.7439;1.0771;-1.7914;0.2236;-0.2374;-0.2374;-0.9639;-0.1753
+Materials;"StdCSect T P-Values";0.8133;0.8133;0.2298;0.0874;0.2867;0.0794;0.824;0.8133;0.8133;0.3399;0.8616
+Materials;"Rank Z";;;;;;;;;;;
+Materials;"Rank Z P-Values";;;;;;;;;;;
+Materials;"Generalized Rank T";;;;;;;;;;;
+Materials;"Generalized Rank T P-Values";;;;;;;;;;;
+Materials;"Generalized Rank Z";;;;;;;;;;;
+Materials;"Generalized Rank Z P-Values";;;;;;;;;;;
+Materials;"Adjusted Patell Z";;;;;;;;;;;
+Materials;"Adjusted Patell Z P-Values";;;;;;;;;;;
+Materials;"Adjusted StdCSect T";;;;;;;;;;;
+Materials;"Adjusted StdCSect T P-Values";;;;;;;;;;;
+Materials;"Skewness-Corrected T";;;;;;;;;;;
+Materials;"Skewness-Corrected T P-Values";;;;;;;;;;;
+Materials;"CDA T";;;;;;;;;;;
+Materials;"CDA T P-Values";;;;;;;;;;;
+Materials;Wilcoxon;;;;;;;;;;;
+Materials;"Wilcoxon P-Values";;;;;;;;;;;
+Financials;"Average Abnormal Return (AAR)";-0.0002;-0.0002;-0.0016;-0.0044;-0.0039;-0.0242;0;-0.0002;-0.0002;-0.0147;-0.0205
+Financials;N;105;105;105;105;105;105;105;105;105;105;105
+Financials;Pos:Neg;43:62;43:62;45:60;36:69;42:63;27:78;58:47;43:62;43:62;39:66;23:82
+Financials;"Patell Z";-0.2146;-0.2146;-1.5472;-4.4895;-2.3553;-19.9057;0.1426;-0.2146;-0.2146;-12.3259;-17.4424
+Financials;"Patell Z P-Values";0.8301;0.8301;0.1218;7.1397E-6;0.0185;3.6312E-88;0.8866;0.8301;0.8301;6.5714E-35;3.9313E-68
+Financials;"Generalized Sign Z";;;;;;;;;;;
+Financials;"Generalized Sign Z P-Values";;;;;;;;;;;
+Financials;"Sign Z";;;;;;;;;;;
+Financials;"Sign Z P-Values";;;;;;;;;;;
+Financials;"Csect T";-1.4802;-1.4802;-1.1691;-1.7276;-2.7351;-5.5143;0;-1.4802;-1.4802;-4.673;-8.0931
+Financials;"Csect T P-Values";0.1418;0.1418;0.245;0.087;0.0073;2.5691E-7;1;0.1418;0.1418;8.927E-6;1.1524E-12
+Financials;"StdCSect T";-2.0449;-2.0449;-1.3613;-2.4324;-2.2006;-6.6152;0.0692;-2.0449;-2.0449;-4.8003;-7.9172
+Financials;"StdCSect T P-Values";0.0434;0.0434;0.1764;0.0167;0.03;1.6445E-9;0.945;0.0434;0.0434;5.3274E-6;2.7903E-12
+Financials;"Rank Z";;;;;;;;;;;
+Financials;"Rank Z P-Values";;;;;;;;;;;
+Financials;"Generalized Rank T";;;;;;;;;;;
+Financials;"Generalized Rank T P-Values";;;;;;;;;;;
+Financials;"Generalized Rank Z";;;;;;;;;;;
+Financials;"Generalized Rank Z P-Values";;;;;;;;;;;
+Financials;"Adjusted Patell Z";;;;;;;;;;;
+Financials;"Adjusted Patell Z P-Values";;;;;;;;;;;
+Financials;"Adjusted StdCSect T";;;;;;;;;;;
+Financials;"Adjusted StdCSect T P-Values";;;;;;;;;;;
+Financials;"Skewness-Corrected T";;;;;;;;;;;
+Financials;"Skewness-Corrected T P-Values";;;;;;;;;;;
+Financials;"CDA T";;;;;;;;;;;
+Financials;"CDA T P-Values";;;;;;;;;;;
+Financials;Wilcoxon;;;;;;;;;;;
+Financials;"Wilcoxon P-Values";;;;;;;;;;;
+Utilities;"Average Abnormal Return (AAR)";-0.0001;-0.0001;-0.0058;-0.0071;0.0004;0.0124;0.0187;-0.0001;-0.0001;0.0226;-0.0202
+Utilities;N;33;33;33;33;33;33;33;33;33;33;33
+Utilities;Pos:Neg;15:18;15:18;8:25;10:23;20:13;18:15;29:4;15:18;15:18;27:6;12:21
+Utilities;"Patell Z";-0.1153;-0.1153;-2.9335;-4.7332;0.1559;2.5741;11.624;-0.1153;-0.1153;10.6743;-10.6569
+Utilities;"Patell Z P-Values";0.9082;0.9082;0.0034;2.2103E-6;0.8761;0.0101;3.1132E-31;0.9082;0.9082;1.3421E-26;1.6199E-26
+Utilities;"Generalized Sign Z";;;;;;;;;;;
+Utilities;"Generalized Sign Z P-Values";;;;;;;;;;;
+Utilities;"Sign Z";;;;;;;;;;;
+Utilities;"Sign Z P-Values";;;;;;;;;;;
+Utilities;"Csect T";-0.4621;-0.4621;-2.5729;-3.2087;0.1024;1.2265;4.4447;-0.4621;-0.4621;4.0902;-2.4513
+Utilities;"Csect T P-Values";0.6472;0.6472;0.0149;0.003;0.9191;0.229;0.0001;0.6472;0.6472;0.0003;0.0199
+Utilities;"StdCSect T";-1.117;-1.117;-3.1076;-3.5082;0.0632;0.5735;6.6277;-1.117;-1.117;3.9981;-2.4678
+Utilities;"StdCSect T P-Values";0.2723;0.2723;0.0039;0.0014;0.95;0.5703;1.7866E-7;0.2723;0.2723;0.0004;0.0191
+Utilities;"Rank Z";;;;;;;;;;;
+Utilities;"Rank Z P-Values";;;;;;;;;;;
+Utilities;"Generalized Rank T";;;;;;;;;;;
+Utilities;"Generalized Rank T P-Values";;;;;;;;;;;
+Utilities;"Generalized Rank Z";;;;;;;;;;;
+Utilities;"Generalized Rank Z P-Values";;;;;;;;;;;
+Utilities;"Adjusted Patell Z";;;;;;;;;;;
+Utilities;"Adjusted Patell Z P-Values";;;;;;;;;;;
+Utilities;"Adjusted StdCSect T";;;;;;;;;;;
+Utilities;"Adjusted StdCSect T P-Values";;;;;;;;;;;
+Utilities;"Skewness-Corrected T";;;;;;;;;;;
+Utilities;"Skewness-Corrected T P-Values";;;;;;;;;;;
+Utilities;"CDA T";;;;;;;;;;;
+Utilities;"CDA T P-Values";;;;;;;;;;;
+Utilities;Wilcoxon;;;;;;;;;;;
+Utilities;"Wilcoxon P-Values";;;;;;;;;;;
+"Consumer Staples";"Average Abnormal Return (AAR)";0.0003;0.0003;-0.0075;-0.0106;0.0068;-0.0092;0.0114;0.0003;0.0003;-0.0031;-0.0002
+"Consumer Staples";N;46;46;46;46;46;46;46;46;46;46;46
+"Consumer Staples";Pos:Neg;24:22;24:22;14:32;14:32;32:14;16:30;38:8;24:22;24:22;25:21;20:26
+"Consumer Staples";"Patell Z";0.0542;0.0542;-4.4283;-5.6242;4.247;-6.5677;6.6116;0.0542;0.0542;-2.3022;1.1385
+"Consumer Staples";"Patell Z P-Values";0.9568;0.9568;9.4973E-6;1.8636E-8;0;5.1111E-11;3.8016E-11;0.9568;0.9568;0.0213;0.2549
+"Consumer Staples";"Generalized Sign Z";;;;;;;;;;;
+"Consumer Staples";"Generalized Sign Z P-Values";;;;;;;;;;;
+"Consumer Staples";"Sign Z";;;;;;;;;;;
+"Consumer Staples";"Sign Z P-Values";;;;;;;;;;;
+"Consumer Staples";"Csect T";1.5526;1.5526;-2.8952;-4.1627;1.589;-2.1125;4.6116;1.5526;1.5526;-0.7907;-0.0535
+"Consumer Staples";"Csect T P-Values";0.1275;0.1275;0.0058;0.0001;0.1191;0.0402;0;0.1275;0.1275;0.4333;0.9576
+"Consumer Staples";"StdCSect T";0.7062;0.7062;-2.9433;-4.4101;1.6836;-3.0069;5.3254;0.7062;0.7062;-0.9955;0.5633
+"Consumer Staples";"StdCSect T P-Values";0.4837;0.4837;0.0051;0.0001;0.0992;0.0043;3.091E-6;0.4837;0.4837;0.3248;0.576
+"Consumer Staples";"Rank Z";;;;;;;;;;;
+"Consumer Staples";"Rank Z P-Values";;;;;;;;;;;
+"Consumer Staples";"Generalized Rank T";;;;;;;;;;;
+"Consumer Staples";"Generalized Rank T P-Values";;;;;;;;;;;
+"Consumer Staples";"Generalized Rank Z";;;;;;;;;;;
+"Consumer Staples";"Generalized Rank Z P-Values";;;;;;;;;;;
+"Consumer Staples";"Adjusted Patell Z";;;;;;;;;;;
+"Consumer Staples";"Adjusted Patell Z P-Values";;;;;;;;;;;
+"Consumer Staples";"Adjusted StdCSect T";;;;;;;;;;;
+"Consumer Staples";"Adjusted StdCSect T P-Values";;;;;;;;;;;
+"Consumer Staples";"Skewness-Corrected T";;;;;;;;;;;
+"Consumer Staples";"Skewness-Corrected T P-Values";;;;;;;;;;;
+"Consumer Staples";"CDA T";;;;;;;;;;;
+"Consumer Staples";"CDA T P-Values";;;;;;;;;;;
+"Consumer Staples";Wilcoxon;;;;;;;;;;;
+"Consumer Staples";"Wilcoxon P-Values";;;;;;;;;;;
+"Consumer Discretionary";"Average Abnormal Return (AAR)";0.001;0.001;0.0002;0.0034;-0.0076;-0.0031;-0.0185;0.001;0.001;0.0088;-0.0215
+"Consumer Discretionary";N;72;72;72;72;72;72;72;72;72;72;72
+"Consumer Discretionary";Pos:Neg;48:24;48:24;39:33;34:38;27:45;36:36;10:62;48:24;48:24;41:31;17:55
+"Consumer Discretionary";"Patell Z";0.3396;0.3396;0.406;0.9115;-3.2755;-2.9101;-9.3783;0.3396;0.3396;2.6715;-12.5637
+"Consumer Discretionary";"Patell Z P-Values";0.7341;0.7341;0.6847;0.362;0.0011;0.0036;6.7042E-21;0.7341;0.7341;0.0076;3.3431E-36
+"Consumer Discretionary";"Generalized Sign Z";;;;;;;;;;;
+"Consumer Discretionary";"Generalized Sign Z P-Values";;;;;;;;;;;
+"Consumer Discretionary";"Sign Z";;;;;;;;;;;
+"Consumer Discretionary";"Sign Z P-Values";;;;;;;;;;;
+"Consumer Discretionary";"Csect T";3.7187;3.7187;0.1006;1.1977;-2.7684;-0.5108;-6.0735;3.7187;3.7187;1.5077;-5.022
+"Consumer Discretionary";"Csect T P-Values";0.0004;0.0004;0.9202;0.235;0.0072;0.6111;5.574E-8;0.0004;0.0004;0.1361;3.663E-6
+"Consumer Discretionary";"StdCSect T";4.2235;4.2235;0.3926;0.6181;-2.4574;-1.0749;-6.0399;4.2235;4.2235;0.9448;-5.6585
+"Consumer Discretionary";"StdCSect T P-Values";0.0001;0.0001;0.6958;0.5385;0.0164;0.2861;6.3984E-8;0.0001;0.0001;0.348;3.0012E-7
+"Consumer Discretionary";"Rank Z";;;;;;;;;;;
+"Consumer Discretionary";"Rank Z P-Values";;;;;;;;;;;
+"Consumer Discretionary";"Generalized Rank T";;;;;;;;;;;
+"Consumer Discretionary";"Generalized Rank T P-Values";;;;;;;;;;;
+"Consumer Discretionary";"Generalized Rank Z";;;;;;;;;;;
+"Consumer Discretionary";"Generalized Rank Z P-Values";;;;;;;;;;;
+"Consumer Discretionary";"Adjusted Patell Z";;;;;;;;;;;
+"Consumer Discretionary";"Adjusted Patell Z P-Values";;;;;;;;;;;
+"Consumer Discretionary";"Adjusted StdCSect T";;;;;;;;;;;
+"Consumer Discretionary";"Adjusted StdCSect T P-Values";;;;;;;;;;;
+"Consumer Discretionary";"Skewness-Corrected T";;;;;;;;;;;
+"Consumer Discretionary";"Skewness-Corrected T P-Values";;;;;;;;;;;
+"Consumer Discretionary";"CDA T";;;;;;;;;;;
+"Consumer Discretionary";"CDA T P-Values";;;;;;;;;;;
+"Consumer Discretionary";Wilcoxon;;;;;;;;;;;
+"Consumer Discretionary";"Wilcoxon P-Values";;;;;;;;;;;
+"Communication Services";"Average Abnormal Return (AAR)";0.0002;0.0002;-0.0044;0.003;-0.0032;-0.0045;0.0019;0.0002;0.0002;0.0085;-0.0033
+"Communication Services";N;37;37;37;37;37;37;37;37;37;37;37
+"Communication Services";Pos:Neg;18:19;18:19;15:22;20:17;15:22;14:23;23:14;18:19;18:19;21:16;16:21
+"Communication Services";"Patell Z";0.0386;0.0386;-1.9171;0.321;-0.9129;-4.5408;1.6338;0.0386;0.0386;2.4793;-0.6458
+"Communication Services";"Patell Z P-Values";0.9692;0.9692;0.0552;0.7482;0.3613;5.605E-6;0.1023;0.9692;0.9692;0.0132;0.5184
+"Communication Services";"Generalized Sign Z";;;;;;;;;;;
+"Communication Services";"Generalized Sign Z P-Values";;;;;;;;;;;
+"Communication Services";"Sign Z";;;;;;;;;;;
+"Communication Services";"Sign Z P-Values";;;;;;;;;;;
+"Communication Services";"Csect T";0.6714;0.6714;-1.6196;0.9092;-1.6725;-0.6695;0.5437;0.6714;0.6714;1.8452;-0.6826
+"Communication Services";"Csect T P-Values";0.5062;0.5062;0.114;0.3693;0.1031;0.5074;0.59;0.5062;0.5062;0.0732;0.4992
+"Communication Services";"StdCSect T";0.3652;0.3652;-1.7343;0.218;-1.1973;-1.7348;1.0882;0.3652;0.3652;1.4506;-0.4219
+"Communication Services";"StdCSect T P-Values";0.7171;0.7171;0.0914;0.8286;0.239;0.0913;0.2837;0.7171;0.7171;0.1556;0.6756
+"Communication Services";"Rank Z";;;;;;;;;;;
+"Communication Services";"Rank Z P-Values";;;;;;;;;;;
+"Communication Services";"Generalized Rank T";;;;;;;;;;;
+"Communication Services";"Generalized Rank T P-Values";;;;;;;;;;;
+"Communication Services";"Generalized Rank Z";;;;;;;;;;;
+"Communication Services";"Generalized Rank Z P-Values";;;;;;;;;;;
+"Communication Services";"Adjusted Patell Z";;;;;;;;;;;
+"Communication Services";"Adjusted Patell Z P-Values";;;;;;;;;;;
+"Communication Services";"Adjusted StdCSect T";;;;;;;;;;;
+"Communication Services";"Adjusted StdCSect T P-Values";;;;;;;;;;;
+"Communication Services";"Skewness-Corrected T";;;;;;;;;;;
+"Communication Services";"Skewness-Corrected T P-Values";;;;;;;;;;;
+"Communication Services";"CDA T";;;;;;;;;;;
+"Communication Services";"CDA T P-Values";;;;;;;;;;;
+"Communication Services";Wilcoxon;;;;;;;;;;;
+"Communication Services";"Wilcoxon P-Values";;;;;;;;;;;
+"Real Estate";"Average Abnormal Return (AAR)";0.0003;0.0003;-0.0044;0.0073;-0.0032;0.0062;0.0117;0.0003;0.0003;0.0066;-0.003
+"Real Estate";N;35;35;35;35;35;35;35;35;35;35;35
+"Real Estate";Pos:Neg;25:10;25:10;14:21;16:19;16:19;25:10;26:9;25:10;25:10;26:9;17:18
+"Real Estate";"Patell Z";0.1634;0.1634;-1.8809;2.3481;-0.3696;2.9105;5.9706;0.1634;0.1634;3.704;-1.2572
+"Real Estate";"Patell Z P-Values";0.8702;0.8702;0.06;0.0189;0.7117;0.0036;2.3635E-9;0.8702;0.8702;0.0002;0.2087
+"Real Estate";"Generalized Sign Z";;;;;;;;;;;
+"Real Estate";"Generalized Sign Z P-Values";;;;;;;;;;;
+"Real Estate";"Sign Z";;;;;;;;;;;
+"Real Estate";"Sign Z P-Values";;;;;;;;;;;
+"Real Estate";"Csect T";2.105;2.105;-1.2433;1.7092;-0.7424;2.4985;5.0221;2.105;2.105;2.4947;-1.1689
+"Real Estate";"Csect T P-Values";0.0428;0.0428;0.2223;0.0965;0.463;0.0175;0;0.0428;0.0428;0.0176;0.2506
+"Real Estate";"StdCSect T";2.3647;2.3647;-1.249;1.3654;-0.2179;2.4408;5.2343;2.3647;2.3647;2.5681;-0.908
+"Real Estate";"StdCSect T P-Values";0.0239;0.0239;0.2202;0.1811;0.8288;0.02;8.5272E-6;0.0239;0.0239;0.0148;0.3703
+"Real Estate";"Rank Z";;;;;;;;;;;
+"Real Estate";"Rank Z P-Values";;;;;;;;;;;
+"Real Estate";"Generalized Rank T";;;;;;;;;;;
+"Real Estate";"Generalized Rank T P-Values";;;;;;;;;;;
+"Real Estate";"Generalized Rank Z";;;;;;;;;;;
+"Real Estate";"Generalized Rank Z P-Values";;;;;;;;;;;
+"Real Estate";"Adjusted Patell Z";;;;;;;;;;;
+"Real Estate";"Adjusted Patell Z P-Values";;;;;;;;;;;
+"Real Estate";"Adjusted StdCSect T";;;;;;;;;;;
+"Real Estate";"Adjusted StdCSect T P-Values";;;;;;;;;;;
+"Real Estate";"Skewness-Corrected T";;;;;;;;;;;
+"Real Estate";"Skewness-Corrected T P-Values";;;;;;;;;;;
+"Real Estate";"CDA T";;;;;;;;;;;
+"Real Estate";"CDA T P-Values";;;;;;;;;;;
+"Real Estate";Wilcoxon;;;;;;;;;;;
+"Real Estate";"Wilcoxon P-Values";;;;;;;;;;;
+"Health Care";"Average Abnormal Return (AAR)";0.0012;0.0012;0.0005;0.0133;0.006;0.0144;-0.0006;0.0012;0.0012;0.0188;0.0156
+"Health Care";N;56;56;56;56;56;56;56;56;56;56;56
+"Health Care";Pos:Neg;46:10;46:10;28:28;39:17;39:17;37:19;26:30;46:10;46:10;42:14;43:13
+"Health Care";"Patell Z";0.4303;0.4303;0.2923;4.3932;3.0929;4.7502;0.2681;0.4303;0.4303;8.3842;7.1428
+"Health Care";"Patell Z P-Values";0.667;0.667;0.7701;0;0.002;2.032E-6;0.7886;0.667;0.667;5.1053E-17;9.1452E-13
+"Health Care";"Generalized Sign Z";;;;;;;;;;;
+"Health Care";"Generalized Sign Z P-Values";;;;;;;;;;;
+"Health Care";"Sign Z";;;;;;;;;;;
+"Health Care";"Sign Z P-Values";;;;;;;;;;;
+"Health Care";"Csect T";5.5255;5.5255;0.2231;3.5634;2.8701;3.1456;-0.2321;5.5255;5.5255;5.1326;5.0532
+"Health Care";"Csect T P-Values";9.2741E-7;9.2741E-7;0.8243;0.0008;0.0058;0.0027;0.8173;9.2741E-7;9.2741E-7;3.854E-6;5.1233E-6
+"Health Care";"StdCSect T";5.7718;5.7718;0.3323;2.2972;2.7776;2.1786;0.2169;5.7718;5.7718;4.4587;4.6383
+"Health Care";"StdCSect T P-Values";3.7483E-7;3.7483E-7;0.7409;0.0254;0.0075;0.0337;0.8291;3.7483E-7;3.7483E-7;0;0
+"Health Care";"Rank Z";;;;;;;;;;;
+"Health Care";"Rank Z P-Values";;;;;;;;;;;
+"Health Care";"Generalized Rank T";;;;;;;;;;;
+"Health Care";"Generalized Rank T P-Values";;;;;;;;;;;
+"Health Care";"Generalized Rank Z";;;;;;;;;;;
+"Health Care";"Generalized Rank Z P-Values";;;;;;;;;;;
+"Health Care";"Adjusted Patell Z";;;;;;;;;;;
+"Health Care";"Adjusted Patell Z P-Values";;;;;;;;;;;
+"Health Care";"Adjusted StdCSect T";;;;;;;;;;;
+"Health Care";"Adjusted StdCSect T P-Values";;;;;;;;;;;
+"Health Care";"Skewness-Corrected T";;;;;;;;;;;
+"Health Care";"Skewness-Corrected T P-Values";;;;;;;;;;;
+"Health Care";"CDA T";;;;;;;;;;;
+"Health Care";"CDA T P-Values";;;;;;;;;;;
+"Health Care";Wilcoxon;;;;;;;;;;;
+"Health Care";"Wilcoxon P-Values";;;;;;;;;;;
+Energy;"Average Abnormal Return (AAR)";-0.0002;-0.0002;0.0027;-0.0023;-0.0051;0.0124;-0.0146;-0.0002;-0.0002;-0.004;0.0256
+Energy;N;14;14;14;14;14;14;14;14;14;14;14
+Energy;Pos:Neg;4:10;4:10;7:7;5:9;2:12;8:6;1:13;4:10;4:10;9:5;9:5
+Energy;"Patell Z";-0.0792;-0.0792;0.2963;-0.8808;-1.4368;2.1526;-2.994;-0.0792;-0.0792;-1.7419;5.6678
+Energy;"Patell Z P-Values";0.9369;0.9369;0.767;0.3785;0.1508;0.0314;0.0028;0.9369;0.9369;0.0815;1.4466E-8
+Energy;"Generalized Sign Z";;;;;;;;;;;
+Energy;"Generalized Sign Z P-Values";;;;;;;;;;;
+Energy;"Sign Z";;;;;;;;;;;
+Energy;"Sign Z P-Values";;;;;;;;;;;
+Energy;"Csect T";-0.6036;-0.6036;0.561;-0.5125;-1.6403;1.0277;-1.5695;-0.6036;-0.6036;-0.4435;1.9871
+Energy;"Csect T P-Values";0.5565;0.5565;0.5843;0.6169;0.1249;0.3228;0.1405;0.5565;0.5565;0.6647;0.0684
+Energy;"StdCSect T";-0.9944;-0.9944;0.2903;-0.8869;-2.0458;0.8762;-1.6611;-0.9944;-0.9944;-0.7113;2.0685
+Energy;"StdCSect T P-Values";0.3382;0.3382;0.7762;0.3912;0.0616;0.3968;0.1206;0.3382;0.3382;0.4895;0.0591
+Energy;"Rank Z";;;;;;;;;;;
+Energy;"Rank Z P-Values";;;;;;;;;;;
+Energy;"Generalized Rank T";;;;;;;;;;;
+Energy;"Generalized Rank T P-Values";;;;;;;;;;;
+Energy;"Generalized Rank Z";;;;;;;;;;;
+Energy;"Generalized Rank Z P-Values";;;;;;;;;;;
+Energy;"Adjusted Patell Z";;;;;;;;;;;
+Energy;"Adjusted Patell Z P-Values";;;;;;;;;;;
+Energy;"Adjusted StdCSect T";;;;;;;;;;;
+Energy;"Adjusted StdCSect T P-Values";;;;;;;;;;;
+Energy;"Skewness-Corrected T";;;;;;;;;;;
+Energy;"Skewness-Corrected T P-Values";;;;;;;;;;;
+Energy;"CDA T";;;;;;;;;;;
+Energy;"CDA T P-Values";;;;;;;;;;;
+Energy;Wilcoxon;;;;;;;;;;;
+Energy;"Wilcoxon P-Values";;;;;;;;;;;
+"Information Technology";"Average Abnormal Return (AAR)";0.0012;0.0012;0.0008;0.0108;-0.0049;0.031;-0.0089;0.0012;0.0012;0.016;0.0031
+"Information Technology";N;32;32;32;32;32;32;32;32;32;32;32
+"Information Technology";Pos:Neg;25:7;25:7;17:15;22:10;13:19;29:3;6:26;25:7;25:7;22:10;23:9
+"Information Technology";"Patell Z";0.3506;0.3506;0.3781;3.2121;-1.3568;9.5442;-3.3779;0.3506;0.3506;3.4853;1.0441
+"Information Technology";"Patell Z P-Values";0.7259;0.7259;0.7053;0.0013;0.1749;1.3717E-21;0.0007;0.7259;0.7259;0.0005;0.2964
+"Information Technology";"Generalized Sign Z";;;;;;;;;;;
+"Information Technology";"Generalized Sign Z P-Values";;;;;;;;;;;
+"Information Technology";"Sign Z";;;;;;;;;;;
+"Information Technology";"Sign Z P-Values";;;;;;;;;;;
+"Information Technology";"Csect T";4.742;4.742;0.3068;3.4156;-1.6496;6.8056;-3.4638;4.742;4.742;2.4873;0.4291
+"Information Technology";"Csect T P-Values";0;0;0.761;0.0018;0.1091;1.2693E-7;0.0016;0;0;0.0185;0.6708
+"Information Technology";"StdCSect T";4.6303;4.6303;0.4542;3.6399;-1.4124;6.5183;-4.117;4.6303;4.6303;1.2568;0.5689
+"Information Technology";"StdCSect T P-Values";0.0001;0.0001;0.6529;0.001;0.1678;2.8336E-7;0.0003;0.0001;0.0001;0.2182;0.5735
+"Information Technology";"Rank Z";;;;;;;;;;;
+"Information Technology";"Rank Z P-Values";;;;;;;;;;;
+"Information Technology";"Generalized Rank T";;;;;;;;;;;
+"Information Technology";"Generalized Rank T P-Values";;;;;;;;;;;
+"Information Technology";"Generalized Rank Z";;;;;;;;;;;
+"Information Technology";"Generalized Rank Z P-Values";;;;;;;;;;;
+"Information Technology";"Adjusted Patell Z";;;;;;;;;;;
+"Information Technology";"Adjusted Patell Z P-Values";;;;;;;;;;;
+"Information Technology";"Adjusted StdCSect T";;;;;;;;;;;
+"Information Technology";"Adjusted StdCSect T P-Values";;;;;;;;;;;
+"Information Technology";"Skewness-Corrected T";;;;;;;;;;;
+"Information Technology";"Skewness-Corrected T P-Values";;;;;;;;;;;
+"Information Technology";"CDA T";;;;;;;;;;;
+"Information Technology";"CDA T P-Values";;;;;;;;;;;
+"Information Technology";Wilcoxon;;;;;;;;;;;
+"Information Technology";"Wilcoxon P-Values";;;;;;;;;;;

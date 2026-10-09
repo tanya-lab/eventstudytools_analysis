@@ -1,0 +1,2031 @@
+Sub-Sample;"Day Relative to Event";-1;0;1
+Machinery;"Average Abnormal Return (AAR)";-0.0069;0.0117;-0.0163
+Machinery;N;37;37;37
+Machinery;Pos:Neg;11:26;26:11;5:32
+Machinery;"Patell Z";-3.2318;4.618;-7.8182
+Machinery;"Patell Z P-Values";0.0012;3.8749E-6;5.3583E-15
+Machinery;"Generalized Sign Z";;;
+Machinery;"Generalized Sign Z P-Values";;;
+Machinery;"Sign Z";;;
+Machinery;"Sign Z P-Values";;;
+Machinery;"Csect T";-2.4398;2.573;-7.1089
+Machinery;"Csect T P-Values";0.0198;0.0144;2.3641E-8
+Machinery;"StdCSect T";-2.6349;2.3783;-6.9617
+Machinery;"StdCSect T P-Values";0.0123;0.0228;3.686E-8
+Machinery;"Rank Z";;;
+Machinery;"Rank Z P-Values";;;
+Machinery;"Generalized Rank T";;;
+Machinery;"Generalized Rank T P-Values";;;
+Machinery;"Generalized Rank Z";;;
+Machinery;"Generalized Rank Z P-Values";;;
+Machinery;"Adjusted Patell Z";;;
+Machinery;"Adjusted Patell Z P-Values";;;
+Machinery;"Adjusted StdCSect T";;;
+Machinery;"Adjusted StdCSect T P-Values";;;
+Machinery;"Skewness-Corrected T";;;
+Machinery;"Skewness-Corrected T P-Values";;;
+Machinery;"CDA T";;;
+Machinery;"CDA T P-Values";;;
+Machinery;Wilcoxon;;;
+Machinery;"Wilcoxon P-Values";;;
+Chemicals;"Average Abnormal Return (AAR)";0.0056;0.0018;-0.0066
+Chemicals;N;25;25;25
+Chemicals;Pos:Neg;19:6;15:10;9:16
+Chemicals;"Patell Z";3.1909;-0.9645;-2.8394
+Chemicals;"Patell Z P-Values";0.0014;0.3348;0.0045
+Chemicals;"Generalized Sign Z";;;
+Chemicals;"Generalized Sign Z P-Values";;;
+Chemicals;"Sign Z";;;
+Chemicals;"Sign Z P-Values";;;
+Chemicals;"Csect T";2.3716;0.2967;-2.341
+Chemicals;"Csect T P-Values";0.0261;0.7692;0.0279
+Chemicals;"StdCSect T";3.1442;-0.3672;-2.3786
+Chemicals;"StdCSect T P-Values";0.0044;0.7167;0.0257
+Chemicals;"Rank Z";;;
+Chemicals;"Rank Z P-Values";;;
+Chemicals;"Generalized Rank T";;;
+Chemicals;"Generalized Rank T P-Values";;;
+Chemicals;"Generalized Rank Z";;;
+Chemicals;"Generalized Rank Z P-Values";;;
+Chemicals;"Adjusted Patell Z";;;
+Chemicals;"Adjusted Patell Z P-Values";;;
+Chemicals;"Adjusted StdCSect T";;;
+Chemicals;"Adjusted StdCSect T P-Values";;;
+Chemicals;"Skewness-Corrected T";;;
+Chemicals;"Skewness-Corrected T P-Values";;;
+Chemicals;"CDA T";;;
+Chemicals;"CDA T P-Values";;;
+Chemicals;Wilcoxon;;;
+Chemicals;"Wilcoxon P-Values";;;
+"Trading Companies & Distributors";"Average Abnormal Return (AAR)";-0.0059;0.0261;-0.0115
+"Trading Companies & Distributors";N;13;13;13
+"Trading Companies & Distributors";Pos:Neg;1:12;11:2;2:11
+"Trading Companies & Distributors";"Patell Z";-1.4528;6.5909;-2.6764
+"Trading Companies & Distributors";"Patell Z P-Values";0.1463;4.3728E-11;0.0074
+"Trading Companies & Distributors";"Generalized Sign Z";;;
+"Trading Companies & Distributors";"Generalized Sign Z P-Values";;;
+"Trading Companies & Distributors";"Sign Z";;;
+"Trading Companies & Distributors";"Sign Z P-Values";;;
+"Trading Companies & Distributors";"Csect T";-2.7029;3.1522;-2.6478
+"Trading Companies & Distributors";"Csect T P-Values";0.0192;0.0083;0.0213
+"Trading Companies & Distributors";"StdCSect T";-2.2257;2.6181;-2.0766
+"Trading Companies & Distributors";"StdCSect T P-Values";0.046;0.0225;0.06
+"Trading Companies & Distributors";"Rank Z";;;
+"Trading Companies & Distributors";"Rank Z P-Values";;;
+"Trading Companies & Distributors";"Generalized Rank T";;;
+"Trading Companies & Distributors";"Generalized Rank T P-Values";;;
+"Trading Companies & Distributors";"Generalized Rank Z";;;
+"Trading Companies & Distributors";"Generalized Rank Z P-Values";;;
+"Trading Companies & Distributors";"Adjusted Patell Z";;;
+"Trading Companies & Distributors";"Adjusted Patell Z P-Values";;;
+"Trading Companies & Distributors";"Adjusted StdCSect T";;;
+"Trading Companies & Distributors";"Adjusted StdCSect T P-Values";;;
+"Trading Companies & Distributors";"Skewness-Corrected T";;;
+"Trading Companies & Distributors";"Skewness-Corrected T P-Values";;;
+"Trading Companies & Distributors";"CDA T";;;
+"Trading Companies & Distributors";"CDA T P-Values";;;
+"Trading Companies & Distributors";Wilcoxon;;;
+"Trading Companies & Distributors";"Wilcoxon P-Values";;;
+"Financial Services";"Average Abnormal Return (AAR)";-0.0034;0.0196;-0.0208
+"Financial Services";N;16;16;16
+"Financial Services";Pos:Neg;4:12;13:3;5:11
+"Financial Services";"Patell Z";-1.395;4.7223;-4.4354
+"Financial Services";"Patell Z P-Values";0.163;2.3321E-6;9.1917E-6
+"Financial Services";"Generalized Sign Z";;;
+"Financial Services";"Generalized Sign Z P-Values";;;
+"Financial Services";"Sign Z";;;
+"Financial Services";"Sign Z P-Values";;;
+"Financial Services";"Csect T";-1.0245;2.4853;-3.2793
+"Financial Services";"Csect T P-Values";0.3218;0.0252;0.0051
+"Financial Services";"StdCSect T";-1.3493;2.1652;-2.9547
+"Financial Services";"StdCSect T P-Values";0.1973;0.0469;0.0098
+"Financial Services";"Rank Z";;;
+"Financial Services";"Rank Z P-Values";;;
+"Financial Services";"Generalized Rank T";;;
+"Financial Services";"Generalized Rank T P-Values";;;
+"Financial Services";"Generalized Rank Z";;;
+"Financial Services";"Generalized Rank Z P-Values";;;
+"Financial Services";"Adjusted Patell Z";;;
+"Financial Services";"Adjusted Patell Z P-Values";;;
+"Financial Services";"Adjusted StdCSect T";;;
+"Financial Services";"Adjusted StdCSect T P-Values";;;
+"Financial Services";"Skewness-Corrected T";;;
+"Financial Services";"Skewness-Corrected T P-Values";;;
+"Financial Services";"CDA T";;;
+"Financial Services";"CDA T P-Values";;;
+"Financial Services";Wilcoxon;;;
+"Financial Services";"Wilcoxon P-Values";;;
+Multi-Utilities;"Average Abnormal Return (AAR)";0.0061;-0.0192;0.0242
+Multi-Utilities;N;7;7;7
+Multi-Utilities;Pos:Neg;4:3;1:6;7:0
+Multi-Utilities;"Patell Z";1.6464;-5.1864;6.4199
+Multi-Utilities;"Patell Z P-Values";0.0997;2.1435E-7;1.3632E-10
+Multi-Utilities;"Generalized Sign Z";;;
+Multi-Utilities;"Generalized Sign Z P-Values";;;
+Multi-Utilities;"Sign Z";;;
+Multi-Utilities;"Sign Z P-Values";;;
+Multi-Utilities;"Csect T";1.7847;-3.6828;6.8634
+Multi-Utilities;"Csect T P-Values";0.1246;0.0103;0.0005
+Multi-Utilities;"StdCSect T";1.7764;-3.7504;7.2291
+Multi-Utilities;"StdCSect T P-Values";0.126;0.0095;0.0004
+Multi-Utilities;"Rank Z";;;
+Multi-Utilities;"Rank Z P-Values";;;
+Multi-Utilities;"Generalized Rank T";;;
+Multi-Utilities;"Generalized Rank T P-Values";;;
+Multi-Utilities;"Generalized Rank Z";;;
+Multi-Utilities;"Generalized Rank Z P-Values";;;
+Multi-Utilities;"Adjusted Patell Z";;;
+Multi-Utilities;"Adjusted Patell Z P-Values";;;
+Multi-Utilities;"Adjusted StdCSect T";;;
+Multi-Utilities;"Adjusted StdCSect T P-Values";;;
+Multi-Utilities;"Skewness-Corrected T";;;
+Multi-Utilities;"Skewness-Corrected T P-Values";;;
+Multi-Utilities;"CDA T";;;
+Multi-Utilities;"CDA T P-Values";;;
+Multi-Utilities;Wilcoxon;;;
+Multi-Utilities;"Wilcoxon P-Values";;;
+"Food Products";"Average Abnormal Return (AAR)";0.0242;-0.0135;0.003
+"Food Products";N;14;14;14
+"Food Products";Pos:Neg;12:2;5:9;9:5
+"Food Products";"Patell Z";8.0203;-4.2671;1.0687
+"Food Products";"Patell Z P-Values";1.0546E-15;0;0.2852
+"Food Products";"Generalized Sign Z";;;
+"Food Products";"Generalized Sign Z P-Values";;;
+"Food Products";"Sign Z";;;
+"Food Products";"Sign Z P-Values";;;
+"Food Products";"Csect T";2.5434;-2.4132;0.7913
+"Food Products";"Csect T P-Values";0.0245;0.0313;0.443
+"Food Products";"StdCSect T";2.6478;-2.3432;0.8187
+"Food Products";"StdCSect T P-Values";0.0201;0.0357;0.4277
+"Food Products";"Rank Z";;;
+"Food Products";"Rank Z P-Values";;;
+"Food Products";"Generalized Rank T";;;
+"Food Products";"Generalized Rank T P-Values";;;
+"Food Products";"Generalized Rank Z";;;
+"Food Products";"Generalized Rank Z P-Values";;;
+"Food Products";"Adjusted Patell Z";;;
+"Food Products";"Adjusted Patell Z P-Values";;;
+"Food Products";"Adjusted StdCSect T";;;
+"Food Products";"Adjusted StdCSect T P-Values";;;
+"Food Products";"Skewness-Corrected T";;;
+"Food Products";"Skewness-Corrected T P-Values";;;
+"Food Products";"CDA T";;;
+"Food Products";"CDA T P-Values";;;
+"Food Products";Wilcoxon;;;
+"Food Products";"Wilcoxon P-Values";;;
+"Metals & Mining";"Average Abnormal Return (AAR)";0.0004;-0.0254;0.0153
+"Metals & Mining";N;11;11;11
+"Metals & Mining";Pos:Neg;6:5;7:4;5:6
+"Metals & Mining";"Patell Z";0.129;-4.0352;2.5918
+"Metals & Mining";"Patell Z P-Values";0.8974;0.0001;0.0095
+"Metals & Mining";"Generalized Sign Z";;;
+"Metals & Mining";"Generalized Sign Z P-Values";;;
+"Metals & Mining";"Sign Z";;;
+"Metals & Mining";"Sign Z P-Values";;;
+"Metals & Mining";"Csect T";0.0644;-0.5847;1.1833
+"Metals & Mining";"Csect T P-Values";0.9499;0.5717;0.2641
+"Metals & Mining";"StdCSect T";0.112;-0.5367;1.1617
+"Metals & Mining";"StdCSect T P-Values";0.9131;0.6032;0.2723
+"Metals & Mining";"Rank Z";;;
+"Metals & Mining";"Rank Z P-Values";;;
+"Metals & Mining";"Generalized Rank T";;;
+"Metals & Mining";"Generalized Rank T P-Values";;;
+"Metals & Mining";"Generalized Rank Z";;;
+"Metals & Mining";"Generalized Rank Z P-Values";;;
+"Metals & Mining";"Adjusted Patell Z";;;
+"Metals & Mining";"Adjusted Patell Z P-Values";;;
+"Metals & Mining";"Adjusted StdCSect T";;;
+"Metals & Mining";"Adjusted StdCSect T P-Values";;;
+"Metals & Mining";"Skewness-Corrected T";;;
+"Metals & Mining";"Skewness-Corrected T P-Values";;;
+"Metals & Mining";"CDA T";;;
+"Metals & Mining";"CDA T P-Values";;;
+"Metals & Mining";Wilcoxon;;;
+"Metals & Mining";"Wilcoxon P-Values";;;
+"Electrical Equipment";"Average Abnormal Return (AAR)";0.0009;0.0632;-0.012
+"Electrical Equipment";N;8;8;8
+"Electrical Equipment";Pos:Neg;5:3;7:1;2:6
+"Electrical Equipment";"Patell Z";0.0959;8.8525;-1.9953
+"Electrical Equipment";"Patell Z P-Values";0.9236;8.5593E-19;0.046
+"Electrical Equipment";"Generalized Sign Z";;;
+"Electrical Equipment";"Generalized Sign Z P-Values";;;
+"Electrical Equipment";"Sign Z";;;
+"Electrical Equipment";"Sign Z P-Values";;;
+"Electrical Equipment";"Csect T";0.461;2.8415;-1.697
+"Electrical Equipment";"Csect T P-Values";0.6588;0.025;0.1335
+"Electrical Equipment";"StdCSect T";0.1745;4.4968;-1.6808
+"Electrical Equipment";"StdCSect T P-Values";0.8664;0.0028;0.1367
+"Electrical Equipment";"Rank Z";;;
+"Electrical Equipment";"Rank Z P-Values";;;
+"Electrical Equipment";"Generalized Rank T";;;
+"Electrical Equipment";"Generalized Rank T P-Values";;;
+"Electrical Equipment";"Generalized Rank Z";;;
+"Electrical Equipment";"Generalized Rank Z P-Values";;;
+"Electrical Equipment";"Adjusted Patell Z";;;
+"Electrical Equipment";"Adjusted Patell Z P-Values";;;
+"Electrical Equipment";"Adjusted StdCSect T";;;
+"Electrical Equipment";"Adjusted StdCSect T P-Values";;;
+"Electrical Equipment";"Skewness-Corrected T";;;
+"Electrical Equipment";"Skewness-Corrected T P-Values";;;
+"Electrical Equipment";"CDA T";;;
+"Electrical Equipment";"CDA T P-Values";;;
+"Electrical Equipment";Wilcoxon;;;
+"Electrical Equipment";"Wilcoxon P-Values";;;
+"Capital Markets";"Average Abnormal Return (AAR)";-0.0035;-0.008;-0.0086
+"Capital Markets";N;23;23;23
+"Capital Markets";Pos:Neg;11:12;7:16;8:15
+"Capital Markets";"Patell Z";-0.7747;-3.9892;-2.319
+"Capital Markets";"Patell Z P-Values";0.4385;0.0001;0.0204
+"Capital Markets";"Generalized Sign Z";;;
+"Capital Markets";"Generalized Sign Z P-Values";;;
+"Capital Markets";"Sign Z";;;
+"Capital Markets";"Sign Z P-Values";;;
+"Capital Markets";"Csect T";-1.2226;-1.0747;-1.2901
+"Capital Markets";"Csect T P-Values";0.2344;0.2941;0.2104
+"Capital Markets";"StdCSect T";-0.9086;-1.49;-1.2953
+"Capital Markets";"StdCSect T P-Values";0.3734;0.1504;0.2087
+"Capital Markets";"Rank Z";;;
+"Capital Markets";"Rank Z P-Values";;;
+"Capital Markets";"Generalized Rank T";;;
+"Capital Markets";"Generalized Rank T P-Values";;;
+"Capital Markets";"Generalized Rank Z";;;
+"Capital Markets";"Generalized Rank Z P-Values";;;
+"Capital Markets";"Adjusted Patell Z";;;
+"Capital Markets";"Adjusted Patell Z P-Values";;;
+"Capital Markets";"Adjusted StdCSect T";;;
+"Capital Markets";"Adjusted StdCSect T P-Values";;;
+"Capital Markets";"Skewness-Corrected T";;;
+"Capital Markets";"Skewness-Corrected T P-Values";;;
+"Capital Markets";"CDA T";;;
+"Capital Markets";"CDA T P-Values";;;
+"Capital Markets";Wilcoxon;;;
+"Capital Markets";"Wilcoxon P-Values";;;
+Beverages;"Average Abnormal Return (AAR)";-0.0053;-0.0046;0.0183
+Beverages;N;11;11;11
+Beverages;Pos:Neg;7:4;3:8;11:0
+Beverages;"Patell Z";-1.8488;-1.5918;5.2081
+Beverages;"Patell Z P-Values";0.0645;0.1114;1.9078E-7
+Beverages;"Generalized Sign Z";;;
+Beverages;"Generalized Sign Z P-Values";;;
+Beverages;"Sign Z";;;
+Beverages;"Sign Z P-Values";;;
+Beverages;"Csect T";-0.5466;-0.7717;6.012
+Beverages;"Csect T P-Values";0.5966;0.4581;0.0001
+Beverages;"StdCSect T";-0.5861;-0.8824;6.0843
+Beverages;"StdCSect T P-Values";0.5708;0.3983;0.0001
+Beverages;"Rank Z";;;
+Beverages;"Rank Z P-Values";;;
+Beverages;"Generalized Rank T";;;
+Beverages;"Generalized Rank T P-Values";;;
+Beverages;"Generalized Rank Z";;;
+Beverages;"Generalized Rank Z P-Values";;;
+Beverages;"Adjusted Patell Z";;;
+Beverages;"Adjusted Patell Z P-Values";;;
+Beverages;"Adjusted StdCSect T";;;
+Beverages;"Adjusted StdCSect T P-Values";;;
+Beverages;"Skewness-Corrected T";;;
+Beverages;"Skewness-Corrected T P-Values";;;
+Beverages;"CDA T";;;
+Beverages;"CDA T P-Values";;;
+Beverages;Wilcoxon;;;
+Beverages;"Wilcoxon P-Values";;;
+Banks;"Average Abnormal Return (AAR)";-0.0083;-0.0557;0.0102
+Banks;N;37;37;37
+Banks;Pos:Neg;12:25;1:36;24:13
+Banks;"Patell Z";-3.2646;-23.6587;3.3768
+Banks;"Patell Z P-Values";0.0011;9.6113E-124;0.0007
+Banks;"Generalized Sign Z";;;
+Banks;"Generalized Sign Z P-Values";;;
+Banks;"Sign Z";;;
+Banks;"Sign Z P-Values";;;
+Banks;"Csect T";-3.1442;-7.1047;2.0314
+Banks;"Csect T P-Values";0.0033;2.3941E-8;0.0496
+Banks;"StdCSect T";-3.0412;-8.3912;1.6451
+Banks;"StdCSect T P-Values";0.0044;5.4001E-10;0.1086
+Banks;"Rank Z";;;
+Banks;"Rank Z P-Values";;;
+Banks;"Generalized Rank T";;;
+Banks;"Generalized Rank T P-Values";;;
+Banks;"Generalized Rank Z";;;
+Banks;"Generalized Rank Z P-Values";;;
+Banks;"Adjusted Patell Z";;;
+Banks;"Adjusted Patell Z P-Values";;;
+Banks;"Adjusted StdCSect T";;;
+Banks;"Adjusted StdCSect T P-Values";;;
+Banks;"Skewness-Corrected T";;;
+Banks;"Skewness-Corrected T P-Values";;;
+Banks;"CDA T";;;
+Banks;"CDA T P-Values";;;
+Banks;Wilcoxon;;;
+Banks;"Wilcoxon P-Values";;;
+"Hotels, Restaurants & Leisure";"Average Abnormal Return (AAR)";-0.0059;0.021;-0.0212
+"Hotels, Restaurants & Leisure";N;16;16;16
+"Hotels, Restaurants & Leisure";Pos:Neg;6:10;12:4;1:15
+"Hotels, Restaurants & Leisure";"Patell Z";-1.0388;3.2915;-3.9274
+"Hotels, Restaurants & Leisure";"Patell Z P-Values";0.2989;0.001;0.0001
+"Hotels, Restaurants & Leisure";"Generalized Sign Z";;;
+"Hotels, Restaurants & Leisure";"Generalized Sign Z P-Values";;;
+"Hotels, Restaurants & Leisure";"Sign Z";;;
+"Hotels, Restaurants & Leisure";"Sign Z P-Values";;;
+"Hotels, Restaurants & Leisure";"Csect T";-1.386;2.6299;-3.8895
+"Hotels, Restaurants & Leisure";"Csect T P-Values";0.186;0.0189;0.0015
+"Hotels, Restaurants & Leisure";"StdCSect T";-1.2844;2.266;-4.5254
+"Hotels, Restaurants & Leisure";"StdCSect T P-Values";0.2185;0.0387;0.0004
+"Hotels, Restaurants & Leisure";"Rank Z";;;
+"Hotels, Restaurants & Leisure";"Rank Z P-Values";;;
+"Hotels, Restaurants & Leisure";"Generalized Rank T";;;
+"Hotels, Restaurants & Leisure";"Generalized Rank T P-Values";;;
+"Hotels, Restaurants & Leisure";"Generalized Rank Z";;;
+"Hotels, Restaurants & Leisure";"Generalized Rank Z P-Values";;;
+"Hotels, Restaurants & Leisure";"Adjusted Patell Z";;;
+"Hotels, Restaurants & Leisure";"Adjusted Patell Z P-Values";;;
+"Hotels, Restaurants & Leisure";"Adjusted StdCSect T";;;
+"Hotels, Restaurants & Leisure";"Adjusted StdCSect T P-Values";;;
+"Hotels, Restaurants & Leisure";"Skewness-Corrected T";;;
+"Hotels, Restaurants & Leisure";"Skewness-Corrected T P-Values";;;
+"Hotels, Restaurants & Leisure";"CDA T";;;
+"Hotels, Restaurants & Leisure";"CDA T P-Values";;;
+"Hotels, Restaurants & Leisure";Wilcoxon;;;
+"Hotels, Restaurants & Leisure";"Wilcoxon P-Values";;;
+"Construction & Engineering";"Average Abnormal Return (AAR)";-0.0068;-0.0085;0.0039
+"Construction & Engineering";N;8;8;8
+"Construction & Engineering";Pos:Neg;3:5;2:6;5:3
+"Construction & Engineering";"Patell Z";-1.4621;-2.6639;1.541
+"Construction & Engineering";"Patell Z P-Values";0.1437;0.0077;0.1233
+"Construction & Engineering";"Generalized Sign Z";;;
+"Construction & Engineering";"Generalized Sign Z P-Values";;;
+"Construction & Engineering";"Sign Z";;;
+"Construction & Engineering";"Sign Z P-Values";;;
+"Construction & Engineering";"Csect T";-1.1535;-1.8216;0.6485
+"Construction & Engineering";"Csect T P-Values";0.2866;0.1113;0.5373
+"Construction & Engineering";"StdCSect T";-1.0837;-2.3292;1.021
+"Construction & Engineering";"StdCSect T P-Values";0.3144;0.0527;0.3412
+"Construction & Engineering";"Rank Z";;;
+"Construction & Engineering";"Rank Z P-Values";;;
+"Construction & Engineering";"Generalized Rank T";;;
+"Construction & Engineering";"Generalized Rank T P-Values";;;
+"Construction & Engineering";"Generalized Rank Z";;;
+"Construction & Engineering";"Generalized Rank Z P-Values";;;
+"Construction & Engineering";"Adjusted Patell Z";;;
+"Construction & Engineering";"Adjusted Patell Z P-Values";;;
+"Construction & Engineering";"Adjusted StdCSect T";;;
+"Construction & Engineering";"Adjusted StdCSect T P-Values";;;
+"Construction & Engineering";"Skewness-Corrected T";;;
+"Construction & Engineering";"Skewness-Corrected T P-Values";;;
+"Construction & Engineering";"CDA T";;;
+"Construction & Engineering";"CDA T P-Values";;;
+"Construction & Engineering";Wilcoxon;;;
+"Construction & Engineering";"Wilcoxon P-Values";;;
+"Consumer Staples Distribution & Retail";"Average Abnormal Return (AAR)";-0.0009;0.0033;0.0067
+"Consumer Staples Distribution & Retail";N;12;12;12
+"Consumer Staples Distribution & Retail";Pos:Neg;7:5;6:6;9:3
+"Consumer Staples Distribution & Retail";"Patell Z";0.5742;-1.2456;2.0896
+"Consumer Staples Distribution & Retail";"Patell Z P-Values";0.5658;0.2129;0.0367
+"Consumer Staples Distribution & Retail";"Generalized Sign Z";;;
+"Consumer Staples Distribution & Retail";"Generalized Sign Z P-Values";;;
+"Consumer Staples Distribution & Retail";"Sign Z";;;
+"Consumer Staples Distribution & Retail";"Sign Z P-Values";;;
+"Consumer Staples Distribution & Retail";"Csect T";-0.1775;0.3048;1.0438
+"Consumer Staples Distribution & Retail";"Csect T P-Values";0.8623;0.7662;0.319
+"Consumer Staples Distribution & Retail";"StdCSect T";0.7068;-0.6338;1.659
+"Consumer Staples Distribution & Retail";"StdCSect T P-Values";0.4944;0.5392;0.1253
+"Consumer Staples Distribution & Retail";"Rank Z";;;
+"Consumer Staples Distribution & Retail";"Rank Z P-Values";;;
+"Consumer Staples Distribution & Retail";"Generalized Rank T";;;
+"Consumer Staples Distribution & Retail";"Generalized Rank T P-Values";;;
+"Consumer Staples Distribution & Retail";"Generalized Rank Z";;;
+"Consumer Staples Distribution & Retail";"Generalized Rank Z P-Values";;;
+"Consumer Staples Distribution & Retail";"Adjusted Patell Z";;;
+"Consumer Staples Distribution & Retail";"Adjusted Patell Z P-Values";;;
+"Consumer Staples Distribution & Retail";"Adjusted StdCSect T";;;
+"Consumer Staples Distribution & Retail";"Adjusted StdCSect T P-Values";;;
+"Consumer Staples Distribution & Retail";"Skewness-Corrected T";;;
+"Consumer Staples Distribution & Retail";"Skewness-Corrected T P-Values";;;
+"Consumer Staples Distribution & Retail";"CDA T";;;
+"Consumer Staples Distribution & Retail";"CDA T P-Values";;;
+"Consumer Staples Distribution & Retail";Wilcoxon;;;
+"Consumer Staples Distribution & Retail";"Wilcoxon P-Values";;;
+"Interactive Media & Services";"Average Abnormal Return (AAR)";-0.0032;0.055;0.0061
+"Interactive Media & Services";N;5;5;5
+"Interactive Media & Services";Pos:Neg;2:3;5:0;4:1
+"Interactive Media & Services";"Patell Z";-0.3743;6.3159;0.6958
+"Interactive Media & Services";"Patell Z P-Values";0.7082;2.6852E-10;0.4866
+"Interactive Media & Services";"Generalized Sign Z";;;
+"Interactive Media & Services";"Generalized Sign Z P-Values";;;
+"Interactive Media & Services";"Sign Z";;;
+"Interactive Media & Services";"Sign Z P-Values";;;
+"Interactive Media & Services";"Csect T";-0.484;3.3036;2.4254
+"Interactive Media & Services";"Csect T P-Values";0.6537;0.0298;0.0723
+"Interactive Media & Services";"StdCSect T";-0.5361;5.3642;2.7485
+"Interactive Media & Services";"StdCSect T P-Values";0.6203;0.0058;0.0515
+"Interactive Media & Services";"Rank Z";;;
+"Interactive Media & Services";"Rank Z P-Values";;;
+"Interactive Media & Services";"Generalized Rank T";;;
+"Interactive Media & Services";"Generalized Rank T P-Values";;;
+"Interactive Media & Services";"Generalized Rank Z";;;
+"Interactive Media & Services";"Generalized Rank Z P-Values";;;
+"Interactive Media & Services";"Adjusted Patell Z";;;
+"Interactive Media & Services";"Adjusted Patell Z P-Values";;;
+"Interactive Media & Services";"Adjusted StdCSect T";;;
+"Interactive Media & Services";"Adjusted StdCSect T P-Values";;;
+"Interactive Media & Services";"Skewness-Corrected T";;;
+"Interactive Media & Services";"Skewness-Corrected T P-Values";;;
+"Interactive Media & Services";"CDA T";;;
+"Interactive Media & Services";"CDA T P-Values";;;
+"Interactive Media & Services";Wilcoxon;;;
+"Interactive Media & Services";"Wilcoxon P-Values";;;
+"Professional Services";"Average Abnormal Return (AAR)";0.0056;0.0092;-0.0099
+"Professional Services";N;12;12;12
+"Professional Services";Pos:Neg;11:1;8:4;2:10
+"Professional Services";"Patell Z";2.1864;3.3583;-2.7865
+"Professional Services";"Patell Z P-Values";0.0288;0.0008;0.0053
+"Professional Services";"Generalized Sign Z";;;
+"Professional Services";"Generalized Sign Z P-Values";;;
+"Professional Services";"Sign Z";;;
+"Professional Services";"Sign Z P-Values";;;
+"Professional Services";"Csect T";1.8657;1.9333;-2.9709
+"Professional Services";"Csect T P-Values";0.089;0.0793;0.0127
+"Professional Services";"StdCSect T";2.0293;2.0327;-2.6896
+"Professional Services";"StdCSect T P-Values";0.0673;0.0669;0.021
+"Professional Services";"Rank Z";;;
+"Professional Services";"Rank Z P-Values";;;
+"Professional Services";"Generalized Rank T";;;
+"Professional Services";"Generalized Rank T P-Values";;;
+"Professional Services";"Generalized Rank Z";;;
+"Professional Services";"Generalized Rank Z P-Values";;;
+"Professional Services";"Adjusted Patell Z";;;
+"Professional Services";"Adjusted Patell Z P-Values";;;
+"Professional Services";"Adjusted StdCSect T";;;
+"Professional Services";"Adjusted StdCSect T P-Values";;;
+"Professional Services";"Skewness-Corrected T";;;
+"Professional Services";"Skewness-Corrected T P-Values";;;
+"Professional Services";"CDA T";;;
+"Professional Services";"CDA T P-Values";;;
+"Professional Services";Wilcoxon;;;
+"Professional Services";"Wilcoxon P-Values";;;
+Insurance;"Average Abnormal Return (AAR)";0.0011;-0.0211;0.0052
+Insurance;N;29;29;29
+Insurance;Pos:Neg;15:14;6:23;21:8
+Insurance;"Patell Z";0.932;-11.1083;1.8168
+Insurance;"Patell Z P-Values";0.3513;1.1429E-28;0.0692
+Insurance;"Generalized Sign Z";;;
+Insurance;"Generalized Sign Z P-Values";;;
+Insurance;"Sign Z";;;
+Insurance;"Sign Z P-Values";;;
+Insurance;"Csect T";0.4589;-5.5131;1.2618
+Insurance;"Csect T P-Values";0.6498;6.8354E-6;0.2174
+Insurance;"StdCSect T";0.8098;-5.8389;0.7951
+Insurance;"StdCSect T P-Values";0.4249;2.8254E-6;0.4333
+Insurance;"Rank Z";;;
+Insurance;"Rank Z P-Values";;;
+Insurance;"Generalized Rank T";;;
+Insurance;"Generalized Rank T P-Values";;;
+Insurance;"Generalized Rank Z";;;
+Insurance;"Generalized Rank Z P-Values";;;
+Insurance;"Adjusted Patell Z";;;
+Insurance;"Adjusted Patell Z P-Values";;;
+Insurance;"Adjusted StdCSect T";;;
+Insurance;"Adjusted StdCSect T P-Values";;;
+Insurance;"Skewness-Corrected T";;;
+Insurance;"Skewness-Corrected T P-Values";;;
+Insurance;"CDA T";;;
+Insurance;"CDA T P-Values";;;
+Insurance;Wilcoxon;;;
+Insurance;"Wilcoxon P-Values";;;
+"Transportation Infrastructure";"Average Abnormal Return (AAR)";-0.0195;0.0018;0.0042
+"Transportation Infrastructure";N;5;5;5
+"Transportation Infrastructure";Pos:Neg;0:5;3:2;3:2
+"Transportation Infrastructure";"Patell Z";-3.5952;0.2472;1.2202
+"Transportation Infrastructure";"Patell Z P-Values";0.0003;0.8047;0.2224
+"Transportation Infrastructure";"Generalized Sign Z";;;
+"Transportation Infrastructure";"Generalized Sign Z P-Values";;;
+"Transportation Infrastructure";"Sign Z";;;
+"Transportation Infrastructure";"Sign Z P-Values";;;
+"Transportation Infrastructure";"Csect T";-3.7217;0.6491;0.6581
+"Transportation Infrastructure";"Csect T P-Values";0.0204;0.5516;0.5464
+"Transportation Infrastructure";"StdCSect T";-4.639;0.5059;0.9297
+"Transportation Infrastructure";"StdCSect T P-Values";0.0097;0.6395;0.4051
+"Transportation Infrastructure";"Rank Z";;;
+"Transportation Infrastructure";"Rank Z P-Values";;;
+"Transportation Infrastructure";"Generalized Rank T";;;
+"Transportation Infrastructure";"Generalized Rank T P-Values";;;
+"Transportation Infrastructure";"Generalized Rank Z";;;
+"Transportation Infrastructure";"Generalized Rank Z P-Values";;;
+"Transportation Infrastructure";"Adjusted Patell Z";;;
+"Transportation Infrastructure";"Adjusted Patell Z P-Values";;;
+"Transportation Infrastructure";"Adjusted StdCSect T";;;
+"Transportation Infrastructure";"Adjusted StdCSect T P-Values";;;
+"Transportation Infrastructure";"Skewness-Corrected T";;;
+"Transportation Infrastructure";"Skewness-Corrected T P-Values";;;
+"Transportation Infrastructure";"CDA T";;;
+"Transportation Infrastructure";"CDA T P-Values";;;
+"Transportation Infrastructure";Wilcoxon;;;
+"Transportation Infrastructure";"Wilcoxon P-Values";;;
+"Textiles, Apparel & Luxury Goods";"Average Abnormal Return (AAR)";-0.0051;-0.0229;-0.0132
+"Textiles, Apparel & Luxury Goods";N;14;14;14
+"Textiles, Apparel & Luxury Goods";Pos:Neg;9:5;6:8;4:10
+"Textiles, Apparel & Luxury Goods";"Patell Z";-0.7802;-3.5499;-3.6182
+"Textiles, Apparel & Luxury Goods";"Patell Z P-Values";0.4353;0.0004;0.0003
+"Textiles, Apparel & Luxury Goods";"Generalized Sign Z";;;
+"Textiles, Apparel & Luxury Goods";"Generalized Sign Z P-Values";;;
+"Textiles, Apparel & Luxury Goods";"Sign Z";;;
+"Textiles, Apparel & Luxury Goods";"Sign Z P-Values";;;
+"Textiles, Apparel & Luxury Goods";"Csect T";-0.59;-1.0623;-3.2798
+"Textiles, Apparel & Luxury Goods";"Csect T P-Values";0.5653;0.3074;0.006
+"Textiles, Apparel & Luxury Goods";"StdCSect T";-0.5049;-1.0983;-2.6512
+"Textiles, Apparel & Luxury Goods";"StdCSect T P-Values";0.6221;0.292;0.02
+"Textiles, Apparel & Luxury Goods";"Rank Z";;;
+"Textiles, Apparel & Luxury Goods";"Rank Z P-Values";;;
+"Textiles, Apparel & Luxury Goods";"Generalized Rank T";;;
+"Textiles, Apparel & Luxury Goods";"Generalized Rank T P-Values";;;
+"Textiles, Apparel & Luxury Goods";"Generalized Rank Z";;;
+"Textiles, Apparel & Luxury Goods";"Generalized Rank Z P-Values";;;
+"Textiles, Apparel & Luxury Goods";"Adjusted Patell Z";;;
+"Textiles, Apparel & Luxury Goods";"Adjusted Patell Z P-Values";;;
+"Textiles, Apparel & Luxury Goods";"Adjusted StdCSect T";;;
+"Textiles, Apparel & Luxury Goods";"Adjusted StdCSect T P-Values";;;
+"Textiles, Apparel & Luxury Goods";"Skewness-Corrected T";;;
+"Textiles, Apparel & Luxury Goods";"Skewness-Corrected T P-Values";;;
+"Textiles, Apparel & Luxury Goods";"CDA T";;;
+"Textiles, Apparel & Luxury Goods";"CDA T P-Values";;;
+"Textiles, Apparel & Luxury Goods";Wilcoxon;;;
+"Textiles, Apparel & Luxury Goods";"Wilcoxon P-Values";;;
+"Health Care REITs";"Average Abnormal Return (AAR)";0.0205;0.0004;0.0293
+"Health Care REITs";N;3;3;3
+"Health Care REITs";Pos:Neg;3:0;2:1;3:0
+"Health Care REITs";"Patell Z";2.9892;0.1457;3.858
+"Health Care REITs";"Patell Z P-Values";0.0028;0.8842;0.0001
+"Health Care REITs";"Generalized Sign Z";;;
+"Health Care REITs";"Generalized Sign Z P-Values";;;
+"Health Care REITs";"Sign Z";;;
+"Health Care REITs";"Sign Z P-Values";;;
+"Health Care REITs";"Csect T";3.081;0.1546;2.5004
+"Health Care REITs";"Csect T P-Values";0.0912;0.8913;0.1296
+"Health Care REITs";"StdCSect T";5.1939;0.4049;3.0011
+"Health Care REITs";"StdCSect T P-Values";0.0351;0.7247;0.0954
+"Health Care REITs";"Rank Z";;;
+"Health Care REITs";"Rank Z P-Values";;;
+"Health Care REITs";"Generalized Rank T";;;
+"Health Care REITs";"Generalized Rank T P-Values";;;
+"Health Care REITs";"Generalized Rank Z";;;
+"Health Care REITs";"Generalized Rank Z P-Values";;;
+"Health Care REITs";"Adjusted Patell Z";;;
+"Health Care REITs";"Adjusted Patell Z P-Values";;;
+"Health Care REITs";"Adjusted StdCSect T";;;
+"Health Care REITs";"Adjusted StdCSect T P-Values";;;
+"Health Care REITs";"Skewness-Corrected T";;;
+"Health Care REITs";"Skewness-Corrected T P-Values";;;
+"Health Care REITs";"CDA T";;;
+"Health Care REITs";"CDA T P-Values";;;
+"Health Care REITs";Wilcoxon;;;
+"Health Care REITs";"Wilcoxon P-Values";;;
+"Health Care Equipment & Supplies";"Average Abnormal Return (AAR)";0.0061;0.0252;-0.0113
+"Health Care Equipment & Supplies";N;16;16;16
+"Health Care Equipment & Supplies";Pos:Neg;11:5;13:3;4:12
+"Health Care Equipment & Supplies";"Patell Z";1.7791;6.0598;-3.3106
+"Health Care Equipment & Supplies";"Patell Z P-Values";0.0752;1.363E-9;0.0009
+"Health Care Equipment & Supplies";"Generalized Sign Z";;;
+"Health Care Equipment & Supplies";"Generalized Sign Z P-Values";;;
+"Health Care Equipment & Supplies";"Sign Z";;;
+"Health Care Equipment & Supplies";"Sign Z P-Values";;;
+"Health Care Equipment & Supplies";"Csect T";1.7485;3.9926;-2.6528
+"Health Care Equipment & Supplies";"Csect T P-Values";0.1008;0.0012;0.0181
+"Health Care Equipment & Supplies";"StdCSect T";2.0846;4.1262;-2.8524
+"Health Care Equipment & Supplies";"StdCSect T P-Values";0.0546;0.0009;0.0121
+"Health Care Equipment & Supplies";"Rank Z";;;
+"Health Care Equipment & Supplies";"Rank Z P-Values";;;
+"Health Care Equipment & Supplies";"Generalized Rank T";;;
+"Health Care Equipment & Supplies";"Generalized Rank T P-Values";;;
+"Health Care Equipment & Supplies";"Generalized Rank Z";;;
+"Health Care Equipment & Supplies";"Generalized Rank Z P-Values";;;
+"Health Care Equipment & Supplies";"Adjusted Patell Z";;;
+"Health Care Equipment & Supplies";"Adjusted Patell Z P-Values";;;
+"Health Care Equipment & Supplies";"Adjusted StdCSect T";;;
+"Health Care Equipment & Supplies";"Adjusted StdCSect T P-Values";;;
+"Health Care Equipment & Supplies";"Skewness-Corrected T";;;
+"Health Care Equipment & Supplies";"Skewness-Corrected T P-Values";;;
+"Health Care Equipment & Supplies";"CDA T";;;
+"Health Care Equipment & Supplies";"CDA T P-Values";;;
+"Health Care Equipment & Supplies";Wilcoxon;;;
+"Health Care Equipment & Supplies";"Wilcoxon P-Values";;;
+"Specialty Retail";"Average Abnormal Return (AAR)";-0.0255;0.0174;-0.0227
+"Specialty Retail";N;8;8;8
+"Specialty Retail";Pos:Neg;1:7;6:2;0:8
+"Specialty Retail";"Patell Z";-4.1499;2.6469;-3.654
+"Specialty Retail";"Patell Z P-Values";0;0.0081;0.0003
+"Specialty Retail";"Generalized Sign Z";;;
+"Specialty Retail";"Generalized Sign Z P-Values";;;
+"Specialty Retail";"Sign Z";;;
+"Specialty Retail";"Sign Z P-Values";;;
+"Specialty Retail";"Csect T";-4.1026;1.8071;-3.1998
+"Specialty Retail";"Csect T P-Values";0.0046;0.1137;0.0151
+"Specialty Retail";"StdCSect T";-3.2139;2.0922;-2.5877
+"Specialty Retail";"StdCSect T P-Values";0.0148;0.0747;0.0361
+"Specialty Retail";"Rank Z";;;
+"Specialty Retail";"Rank Z P-Values";;;
+"Specialty Retail";"Generalized Rank T";;;
+"Specialty Retail";"Generalized Rank T P-Values";;;
+"Specialty Retail";"Generalized Rank Z";;;
+"Specialty Retail";"Generalized Rank Z P-Values";;;
+"Specialty Retail";"Adjusted Patell Z";;;
+"Specialty Retail";"Adjusted Patell Z P-Values";;;
+"Specialty Retail";"Adjusted StdCSect T";;;
+"Specialty Retail";"Adjusted StdCSect T P-Values";;;
+"Specialty Retail";"Skewness-Corrected T";;;
+"Specialty Retail";"Skewness-Corrected T P-Values";;;
+"Specialty Retail";"CDA T";;;
+"Specialty Retail";"CDA T P-Values";;;
+"Specialty Retail";Wilcoxon;;;
+"Specialty Retail";"Wilcoxon P-Values";;;
+"Aerospace & Defense";"Average Abnormal Return (AAR)";0.0042;0.0167;0.0098
+"Aerospace & Defense";N;10;10;10
+"Aerospace & Defense";Pos:Neg;7:3;7:3;7:3
+"Aerospace & Defense";"Patell Z";1.4907;6.1354;2.5572
+"Aerospace & Defense";"Patell Z P-Values";0.1361;8.4931E-10;0.0106
+"Aerospace & Defense";"Generalized Sign Z";;;
+"Aerospace & Defense";"Generalized Sign Z P-Values";;;
+"Aerospace & Defense";"Sign Z";;;
+"Aerospace & Defense";"Sign Z P-Values";;;
+"Aerospace & Defense";"Csect T";2.3939;1.1092;1.5254
+"Aerospace & Defense";"Csect T P-Values";0.0403;0.2961;0.1615
+"Aerospace & Defense";"StdCSect T";2.5327;1.6383;1.4386
+"Aerospace & Defense";"StdCSect T P-Values";0.0321;0.1358;0.1841
+"Aerospace & Defense";"Rank Z";;;
+"Aerospace & Defense";"Rank Z P-Values";;;
+"Aerospace & Defense";"Generalized Rank T";;;
+"Aerospace & Defense";"Generalized Rank T P-Values";;;
+"Aerospace & Defense";"Generalized Rank Z";;;
+"Aerospace & Defense";"Generalized Rank Z P-Values";;;
+"Aerospace & Defense";"Adjusted Patell Z";;;
+"Aerospace & Defense";"Adjusted Patell Z P-Values";;;
+"Aerospace & Defense";"Adjusted StdCSect T";;;
+"Aerospace & Defense";"Adjusted StdCSect T P-Values";;;
+"Aerospace & Defense";"Skewness-Corrected T";;;
+"Aerospace & Defense";"Skewness-Corrected T P-Values";;;
+"Aerospace & Defense";"CDA T";;;
+"Aerospace & Defense";"CDA T P-Values";;;
+"Aerospace & Defense";Wilcoxon;;;
+"Aerospace & Defense";"Wilcoxon P-Values";;;
+"Oil, Gas & Consumable Fuels";"Average Abnormal Return (AAR)";-0.0049;0.0109;-0.0145
+"Oil, Gas & Consumable Fuels";N;13;13;13
+"Oil, Gas & Consumable Fuels";Pos:Neg;2:11;7:6;1:12
+"Oil, Gas & Consumable Fuels";"Patell Z";-1.3545;1.6905;-2.8488
+"Oil, Gas & Consumable Fuels";"Patell Z P-Values";0.1756;0.0909;0.0044
+"Oil, Gas & Consumable Fuels";"Generalized Sign Z";;;
+"Oil, Gas & Consumable Fuels";"Generalized Sign Z P-Values";;;
+"Oil, Gas & Consumable Fuels";"Sign Z";;;
+"Oil, Gas & Consumable Fuels";"Sign Z P-Values";;;
+"Oil, Gas & Consumable Fuels";"Csect T";-1.4621;0.8434;-1.4432
+"Oil, Gas & Consumable Fuels";"Csect T P-Values";0.1694;0.4155;0.1746
+"Oil, Gas & Consumable Fuels";"StdCSect T";-1.8547;0.67;-1.5189
+"Oil, Gas & Consumable Fuels";"StdCSect T P-Values";0.0884;0.5156;0.1547
+"Oil, Gas & Consumable Fuels";"Rank Z";;;
+"Oil, Gas & Consumable Fuels";"Rank Z P-Values";;;
+"Oil, Gas & Consumable Fuels";"Generalized Rank T";;;
+"Oil, Gas & Consumable Fuels";"Generalized Rank T P-Values";;;
+"Oil, Gas & Consumable Fuels";"Generalized Rank Z";;;
+"Oil, Gas & Consumable Fuels";"Generalized Rank Z P-Values";;;
+"Oil, Gas & Consumable Fuels";"Adjusted Patell Z";;;
+"Oil, Gas & Consumable Fuels";"Adjusted Patell Z P-Values";;;
+"Oil, Gas & Consumable Fuels";"Adjusted StdCSect T";;;
+"Oil, Gas & Consumable Fuels";"Adjusted StdCSect T P-Values";;;
+"Oil, Gas & Consumable Fuels";"Skewness-Corrected T";;;
+"Oil, Gas & Consumable Fuels";"Skewness-Corrected T P-Values";;;
+"Oil, Gas & Consumable Fuels";"CDA T";;;
+"Oil, Gas & Consumable Fuels";"CDA T P-Values";;;
+"Oil, Gas & Consumable Fuels";Wilcoxon;;;
+"Oil, Gas & Consumable Fuels";"Wilcoxon P-Values";;;
+"Broadline Retail";"Average Abnormal Return (AAR)";-0.035;-0.0276;-0.0129
+"Broadline Retail";N;4;4;4
+"Broadline Retail";Pos:Neg;0:4;2:2;1:3
+"Broadline Retail";"Patell Z";-3.4485;-1.0574;-2.0917
+"Broadline Retail";"Patell Z P-Values";0.0006;0.2903;0.0365
+"Broadline Retail";"Generalized Sign Z";;;
+"Broadline Retail";"Generalized Sign Z P-Values";;;
+"Broadline Retail";"Sign Z";;;
+"Broadline Retail";"Sign Z P-Values";;;
+"Broadline Retail";"Csect T";-2.636;-0.7489;-1.0711
+"Broadline Retail";"Csect T P-Values";0.0779;0.5083;0.3626
+"Broadline Retail";"StdCSect T";-3.6173;-0.3986;-1.5752
+"Broadline Retail";"StdCSect T P-Values";0.0363;0.7169;0.2133
+"Broadline Retail";"Rank Z";;;
+"Broadline Retail";"Rank Z P-Values";;;
+"Broadline Retail";"Generalized Rank T";;;
+"Broadline Retail";"Generalized Rank T P-Values";;;
+"Broadline Retail";"Generalized Rank Z";;;
+"Broadline Retail";"Generalized Rank Z P-Values";;;
+"Broadline Retail";"Adjusted Patell Z";;;
+"Broadline Retail";"Adjusted Patell Z P-Values";;;
+"Broadline Retail";"Adjusted StdCSect T";;;
+"Broadline Retail";"Adjusted StdCSect T P-Values";;;
+"Broadline Retail";"Skewness-Corrected T";;;
+"Broadline Retail";"Skewness-Corrected T P-Values";;;
+"Broadline Retail";"CDA T";;;
+"Broadline Retail";"CDA T P-Values";;;
+"Broadline Retail";Wilcoxon;;;
+"Broadline Retail";"Wilcoxon P-Values";;;
+"Life Sciences Tools & Services";"Average Abnormal Return (AAR)";0.0009;0.0183;-0.0021
+"Life Sciences Tools & Services";N;12;12;12
+"Life Sciences Tools & Services";Pos:Neg;6:6;10:2;5:7
+"Life Sciences Tools & Services";"Patell Z";-0.3119;2.3525;0.3577
+"Life Sciences Tools & Services";"Patell Z P-Values";0.7551;0.0186;0.7206
+"Life Sciences Tools & Services";"Generalized Sign Z";;;
+"Life Sciences Tools & Services";"Generalized Sign Z P-Values";;;
+"Life Sciences Tools & Services";"Sign Z";;;
+"Life Sciences Tools & Services";"Sign Z P-Values";;;
+"Life Sciences Tools & Services";"Csect T";0.1763;1.9543;-0.2902
+"Life Sciences Tools & Services";"Csect T P-Values";0.8632;0.0766;0.7771
+"Life Sciences Tools & Services";"StdCSect T";-0.2454;2.0465;0.3222
+"Life Sciences Tools & Services";"StdCSect T P-Values";0.8106;0.0654;0.7534
+"Life Sciences Tools & Services";"Rank Z";;;
+"Life Sciences Tools & Services";"Rank Z P-Values";;;
+"Life Sciences Tools & Services";"Generalized Rank T";;;
+"Life Sciences Tools & Services";"Generalized Rank T P-Values";;;
+"Life Sciences Tools & Services";"Generalized Rank Z";;;
+"Life Sciences Tools & Services";"Generalized Rank Z P-Values";;;
+"Life Sciences Tools & Services";"Adjusted Patell Z";;;
+"Life Sciences Tools & Services";"Adjusted Patell Z P-Values";;;
+"Life Sciences Tools & Services";"Adjusted StdCSect T";;;
+"Life Sciences Tools & Services";"Adjusted StdCSect T P-Values";;;
+"Life Sciences Tools & Services";"Skewness-Corrected T";;;
+"Life Sciences Tools & Services";"Skewness-Corrected T P-Values";;;
+"Life Sciences Tools & Services";"CDA T";;;
+"Life Sciences Tools & Services";"CDA T P-Values";;;
+"Life Sciences Tools & Services";Wilcoxon;;;
+"Life Sciences Tools & Services";"Wilcoxon P-Values";;;
+Pharmaceuticals;"Average Abnormal Return (AAR)";0.0083;-0.0041;0.0102
+Pharmaceuticals;N;16;16;16
+Pharmaceuticals;Pos:Neg;13:3;6:10;12:4
+Pharmaceuticals;"Patell Z";3.1094;-2.3862;3.7204
+Pharmaceuticals;"Patell Z P-Values";0.0019;0.017;0.0002
+Pharmaceuticals;"Generalized Sign Z";;;
+Pharmaceuticals;"Generalized Sign Z P-Values";;;
+Pharmaceuticals;"Sign Z";;;
+Pharmaceuticals;"Sign Z P-Values";;;
+Pharmaceuticals;"Csect T";2.734;-0.4732;3.4847
+Pharmaceuticals;"Csect T P-Values";0.0154;0.6429;0.0033
+Pharmaceuticals;"StdCSect T";2.9537;-0.8096;3.4509
+Pharmaceuticals;"StdCSect T P-Values";0.0099;0.4308;0.0036
+Pharmaceuticals;"Rank Z";;;
+Pharmaceuticals;"Rank Z P-Values";;;
+Pharmaceuticals;"Generalized Rank T";;;
+Pharmaceuticals;"Generalized Rank T P-Values";;;
+Pharmaceuticals;"Generalized Rank Z";;;
+Pharmaceuticals;"Generalized Rank Z P-Values";;;
+Pharmaceuticals;"Adjusted Patell Z";;;
+Pharmaceuticals;"Adjusted Patell Z P-Values";;;
+Pharmaceuticals;"Adjusted StdCSect T";;;
+Pharmaceuticals;"Adjusted StdCSect T P-Values";;;
+Pharmaceuticals;"Skewness-Corrected T";;;
+Pharmaceuticals;"Skewness-Corrected T P-Values";;;
+Pharmaceuticals;"CDA T";;;
+Pharmaceuticals;"CDA T P-Values";;;
+Pharmaceuticals;Wilcoxon;;;
+Pharmaceuticals;"Wilcoxon P-Values";;;
+"Real Estate Management & Development";"Average Abnormal Return (AAR)";-0.0108;0.0117;0.007
+"Real Estate Management & Development";N;16;16;16
+"Real Estate Management & Development";Pos:Neg;7:9;12:4;10:6
+"Real Estate Management & Development";"Patell Z";-1.975;3.5296;2.2435
+"Real Estate Management & Development";"Patell Z P-Values";0.0483;0.0004;0.0249
+"Real Estate Management & Development";"Generalized Sign Z";;;
+"Real Estate Management & Development";"Generalized Sign Z P-Values";;;
+"Real Estate Management & Development";"Sign Z";;;
+"Real Estate Management & Development";"Sign Z P-Values";;;
+"Real Estate Management & Development";"Csect T";-1.2887;2.7322;2.2871
+"Real Estate Management & Development";"Csect T P-Values";0.217;0.0154;0.0371
+"Real Estate Management & Development";"StdCSect T";-0.9678;2.6861;2.1827
+"Real Estate Management & Development";"StdCSect T P-Values";0.3485;0.0169;0.0454
+"Real Estate Management & Development";"Rank Z";;;
+"Real Estate Management & Development";"Rank Z P-Values";;;
+"Real Estate Management & Development";"Generalized Rank T";;;
+"Real Estate Management & Development";"Generalized Rank T P-Values";;;
+"Real Estate Management & Development";"Generalized Rank Z";;;
+"Real Estate Management & Development";"Generalized Rank Z P-Values";;;
+"Real Estate Management & Development";"Adjusted Patell Z";;;
+"Real Estate Management & Development";"Adjusted Patell Z P-Values";;;
+"Real Estate Management & Development";"Adjusted StdCSect T";;;
+"Real Estate Management & Development";"Adjusted StdCSect T P-Values";;;
+"Real Estate Management & Development";"Skewness-Corrected T";;;
+"Real Estate Management & Development";"Skewness-Corrected T P-Values";;;
+"Real Estate Management & Development";"CDA T";;;
+"Real Estate Management & Development";"CDA T P-Values";;;
+"Real Estate Management & Development";Wilcoxon;;;
+"Real Estate Management & Development";"Wilcoxon P-Values";;;
+"Health Care Providers & Services";"Average Abnormal Return (AAR)";0.0062;-0.0086;0.0049
+"Health Care Providers & Services";N;5;5;5
+"Health Care Providers & Services";Pos:Neg;4:1;1:4;2:3
+"Health Care Providers & Services";"Patell Z";0.5238;-0.5796;-0.2689
+"Health Care Providers & Services";"Patell Z P-Values";0.6004;0.5622;0.788
+"Health Care Providers & Services";"Generalized Sign Z";;;
+"Health Care Providers & Services";"Generalized Sign Z P-Values";;;
+"Health Care Providers & Services";"Sign Z";;;
+"Health Care Providers & Services";"Sign Z P-Values";;;
+"Health Care Providers & Services";"Csect T";0.5111;-0.4581;0.4833
+"Health Care Providers & Services";"Csect T P-Values";0.6362;0.6706;0.6541
+"Health Care Providers & Services";"StdCSect T";0.3023;-0.2417;-0.2621
+"Health Care Providers & Services";"StdCSect T P-Values";0.7775;0.8209;0.8062
+"Health Care Providers & Services";"Rank Z";;;
+"Health Care Providers & Services";"Rank Z P-Values";;;
+"Health Care Providers & Services";"Generalized Rank T";;;
+"Health Care Providers & Services";"Generalized Rank T P-Values";;;
+"Health Care Providers & Services";"Generalized Rank Z";;;
+"Health Care Providers & Services";"Generalized Rank Z P-Values";;;
+"Health Care Providers & Services";"Adjusted Patell Z";;;
+"Health Care Providers & Services";"Adjusted Patell Z P-Values";;;
+"Health Care Providers & Services";"Adjusted StdCSect T";;;
+"Health Care Providers & Services";"Adjusted StdCSect T P-Values";;;
+"Health Care Providers & Services";"Skewness-Corrected T";;;
+"Health Care Providers & Services";"Skewness-Corrected T P-Values";;;
+"Health Care Providers & Services";"CDA T";;;
+"Health Care Providers & Services";"CDA T P-Values";;;
+"Health Care Providers & Services";Wilcoxon;;;
+"Health Care Providers & Services";"Wilcoxon P-Values";;;
+"Semiconductors & Semiconductor Equipment";"Average Abnormal Return (AAR)";-0.0096;0.0395;-0.0134
+"Semiconductors & Semiconductor Equipment";N;8;8;8
+"Semiconductors & Semiconductor Equipment";Pos:Neg;3:5;8:0;1:7
+"Semiconductors & Semiconductor Equipment";"Patell Z";-1.351;5.8326;-2.0085
+"Semiconductors & Semiconductor Equipment";"Patell Z P-Values";0.1767;5.4555E-9;0.0446
+"Semiconductors & Semiconductor Equipment";"Generalized Sign Z";;;
+"Semiconductors & Semiconductor Equipment";"Generalized Sign Z P-Values";;;
+"Semiconductors & Semiconductor Equipment";"Sign Z";;;
+"Semiconductors & Semiconductor Equipment";"Sign Z P-Values";;;
+"Semiconductors & Semiconductor Equipment";"Csect T";-1.0091;8.891;-2.1089
+"Semiconductors & Semiconductor Equipment";"Csect T P-Values";0.3465;0;0.0729
+"Semiconductors & Semiconductor Equipment";"StdCSect T";-0.9571;6.6472;-2.3357
+"Semiconductors & Semiconductor Equipment";"StdCSect T P-Values";0.3704;0.0003;0.0522
+"Semiconductors & Semiconductor Equipment";"Rank Z";;;
+"Semiconductors & Semiconductor Equipment";"Rank Z P-Values";;;
+"Semiconductors & Semiconductor Equipment";"Generalized Rank T";;;
+"Semiconductors & Semiconductor Equipment";"Generalized Rank T P-Values";;;
+"Semiconductors & Semiconductor Equipment";"Generalized Rank Z";;;
+"Semiconductors & Semiconductor Equipment";"Generalized Rank Z P-Values";;;
+"Semiconductors & Semiconductor Equipment";"Adjusted Patell Z";;;
+"Semiconductors & Semiconductor Equipment";"Adjusted Patell Z P-Values";;;
+"Semiconductors & Semiconductor Equipment";"Adjusted StdCSect T";;;
+"Semiconductors & Semiconductor Equipment";"Adjusted StdCSect T P-Values";;;
+"Semiconductors & Semiconductor Equipment";"Skewness-Corrected T";;;
+"Semiconductors & Semiconductor Equipment";"Skewness-Corrected T P-Values";;;
+"Semiconductors & Semiconductor Equipment";"CDA T";;;
+"Semiconductors & Semiconductor Equipment";"CDA T P-Values";;;
+"Semiconductors & Semiconductor Equipment";Wilcoxon;;;
+"Semiconductors & Semiconductor Equipment";"Wilcoxon P-Values";;;
+"Electric Utilities";"Average Abnormal Return (AAR)";0.0006;0.0221;0.0276
+"Electric Utilities";N;12;12;12
+"Electric Utilities";Pos:Neg;6:6;9:3;11:1
+"Electric Utilities";"Patell Z";0.5481;7.1785;8.9628
+"Electric Utilities";"Patell Z P-Values";0.5836;7.0485E-13;3.1642E-19
+"Electric Utilities";"Generalized Sign Z";;;
+"Electric Utilities";"Generalized Sign Z P-Values";;;
+"Electric Utilities";"Sign Z";;;
+"Electric Utilities";"Sign Z P-Values";;;
+"Electric Utilities";"Csect T";0.0959;1.8214;6.9261
+"Electric Utilities";"Csect T P-Values";0.9253;0.0958;0
+"Electric Utilities";"StdCSect T";0.2764;2.1224;6.2108
+"Electric Utilities";"StdCSect T P-Values";0.7874;0.0573;0.0001
+"Electric Utilities";"Rank Z";;;
+"Electric Utilities";"Rank Z P-Values";;;
+"Electric Utilities";"Generalized Rank T";;;
+"Electric Utilities";"Generalized Rank T P-Values";;;
+"Electric Utilities";"Generalized Rank Z";;;
+"Electric Utilities";"Generalized Rank Z P-Values";;;
+"Electric Utilities";"Adjusted Patell Z";;;
+"Electric Utilities";"Adjusted Patell Z P-Values";;;
+"Electric Utilities";"Adjusted StdCSect T";;;
+"Electric Utilities";"Adjusted StdCSect T P-Values";;;
+"Electric Utilities";"Skewness-Corrected T";;;
+"Electric Utilities";"Skewness-Corrected T P-Values";;;
+"Electric Utilities";"CDA T";;;
+"Electric Utilities";"CDA T P-Values";;;
+"Electric Utilities";Wilcoxon;;;
+"Electric Utilities";"Wilcoxon P-Values";;;
+Biotechnology;"Average Abnormal Return (AAR)";0.0108;0.0372;0.0021
+Biotechnology;N;6;6;6
+Biotechnology;Pos:Neg;5:1;6:0;3:3
+Biotechnology;"Patell Z";1.5016;4.3564;0.4622
+Biotechnology;"Patell Z P-Values";0.1332;0;0.6439
+Biotechnology;"Generalized Sign Z";;;
+Biotechnology;"Generalized Sign Z P-Values";;;
+Biotechnology;"Sign Z";;;
+Biotechnology;"Sign Z P-Values";;;
+Biotechnology;"Csect T";1.6272;4.1295;0.5032
+Biotechnology;"Csect T P-Values";0.1646;0.0091;0.6362
+Biotechnology;"StdCSect T";1.5098;4.1513;0.8501
+Biotechnology;"StdCSect T P-Values";0.1915;0.0089;0.4341
+Biotechnology;"Rank Z";;;
+Biotechnology;"Rank Z P-Values";;;
+Biotechnology;"Generalized Rank T";;;
+Biotechnology;"Generalized Rank T P-Values";;;
+Biotechnology;"Generalized Rank Z";;;
+Biotechnology;"Generalized Rank Z P-Values";;;
+Biotechnology;"Adjusted Patell Z";;;
+Biotechnology;"Adjusted Patell Z P-Values";;;
+Biotechnology;"Adjusted StdCSect T";;;
+Biotechnology;"Adjusted StdCSect T P-Values";;;
+Biotechnology;"Skewness-Corrected T";;;
+Biotechnology;"Skewness-Corrected T P-Values";;;
+Biotechnology;"CDA T";;;
+Biotechnology;"CDA T P-Values";;;
+Biotechnology;Wilcoxon;;;
+Biotechnology;"Wilcoxon P-Values";;;
+"Building Products";"Average Abnormal Return (AAR)";0.007;-0.0055;-0.0052
+"Building Products";N;6;6;6
+"Building Products";Pos:Neg;4:2;3:3;2:4
+"Building Products";"Patell Z";1.0894;-0.9072;-0.8962
+"Building Products";"Patell Z P-Values";0.276;0.3643;0.3701
+"Building Products";"Generalized Sign Z";;;
+"Building Products";"Generalized Sign Z P-Values";;;
+"Building Products";"Sign Z";;;
+"Building Products";"Sign Z P-Values";;;
+"Building Products";"Csect T";1.9668;-0.2598;-0.6043
+"Building Products";"Csect T P-Values";0.1064;0.8054;0.572
+"Building Products";"StdCSect T";1.4903;-0.3054;-0.6944
+"Building Products";"StdCSect T P-Values";0.1963;0.7724;0.5184
+"Building Products";"Rank Z";;;
+"Building Products";"Rank Z P-Values";;;
+"Building Products";"Generalized Rank T";;;
+"Building Products";"Generalized Rank T P-Values";;;
+"Building Products";"Generalized Rank Z";;;
+"Building Products";"Generalized Rank Z P-Values";;;
+"Building Products";"Adjusted Patell Z";;;
+"Building Products";"Adjusted Patell Z P-Values";;;
+"Building Products";"Adjusted StdCSect T";;;
+"Building Products";"Adjusted StdCSect T P-Values";;;
+"Building Products";"Skewness-Corrected T";;;
+"Building Products";"Skewness-Corrected T P-Values";;;
+"Building Products";"CDA T";;;
+"Building Products";"CDA T P-Values";;;
+"Building Products";Wilcoxon;;;
+"Building Products";"Wilcoxon P-Values";;;
+"IT Services";"Average Abnormal Return (AAR)";-0.0002;0.0234;-0.0076
+"IT Services";N;8;8;8
+"IT Services";Pos:Neg;5:3;7:1;3:5
+"IT Services";"Patell Z";0.1242;4.578;-1.3487
+"IT Services";"Patell Z P-Values";0.9011;4.6941E-6;0.1774
+"IT Services";"Generalized Sign Z";;;
+"IT Services";"Generalized Sign Z P-Values";;;
+"IT Services";"Sign Z";;;
+"IT Services";"Sign Z P-Values";;;
+"IT Services";"Csect T";-0.0458;3.4065;-1.5115
+"IT Services";"Csect T P-Values";0.9647;0.0113;0.1744
+"IT Services";"StdCSect T";0.185;3.769;-1.4945
+"IT Services";"StdCSect T P-Values";0.8584;0.007;0.1787
+"IT Services";"Rank Z";;;
+"IT Services";"Rank Z P-Values";;;
+"IT Services";"Generalized Rank T";;;
+"IT Services";"Generalized Rank T P-Values";;;
+"IT Services";"Generalized Rank Z";;;
+"IT Services";"Generalized Rank Z P-Values";;;
+"IT Services";"Adjusted Patell Z";;;
+"IT Services";"Adjusted Patell Z P-Values";;;
+"IT Services";"Adjusted StdCSect T";;;
+"IT Services";"Adjusted StdCSect T P-Values";;;
+"IT Services";"Skewness-Corrected T";;;
+"IT Services";"Skewness-Corrected T P-Values";;;
+"IT Services";"CDA T";;;
+"IT Services";"CDA T P-Values";;;
+"IT Services";Wilcoxon;;;
+"IT Services";"Wilcoxon P-Values";;;
+Software;"Average Abnormal Return (AAR)";-0.0034;0.0356;-0.0063
+Software;N;10;10;10
+Software;Pos:Neg;4:6;9:1;2:8
+Software;"Patell Z";-0.497;5.3408;-1.4975
+Software;"Patell Z P-Values";0.6192;9.2536E-8;0.1343
+Software;"Generalized Sign Z";;;
+Software;"Generalized Sign Z P-Values";;;
+Software;"Sign Z";;;
+Software;"Sign Z P-Values";;;
+Software;"Csect T";-0.8276;3.2661;-1.2548
+Software;"Csect T P-Values";0.4293;0.0097;0.2412
+Software;"StdCSect T";-0.8385;4.4129;-1.9706
+Software;"StdCSect T P-Values";0.4235;0.0017;0.0803
+Software;"Rank Z";;;
+Software;"Rank Z P-Values";;;
+Software;"Generalized Rank T";;;
+Software;"Generalized Rank T P-Values";;;
+Software;"Generalized Rank Z";;;
+Software;"Generalized Rank Z P-Values";;;
+Software;"Adjusted Patell Z";;;
+Software;"Adjusted Patell Z P-Values";;;
+Software;"Adjusted StdCSect T";;;
+Software;"Adjusted StdCSect T P-Values";;;
+Software;"Skewness-Corrected T";;;
+Software;"Skewness-Corrected T P-Values";;;
+Software;"CDA T";;;
+Software;"CDA T P-Values";;;
+Software;Wilcoxon;;;
+Software;"Wilcoxon P-Values";;;
+Tobacco;"Average Abnormal Return (AAR)";-0.0007;-0.0274;0.0233
+Tobacco;N;3;3;3
+Tobacco;Pos:Neg;2:1;1:2;3:0
+Tobacco;"Patell Z";-0.2265;-5.4997;3.5531
+Tobacco;"Patell Z P-Values";0.8208;3.8045E-8;0.0004
+Tobacco;"Generalized Sign Z";;;
+Tobacco;"Generalized Sign Z P-Values";;;
+Tobacco;"Sign Z";;;
+Tobacco;"Sign Z P-Values";;;
+Tobacco;"Csect T";-0.2088;-0.9817;5.8517
+Tobacco;"Csect T P-Values";0.854;0.4298;0.028
+Tobacco;"StdCSect T";-0.3619;-1.2079;33.6617
+Tobacco;"StdCSect T P-Values";0.7521;0.3505;0.0009
+Tobacco;"Rank Z";;;
+Tobacco;"Rank Z P-Values";;;
+Tobacco;"Generalized Rank T";;;
+Tobacco;"Generalized Rank T P-Values";;;
+Tobacco;"Generalized Rank Z";;;
+Tobacco;"Generalized Rank Z P-Values";;;
+Tobacco;"Adjusted Patell Z";;;
+Tobacco;"Adjusted Patell Z P-Values";;;
+Tobacco;"Adjusted StdCSect T";;;
+Tobacco;"Adjusted StdCSect T P-Values";;;
+Tobacco;"Skewness-Corrected T";;;
+Tobacco;"Skewness-Corrected T P-Values";;;
+Tobacco;"CDA T";;;
+Tobacco;"CDA T P-Values";;;
+Tobacco;Wilcoxon;;;
+Tobacco;"Wilcoxon P-Values";;;
+"Industrial REITs";"Average Abnormal Return (AAR)";0.0036;0.0078;0.0114
+"Industrial REITs";N;4;4;4
+"Industrial REITs";Pos:Neg;2:2;3:1;3:1
+"Industrial REITs";"Patell Z";0.6336;1.6428;2.0981
+"Industrial REITs";"Patell Z P-Values";0.5264;0.1004;0.0359
+"Industrial REITs";"Generalized Sign Z";;;
+"Industrial REITs";"Generalized Sign Z P-Values";;;
+"Industrial REITs";"Sign Z";;;
+"Industrial REITs";"Sign Z P-Values";;;
+"Industrial REITs";"Csect T";1.0682;1.3575;1.5064
+"Industrial REITs";"Csect T P-Values";0.3637;0.2677;0.229
+"Industrial REITs";"StdCSect T";0.9529;1.358;1.4868
+"Industrial REITs";"StdCSect T P-Values";0.4109;0.2676;0.2338
+"Industrial REITs";"Rank Z";;;
+"Industrial REITs";"Rank Z P-Values";;;
+"Industrial REITs";"Generalized Rank T";;;
+"Industrial REITs";"Generalized Rank T P-Values";;;
+"Industrial REITs";"Generalized Rank Z";;;
+"Industrial REITs";"Generalized Rank Z P-Values";;;
+"Industrial REITs";"Adjusted Patell Z";;;
+"Industrial REITs";"Adjusted Patell Z P-Values";;;
+"Industrial REITs";"Adjusted StdCSect T";;;
+"Industrial REITs";"Adjusted StdCSect T P-Values";;;
+"Industrial REITs";"Skewness-Corrected T";;;
+"Industrial REITs";"Skewness-Corrected T P-Values";;;
+"Industrial REITs";"CDA T";;;
+"Industrial REITs";"CDA T P-Values";;;
+"Industrial REITs";Wilcoxon;;;
+"Industrial REITs";"Wilcoxon P-Values";;;
+"Personal Care Products";"Average Abnormal Return (AAR)";0.0068;-0.016;0.0199
+"Personal Care Products";N;3;3;3
+"Personal Care Products";Pos:Neg;2:1;1:2;3:0
+"Personal Care Products";"Patell Z";0.981;-1.5706;2.9051
+"Personal Care Products";"Patell Z P-Values";0.3266;0.1163;0.0037
+"Personal Care Products";"Generalized Sign Z";;;
+"Personal Care Products";"Generalized Sign Z P-Values";;;
+"Personal Care Products";"Sign Z";;;
+"Personal Care Products";"Sign Z P-Values";;;
+"Personal Care Products";"Csect T";0.6882;-0.598;2.3887
+"Personal Care Products";"Csect T P-Values";0.5624;0.6105;0.1395
+"Personal Care Products";"StdCSect T";0.5436;-0.4204;2.5035
+"Personal Care Products";"StdCSect T P-Values";0.6412;0.7151;0.1293
+"Personal Care Products";"Rank Z";;;
+"Personal Care Products";"Rank Z P-Values";;;
+"Personal Care Products";"Generalized Rank T";;;
+"Personal Care Products";"Generalized Rank T P-Values";;;
+"Personal Care Products";"Generalized Rank Z";;;
+"Personal Care Products";"Generalized Rank Z P-Values";;;
+"Personal Care Products";"Adjusted Patell Z";;;
+"Personal Care Products";"Adjusted Patell Z P-Values";;;
+"Personal Care Products";"Adjusted StdCSect T";;;
+"Personal Care Products";"Adjusted StdCSect T P-Values";;;
+"Personal Care Products";"Skewness-Corrected T";;;
+"Personal Care Products";"Skewness-Corrected T P-Values";;;
+"Personal Care Products";"CDA T";;;
+"Personal Care Products";"CDA T P-Values";;;
+"Personal Care Products";Wilcoxon;;;
+"Personal Care Products";"Wilcoxon P-Values";;;
+"Containers & Packaging";"Average Abnormal Return (AAR)";-0.0009;0.0017;0.0036
+"Containers & Packaging";N;5;5;5
+"Containers & Packaging";Pos:Neg;3:2;3:2;3:2
+"Containers & Packaging";"Patell Z";-0.294;-1.2521;1.031
+"Containers & Packaging";"Patell Z P-Values";0.7687;0.2105;0.3026
+"Containers & Packaging";"Generalized Sign Z";;;
+"Containers & Packaging";"Generalized Sign Z P-Values";;;
+"Containers & Packaging";"Sign Z";;;
+"Containers & Packaging";"Sign Z P-Values";;;
+"Containers & Packaging";"Csect T";-0.2519;0.0958;0.5737
+"Containers & Packaging";"Csect T P-Values";0.8136;0.9283;0.5969
+"Containers & Packaging";"StdCSect T";-0.4913;-0.3977;0.9548
+"Containers & Packaging";"StdCSect T P-Values";0.649;0.7112;0.3937
+"Containers & Packaging";"Rank Z";;;
+"Containers & Packaging";"Rank Z P-Values";;;
+"Containers & Packaging";"Generalized Rank T";;;
+"Containers & Packaging";"Generalized Rank T P-Values";;;
+"Containers & Packaging";"Generalized Rank Z";;;
+"Containers & Packaging";"Generalized Rank Z P-Values";;;
+"Containers & Packaging";"Adjusted Patell Z";;;
+"Containers & Packaging";"Adjusted Patell Z P-Values";;;
+"Containers & Packaging";"Adjusted StdCSect T";;;
+"Containers & Packaging";"Adjusted StdCSect T P-Values";;;
+"Containers & Packaging";"Skewness-Corrected T";;;
+"Containers & Packaging";"Skewness-Corrected T P-Values";;;
+"Containers & Packaging";"CDA T";;;
+"Containers & Packaging";"CDA T P-Values";;;
+"Containers & Packaging";Wilcoxon;;;
+"Containers & Packaging";"Wilcoxon P-Values";;;
+"Household Durables";"Average Abnormal Return (AAR)";-0.0112;-0.0003;-0.0205
+"Household Durables";N;10;10;10
+"Household Durables";Pos:Neg;0:10;3:7;0:10
+"Household Durables";"Patell Z";-2.5388;-0.4246;-4.4366
+"Household Durables";"Patell Z P-Values";0.0111;0.6711;9.1384E-6
+"Household Durables";"Generalized Sign Z";;;
+"Household Durables";"Generalized Sign Z P-Values";;;
+"Household Durables";"Sign Z";;;
+"Household Durables";"Sign Z P-Values";;;
+"Household Durables";"Csect T";-5.7112;-0.0631;-5.838
+"Household Durables";"Csect T P-Values";0.0003;0.9511;0.0002
+"Household Durables";"StdCSect T";-5.1761;-0.4747;-5.2555
+"Household Durables";"StdCSect T P-Values";0.0006;0.6463;0.0005
+"Household Durables";"Rank Z";;;
+"Household Durables";"Rank Z P-Values";;;
+"Household Durables";"Generalized Rank T";;;
+"Household Durables";"Generalized Rank T P-Values";;;
+"Household Durables";"Generalized Rank Z";;;
+"Household Durables";"Generalized Rank Z P-Values";;;
+"Household Durables";"Adjusted Patell Z";;;
+"Household Durables";"Adjusted Patell Z P-Values";;;
+"Household Durables";"Adjusted StdCSect T";;;
+"Household Durables";"Adjusted StdCSect T P-Values";;;
+"Household Durables";"Skewness-Corrected T";;;
+"Household Durables";"Skewness-Corrected T P-Values";;;
+"Household Durables";"CDA T";;;
+"Household Durables";"CDA T P-Values";;;
+"Household Durables";Wilcoxon;;;
+"Household Durables";"Wilcoxon P-Values";;;
+"Diversified REITs";"Average Abnormal Return (AAR)";-0.0056;-0.0117;0.0169
+"Diversified REITs";N;4;4;4
+"Diversified REITs";Pos:Neg;1:3;1:3;4:0
+"Diversified REITs";"Patell Z";-1.0072;-2.0678;2.8723
+"Diversified REITs";"Patell Z P-Values";0.3138;0.0387;0.0041
+"Diversified REITs";"Generalized Sign Z";;;
+"Diversified REITs";"Generalized Sign Z P-Values";;;
+"Diversified REITs";"Sign Z";;;
+"Diversified REITs";"Sign Z P-Values";;;
+"Diversified REITs";"Csect T";-0.8215;-2.048;16.2825
+"Diversified REITs";"Csect T P-Values";0.4715;0.133;0.0005
+"Diversified REITs";"StdCSect T";-0.7893;-2.1622;10.6655
+"Diversified REITs";"StdCSect T P-Values";0.4876;0.1193;0.0018
+"Diversified REITs";"Rank Z";;;
+"Diversified REITs";"Rank Z P-Values";;;
+"Diversified REITs";"Generalized Rank T";;;
+"Diversified REITs";"Generalized Rank T P-Values";;;
+"Diversified REITs";"Generalized Rank Z";;;
+"Diversified REITs";"Generalized Rank Z P-Values";;;
+"Diversified REITs";"Adjusted Patell Z";;;
+"Diversified REITs";"Adjusted Patell Z P-Values";;;
+"Diversified REITs";"Adjusted StdCSect T";;;
+"Diversified REITs";"Adjusted StdCSect T P-Values";;;
+"Diversified REITs";"Skewness-Corrected T";;;
+"Diversified REITs";"Skewness-Corrected T P-Values";;;
+"Diversified REITs";"CDA T";;;
+"Diversified REITs";"CDA T P-Values";;;
+"Diversified REITs";Wilcoxon;;;
+"Diversified REITs";"Wilcoxon P-Values";;;
+Automobiles;"Average Abnormal Return (AAR)";0.0121;-0.0136;-0.0049
+Automobiles;N;8;8;8
+Automobiles;Pos:Neg;6:2;2:6;3:5
+Automobiles;"Patell Z";2.4121;-3.2669;-1.0633
+Automobiles;"Patell Z P-Values";0.0159;0.0011;0.2877
+Automobiles;"Generalized Sign Z";;;
+Automobiles;"Generalized Sign Z P-Values";;;
+Automobiles;"Sign Z";;;
+Automobiles;"Sign Z P-Values";;;
+Automobiles;"Csect T";1.1841;-1.3288;-1.1139
+Automobiles;"Csect T P-Values";0.275;0.2256;0.3021
+Automobiles;"StdCSect T";1.1403;-1.8628;-1.076
+Automobiles;"StdCSect T P-Values";0.2917;0.1048;0.3176
+Automobiles;"Rank Z";;;
+Automobiles;"Rank Z P-Values";;;
+Automobiles;"Generalized Rank T";;;
+Automobiles;"Generalized Rank T P-Values";;;
+Automobiles;"Generalized Rank Z";;;
+Automobiles;"Generalized Rank Z P-Values";;;
+Automobiles;"Adjusted Patell Z";;;
+Automobiles;"Adjusted Patell Z P-Values";;;
+Automobiles;"Adjusted StdCSect T";;;
+Automobiles;"Adjusted StdCSect T P-Values";;;
+Automobiles;"Skewness-Corrected T";;;
+Automobiles;"Skewness-Corrected T P-Values";;;
+Automobiles;"CDA T";;;
+Automobiles;"CDA T P-Values";;;
+Automobiles;Wilcoxon;;;
+Automobiles;"Wilcoxon P-Values";;;
+"Diversified Telecommunication Services";"Average Abnormal Return (AAR)";-0.0032;-0.0203;0.0066
+"Diversified Telecommunication Services";N;14;14;14
+"Diversified Telecommunication Services";Pos:Neg;5:9;1:13;10:4
+"Diversified Telecommunication Services";"Patell Z";-0.6952;-6.85;2.4849
+"Diversified Telecommunication Services";"Patell Z P-Values";0.4869;7.3845E-12;0.013
+"Diversified Telecommunication Services";"Generalized Sign Z";;;
+"Diversified Telecommunication Services";"Generalized Sign Z P-Values";;;
+"Diversified Telecommunication Services";"Sign Z";;;
+"Diversified Telecommunication Services";"Sign Z P-Values";;;
+"Diversified Telecommunication Services";"Csect T";-0.8715;-4.7253;1.4956
+"Diversified Telecommunication Services";"Csect T P-Values";0.3993;0.0004;0.1586
+"Diversified Telecommunication Services";"StdCSect T";-0.7248;-4.8537;1.9876
+"Diversified Telecommunication Services";"StdCSect T P-Values";0.4814;0.0003;0.0683
+"Diversified Telecommunication Services";"Rank Z";;;
+"Diversified Telecommunication Services";"Rank Z P-Values";;;
+"Diversified Telecommunication Services";"Generalized Rank T";;;
+"Diversified Telecommunication Services";"Generalized Rank T P-Values";;;
+"Diversified Telecommunication Services";"Generalized Rank Z";;;
+"Diversified Telecommunication Services";"Generalized Rank Z P-Values";;;
+"Diversified Telecommunication Services";"Adjusted Patell Z";;;
+"Diversified Telecommunication Services";"Adjusted Patell Z P-Values";;;
+"Diversified Telecommunication Services";"Adjusted StdCSect T";;;
+"Diversified Telecommunication Services";"Adjusted StdCSect T P-Values";;;
+"Diversified Telecommunication Services";"Skewness-Corrected T";;;
+"Diversified Telecommunication Services";"Skewness-Corrected T P-Values";;;
+"Diversified Telecommunication Services";"CDA T";;;
+"Diversified Telecommunication Services";"CDA T P-Values";;;
+"Diversified Telecommunication Services";Wilcoxon;;;
+"Diversified Telecommunication Services";"Wilcoxon P-Values";;;
+"Specialized REITs";"Average Abnormal Return (AAR)";0.0029;0.0059;0.0174
+"Specialized REITs";N;2;2;2
+"Specialized REITs";Pos:Neg;1:1;2:0;2:0
+"Specialized REITs";"Patell Z";0.3945;0.7405;2.1554
+"Specialized REITs";"Patell Z P-Values";0.6932;0.459;0.0311
+"Specialized REITs";"Generalized Sign Z";;;
+"Specialized REITs";"Generalized Sign Z P-Values";;;
+"Specialized REITs";"Sign Z";;;
+"Specialized REITs";"Sign Z P-Values";;;
+"Specialized REITs";"Csect T";0.6744;1.5946;3.3462
+"Specialized REITs";"Csect T P-Values";0.6223;0.3566;0.1849
+"Specialized REITs";"StdCSect T";0.6846;1.568;3.591
+"Specialized REITs";"StdCSect T P-Values";0.6178;0.3614;0.1729
+"Specialized REITs";"Rank Z";;;
+"Specialized REITs";"Rank Z P-Values";;;
+"Specialized REITs";"Generalized Rank T";;;
+"Specialized REITs";"Generalized Rank T P-Values";;;
+"Specialized REITs";"Generalized Rank Z";;;
+"Specialized REITs";"Generalized Rank Z P-Values";;;
+"Specialized REITs";"Adjusted Patell Z";;;
+"Specialized REITs";"Adjusted Patell Z P-Values";;;
+"Specialized REITs";"Adjusted StdCSect T";;;
+"Specialized REITs";"Adjusted StdCSect T P-Values";;;
+"Specialized REITs";"Skewness-Corrected T";;;
+"Specialized REITs";"Skewness-Corrected T P-Values";;;
+"Specialized REITs";"CDA T";;;
+"Specialized REITs";"CDA T P-Values";;;
+"Specialized REITs";Wilcoxon;;;
+"Specialized REITs";"Wilcoxon P-Values";;;
+Entertainment;"Average Abnormal Return (AAR)";-0.0063;0.0006;-0.0129
+Entertainment;N;5;5;5
+Entertainment;Pos:Neg;2:3;3:2;2:3
+Entertainment;"Patell Z";-0.7338;0.997;-2.2526
+Entertainment;"Patell Z P-Values";0.4631;0.3188;0.0243
+Entertainment;"Generalized Sign Z";;;
+Entertainment;"Generalized Sign Z P-Values";;;
+Entertainment;"Sign Z";;;
+Entertainment;"Sign Z P-Values";;;
+Entertainment;"Csect T";-1.2168;0.0385;-0.9462
+Entertainment;"Csect T P-Values";0.2906;0.9712;0.3976
+Entertainment;"StdCSect T";-0.9897;0.5325;-1.2905
+Entertainment;"StdCSect T P-Values";0.3783;0.6226;0.2664
+Entertainment;"Rank Z";;;
+Entertainment;"Rank Z P-Values";;;
+Entertainment;"Generalized Rank T";;;
+Entertainment;"Generalized Rank T P-Values";;;
+Entertainment;"Generalized Rank Z";;;
+Entertainment;"Generalized Rank Z P-Values";;;
+Entertainment;"Adjusted Patell Z";;;
+Entertainment;"Adjusted Patell Z P-Values";;;
+Entertainment;"Adjusted StdCSect T";;;
+Entertainment;"Adjusted StdCSect T P-Values";;;
+Entertainment;"Skewness-Corrected T";;;
+Entertainment;"Skewness-Corrected T P-Values";;;
+Entertainment;"CDA T";;;
+Entertainment;"CDA T P-Values";;;
+Entertainment;Wilcoxon;;;
+Entertainment;"Wilcoxon P-Values";;;
+"Office REITs";"Average Abnormal Return (AAR)";-0.006;0.0019;0.0176
+"Office REITs";N;3;3;3
+"Office REITs";Pos:Neg;1:2;2:1;3:0
+"Office REITs";"Patell Z";-1.1787;0.2782;3.0276
+"Office REITs";"Patell Z P-Values";0.2385;0.7809;0.0025
+"Office REITs";"Generalized Sign Z";;;
+"Office REITs";"Generalized Sign Z P-Values";;;
+"Office REITs";"Sign Z";;;
+"Office REITs";"Sign Z P-Values";;;
+"Office REITs";"Csect T";-1.1866;0.6168;2.2265
+"Office REITs";"Csect T P-Values";0.3572;0.6002;0.1559
+"Office REITs";"StdCSect T";-1.2718;0.4905;2.2373
+"Office REITs";"StdCSect T P-Values";0.3313;0.6723;0.1547
+"Office REITs";"Rank Z";;;
+"Office REITs";"Rank Z P-Values";;;
+"Office REITs";"Generalized Rank T";;;
+"Office REITs";"Generalized Rank T P-Values";;;
+"Office REITs";"Generalized Rank Z";;;
+"Office REITs";"Generalized Rank Z P-Values";;;
+"Office REITs";"Adjusted Patell Z";;;
+"Office REITs";"Adjusted Patell Z P-Values";;;
+"Office REITs";"Adjusted StdCSect T";;;
+"Office REITs";"Adjusted StdCSect T P-Values";;;
+"Office REITs";"Skewness-Corrected T";;;
+"Office REITs";"Skewness-Corrected T P-Values";;;
+"Office REITs";"CDA T";;;
+"Office REITs";"CDA T P-Values";;;
+"Office REITs";Wilcoxon;;;
+"Office REITs";"Wilcoxon P-Values";;;
+"Automobile Components";"Average Abnormal Return (AAR)";-0.0042;-0.0312;-0.0469
+"Automobile Components";N;6;6;6
+"Automobile Components";Pos:Neg;3:3;1:5;0:6
+"Automobile Components";"Patell Z";-0.8018;-4.8735;-7.1402
+"Automobile Components";"Patell Z P-Values";0.4227;1.0964E-6;9.3203E-13
+"Automobile Components";"Generalized Sign Z";;;
+"Automobile Components";"Generalized Sign Z P-Values";;;
+"Automobile Components";"Sign Z";;;
+"Automobile Components";"Sign Z P-Values";;;
+"Automobile Components";"Csect T";-1.1919;-1.6321;-2.2372
+"Automobile Components";"Csect T P-Values";0.2868;0.1636;0.0755
+"Automobile Components";"StdCSect T";-1.3167;-1.6316;-2.3232
+"Automobile Components";"StdCSect T P-Values";0.2451;0.1637;0.0678
+"Automobile Components";"Rank Z";;;
+"Automobile Components";"Rank Z P-Values";;;
+"Automobile Components";"Generalized Rank T";;;
+"Automobile Components";"Generalized Rank T P-Values";;;
+"Automobile Components";"Generalized Rank Z";;;
+"Automobile Components";"Generalized Rank Z P-Values";;;
+"Automobile Components";"Adjusted Patell Z";;;
+"Automobile Components";"Adjusted Patell Z P-Values";;;
+"Automobile Components";"Adjusted StdCSect T";;;
+"Automobile Components";"Adjusted StdCSect T P-Values";;;
+"Automobile Components";"Skewness-Corrected T";;;
+"Automobile Components";"Skewness-Corrected T P-Values";;;
+"Automobile Components";"CDA T";;;
+"Automobile Components";"CDA T P-Values";;;
+"Automobile Components";Wilcoxon;;;
+"Automobile Components";"Wilcoxon P-Values";;;
+"Construction Materials";"Average Abnormal Return (AAR)";-0.0222;-0.0484;0.0052
+"Construction Materials";N;4;4;4
+"Construction Materials";Pos:Neg;0:4;0:4;3:1
+"Construction Materials";"Patell Z";-4.95;-9.8079;0.818
+"Construction Materials";"Patell Z P-Values";7.4224E-7;1.041E-22;0.4134
+"Construction Materials";"Generalized Sign Z";;;
+"Construction Materials";"Generalized Sign Z P-Values";;;
+"Construction Materials";"Sign Z";;;
+"Construction Materials";"Sign Z P-Values";;;
+"Construction Materials";"Csect T";-6.3496;-2.759;0.5461
+"Construction Materials";"Csect T P-Values";0.0079;0.0702;0.623
+"Construction Materials";"StdCSect T";-7.9844;-2.9843;0.4018
+"Construction Materials";"StdCSect T P-Values";0.0041;0.0584;0.7148
+"Construction Materials";"Rank Z";;;
+"Construction Materials";"Rank Z P-Values";;;
+"Construction Materials";"Generalized Rank T";;;
+"Construction Materials";"Generalized Rank T P-Values";;;
+"Construction Materials";"Generalized Rank Z";;;
+"Construction Materials";"Generalized Rank Z P-Values";;;
+"Construction Materials";"Adjusted Patell Z";;;
+"Construction Materials";"Adjusted Patell Z P-Values";;;
+"Construction Materials";"Adjusted StdCSect T";;;
+"Construction Materials";"Adjusted StdCSect T P-Values";;;
+"Construction Materials";"Skewness-Corrected T";;;
+"Construction Materials";"Skewness-Corrected T P-Values";;;
+"Construction Materials";"CDA T";;;
+"Construction Materials";"CDA T P-Values";;;
+"Construction Materials";Wilcoxon;;;
+"Construction Materials";"Wilcoxon P-Values";;;
+"Air Freight & Logistics";"Average Abnormal Return (AAR)";-0.0224;-0.0023;0.0109
+"Air Freight & Logistics";N;4;4;4
+"Air Freight & Logistics";Pos:Neg;0:4;1:3;4:0
+"Air Freight & Logistics";"Patell Z";-2.5061;0.0051;0.8399
+"Air Freight & Logistics";"Patell Z P-Values";0.0122;0.996;0.401
+"Air Freight & Logistics";"Generalized Sign Z";;;
+"Air Freight & Logistics";"Generalized Sign Z P-Values";;;
+"Air Freight & Logistics";"Sign Z";;;
+"Air Freight & Logistics";"Sign Z P-Values";;;
+"Air Freight & Logistics";"Csect T";-3.4902;-0.2111;1.5104
+"Air Freight & Logistics";"Csect T P-Values";0.0398;0.8464;0.2281
+"Air Freight & Logistics";"StdCSect T";-6.4212;0.0036;2.4084
+"Air Freight & Logistics";"StdCSect T P-Values";0.0077;0.9973;0.0952
+"Air Freight & Logistics";"Rank Z";;;
+"Air Freight & Logistics";"Rank Z P-Values";;;
+"Air Freight & Logistics";"Generalized Rank T";;;
+"Air Freight & Logistics";"Generalized Rank T P-Values";;;
+"Air Freight & Logistics";"Generalized Rank Z";;;
+"Air Freight & Logistics";"Generalized Rank Z P-Values";;;
+"Air Freight & Logistics";"Adjusted Patell Z";;;
+"Air Freight & Logistics";"Adjusted Patell Z P-Values";;;
+"Air Freight & Logistics";"Adjusted StdCSect T";;;
+"Air Freight & Logistics";"Adjusted StdCSect T P-Values";;;
+"Air Freight & Logistics";"Skewness-Corrected T";;;
+"Air Freight & Logistics";"Skewness-Corrected T P-Values";;;
+"Air Freight & Logistics";"CDA T";;;
+"Air Freight & Logistics";"CDA T P-Values";;;
+"Air Freight & Logistics";Wilcoxon;;;
+"Air Freight & Logistics";"Wilcoxon P-Values";;;
+Distributors;"Average Abnormal Return (AAR)";0.0036;-0.0438;-0.0106
+Distributors;N;2;2;2
+Distributors;Pos:Neg;1:1;1:1;0:2
+Distributors;"Patell Z";0.8054;-8.2984;-1.2145
+Distributors;"Patell Z P-Values";0.4206;1.0554E-16;0.2245
+Distributors;"Generalized Sign Z";;;
+Distributors;"Generalized Sign Z P-Values";;;
+Distributors;"Sign Z";;;
+Distributors;"Sign Z P-Values";;;
+Distributors;"Csect T";0.4645;-0.6475;-2.2083
+Distributors;"Csect T P-Values";0.7232;0.6342;0.2707
+Distributors;"StdCSect T";0.6569;-0.7875;-5.1749
+Distributors;"StdCSect T P-Values";0.63;0.5753;0.1215
+Distributors;"Rank Z";;;
+Distributors;"Rank Z P-Values";;;
+Distributors;"Generalized Rank T";;;
+Distributors;"Generalized Rank T P-Values";;;
+Distributors;"Generalized Rank Z";;;
+Distributors;"Generalized Rank Z P-Values";;;
+Distributors;"Adjusted Patell Z";;;
+Distributors;"Adjusted Patell Z P-Values";;;
+Distributors;"Adjusted StdCSect T";;;
+Distributors;"Adjusted StdCSect T P-Values";;;
+Distributors;"Skewness-Corrected T";;;
+Distributors;"Skewness-Corrected T P-Values";;;
+Distributors;"CDA T";;;
+Distributors;"CDA T P-Values";;;
+Distributors;Wilcoxon;;;
+Distributors;"Wilcoxon P-Values";;;
+"Independent Power and Renewable Electricity Producers";"Average Abnormal Return (AAR)";-0.0141;0.057;-0.006
+"Independent Power and Renewable Electricity Producers";N;6;6;6
+"Independent Power and Renewable Electricity Producers";Pos:Neg;3:3;5:1;3:3
+"Independent Power and Renewable Electricity Producers";"Patell Z";-4.4903;4.4695;1.0073
+"Independent Power and Renewable Electricity Producers";"Patell Z P-Values";7.113E-6;7.8386E-6;0.3138
+"Independent Power and Renewable Electricity Producers";"Generalized Sign Z";;;
+"Independent Power and Renewable Electricity Producers";"Generalized Sign Z P-Values";;;
+"Independent Power and Renewable Electricity Producers";"Sign Z";;;
+"Independent Power and Renewable Electricity Producers";"Sign Z P-Values";;;
+"Independent Power and Renewable Electricity Producers";"Csect T";-0.8377;1.2483;-0.3172
+"Independent Power and Renewable Electricity Producers";"Csect T P-Values";0.4404;0.2672;0.7639
+"Independent Power and Renewable Electricity Producers";"StdCSect T";-0.9357;0.507;0.3429
+"Independent Power and Renewable Electricity Producers";"StdCSect T P-Values";0.3924;0.6337;0.7456
+"Independent Power and Renewable Electricity Producers";"Rank Z";;;
+"Independent Power and Renewable Electricity Producers";"Rank Z P-Values";;;
+"Independent Power and Renewable Electricity Producers";"Generalized Rank T";;;
+"Independent Power and Renewable Electricity Producers";"Generalized Rank T P-Values";;;
+"Independent Power and Renewable Electricity Producers";"Generalized Rank Z";;;
+"Independent Power and Renewable Electricity Producers";"Generalized Rank Z P-Values";;;
+"Independent Power and Renewable Electricity Producers";"Adjusted Patell Z";;;
+"Independent Power and Renewable Electricity Producers";"Adjusted Patell Z P-Values";;;
+"Independent Power and Renewable Electricity Producers";"Adjusted StdCSect T";;;
+"Independent Power and Renewable Electricity Producers";"Adjusted StdCSect T P-Values";;;
+"Independent Power and Renewable Electricity Producers";"Skewness-Corrected T";;;
+"Independent Power and Renewable Electricity Producers";"Skewness-Corrected T P-Values";;;
+"Independent Power and Renewable Electricity Producers";"CDA T";;;
+"Independent Power and Renewable Electricity Producers";"CDA T P-Values";;;
+"Independent Power and Renewable Electricity Producers";Wilcoxon;;;
+"Independent Power and Renewable Electricity Producers";"Wilcoxon P-Values";;;
+"Commercial Services & Supplies";"Average Abnormal Return (AAR)";-0.0042;0.0003;-0.0213
+"Commercial Services & Supplies";N;6;6;6
+"Commercial Services & Supplies";Pos:Neg;0:6;4:2;2:4
+"Commercial Services & Supplies";"Patell Z";-0.8528;-0.0316;-3.7115
+"Commercial Services & Supplies";"Patell Z P-Values";0.3938;0.9748;0.0002
+"Commercial Services & Supplies";"Generalized Sign Z";;;
+"Commercial Services & Supplies";"Generalized Sign Z P-Values";;;
+"Commercial Services & Supplies";"Sign Z";;;
+"Commercial Services & Supplies";"Sign Z P-Values";;;
+"Commercial Services & Supplies";"Csect T";-3.4857;0.0438;-1.5496
+"Commercial Services & Supplies";"Csect T P-Values";0.0176;0.9668;0.1819
+"Commercial Services & Supplies";"StdCSect T";-3.2056;-0.026;-1.5079
+"Commercial Services & Supplies";"StdCSect T P-Values";0.0238;0.9803;0.1919
+"Commercial Services & Supplies";"Rank Z";;;
+"Commercial Services & Supplies";"Rank Z P-Values";;;
+"Commercial Services & Supplies";"Generalized Rank T";;;
+"Commercial Services & Supplies";"Generalized Rank T P-Values";;;
+"Commercial Services & Supplies";"Generalized Rank Z";;;
+"Commercial Services & Supplies";"Generalized Rank Z P-Values";;;
+"Commercial Services & Supplies";"Adjusted Patell Z";;;
+"Commercial Services & Supplies";"Adjusted Patell Z P-Values";;;
+"Commercial Services & Supplies";"Adjusted StdCSect T";;;
+"Commercial Services & Supplies";"Adjusted StdCSect T P-Values";;;
+"Commercial Services & Supplies";"Skewness-Corrected T";;;
+"Commercial Services & Supplies";"Skewness-Corrected T P-Values";;;
+"Commercial Services & Supplies";"CDA T";;;
+"Commercial Services & Supplies";"CDA T P-Values";;;
+"Commercial Services & Supplies";Wilcoxon;;;
+"Commercial Services & Supplies";"Wilcoxon P-Values";;;
+"Gas Utilities";"Average Abnormal Return (AAR)";0.0046;0.0012;0.0225
+"Gas Utilities";N;5;5;5
+"Gas Utilities";Pos:Neg;4:1;3:2;5:0
+"Gas Utilities";"Patell Z";1.1054;0.5578;4.9962
+"Gas Utilities";"Patell Z P-Values";0.269;0.577;5.8483E-7
+"Gas Utilities";"Generalized Sign Z";;;
+"Gas Utilities";"Generalized Sign Z P-Values";;;
+"Gas Utilities";"Sign Z";;;
+"Gas Utilities";"Sign Z P-Values";;;
+"Gas Utilities";"Csect T";1.8549;0.3333;5.7113
+"Gas Utilities";"Csect T P-Values";0.1372;0.7557;0.0046
+"Gas Utilities";"StdCSect T";1.6269;0.7507;4.1878
+"Gas Utilities";"StdCSect T P-Values";0.1791;0.4946;0.0138
+"Gas Utilities";"Rank Z";;;
+"Gas Utilities";"Rank Z P-Values";;;
+"Gas Utilities";"Generalized Rank T";;;
+"Gas Utilities";"Generalized Rank T P-Values";;;
+"Gas Utilities";"Generalized Rank Z";;;
+"Gas Utilities";"Generalized Rank Z P-Values";;;
+"Gas Utilities";"Adjusted Patell Z";;;
+"Gas Utilities";"Adjusted Patell Z P-Values";;;
+"Gas Utilities";"Adjusted StdCSect T";;;
+"Gas Utilities";"Adjusted StdCSect T P-Values";;;
+"Gas Utilities";"Skewness-Corrected T";;;
+"Gas Utilities";"Skewness-Corrected T P-Values";;;
+"Gas Utilities";"CDA T";;;
+"Gas Utilities";"CDA T P-Values";;;
+"Gas Utilities";Wilcoxon;;;
+"Gas Utilities";"Wilcoxon P-Values";;;
+"Communications Equipment";"Average Abnormal Return (AAR)";-0.0104;0.0216;-0.0076
+"Communications Equipment";N;2;2;2
+"Communications Equipment";Pos:Neg;0:2;2:0;0:2
+"Communications Equipment";"Patell Z";-1.1654;2.2483;-0.8611
+"Communications Equipment";"Patell Z P-Values";0.2438;0.0246;0.3892
+"Communications Equipment";"Generalized Sign Z";;;
+"Communications Equipment";"Generalized Sign Z P-Values";;;
+"Communications Equipment";"Sign Z";;;
+"Communications Equipment";"Sign Z P-Values";;;
+"Communications Equipment";"Csect T";-34.6667;13.0909;-1.1095
+"Communications Equipment";"Csect T P-Values";0.0184;0.0485;0.467
+"Communications Equipment";"StdCSect T";-8.3723;111.1776;-1.0847
+"Communications Equipment";"StdCSect T P-Values";0.0757;0.0057;0.4742
+"Communications Equipment";"Rank Z";;;
+"Communications Equipment";"Rank Z P-Values";;;
+"Communications Equipment";"Generalized Rank T";;;
+"Communications Equipment";"Generalized Rank T P-Values";;;
+"Communications Equipment";"Generalized Rank Z";;;
+"Communications Equipment";"Generalized Rank Z P-Values";;;
+"Communications Equipment";"Adjusted Patell Z";;;
+"Communications Equipment";"Adjusted Patell Z P-Values";;;
+"Communications Equipment";"Adjusted StdCSect T";;;
+"Communications Equipment";"Adjusted StdCSect T P-Values";;;
+"Communications Equipment";"Skewness-Corrected T";;;
+"Communications Equipment";"Skewness-Corrected T P-Values";;;
+"Communications Equipment";"CDA T";;;
+"Communications Equipment";"CDA T P-Values";;;
+"Communications Equipment";Wilcoxon;;;
+"Communications Equipment";"Wilcoxon P-Values";;;
+"Household Products";"Average Abnormal Return (AAR)";0.0081;-0.0315;0.0238
+"Household Products";N;3;3;3
+"Household Products";Pos:Neg;2:1;0:3;3:0
+"Household Products";"Patell Z";0.9415;-3.89;2.9706
+"Household Products";"Patell Z P-Values";0.3464;0.0001;0.003
+"Household Products";"Generalized Sign Z";;;
+"Household Products";"Generalized Sign Z P-Values";;;
+"Household Products";"Sign Z";;;
+"Household Products";"Sign Z P-Values";;;
+"Household Products";"Csect T";1.1601;-5.3546;4.1111
+"Household Products";"Csect T P-Values";0.3658;0.0332;0.0544
+"Household Products";"StdCSect T";1.278;-13.9831;4.4204
+"Household Products";"StdCSect T P-Values";0.3295;0.0051;0.0476
+"Household Products";"Rank Z";;;
+"Household Products";"Rank Z P-Values";;;
+"Household Products";"Generalized Rank T";;;
+"Household Products";"Generalized Rank T P-Values";;;
+"Household Products";"Generalized Rank Z";;;
+"Household Products";"Generalized Rank Z P-Values";;;
+"Household Products";"Adjusted Patell Z";;;
+"Household Products";"Adjusted Patell Z P-Values";;;
+"Household Products";"Adjusted StdCSect T";;;
+"Household Products";"Adjusted StdCSect T P-Values";;;
+"Household Products";"Skewness-Corrected T";;;
+"Household Products";"Skewness-Corrected T P-Values";;;
+"Household Products";"CDA T";;;
+"Household Products";"CDA T P-Values";;;
+"Household Products";Wilcoxon;;;
+"Household Products";"Wilcoxon P-Values";;;
+"Wireless Telecommunication Services";"Average Abnormal Return (AAR)";-0.0027;-0.0282;0.0185
+"Wireless Telecommunication Services";N;4;4;4
+"Wireless Telecommunication Services";Pos:Neg;1:3;1:3;3:1
+"Wireless Telecommunication Services";"Patell Z";-0.3027;-4.5577;3.1916
+"Wireless Telecommunication Services";"Patell Z P-Values";0.7621;5.1706E-6;0.0014
+"Wireless Telecommunication Services";"Generalized Sign Z";;;
+"Wireless Telecommunication Services";"Generalized Sign Z P-Values";;;
+"Wireless Telecommunication Services";"Sign Z";;;
+"Wireless Telecommunication Services";"Sign Z P-Values";;;
+"Wireless Telecommunication Services";"Csect T";-0.5867;-2.7405;1.3155
+"Wireless Telecommunication Services";"Csect T P-Values";0.5986;0.0713;0.2798
+"Wireless Telecommunication Services";"StdCSect T";-0.4202;-2.5487;1.3276
+"Wireless Telecommunication Services";"StdCSect T P-Values";0.7026;0.084;0.2763
+"Wireless Telecommunication Services";"Rank Z";;;
+"Wireless Telecommunication Services";"Rank Z P-Values";;;
+"Wireless Telecommunication Services";"Generalized Rank T";;;
+"Wireless Telecommunication Services";"Generalized Rank T P-Values";;;
+"Wireless Telecommunication Services";"Generalized Rank Z";;;
+"Wireless Telecommunication Services";"Generalized Rank Z P-Values";;;
+"Wireless Telecommunication Services";"Adjusted Patell Z";;;
+"Wireless Telecommunication Services";"Adjusted Patell Z P-Values";;;
+"Wireless Telecommunication Services";"Adjusted StdCSect T";;;
+"Wireless Telecommunication Services";"Adjusted StdCSect T P-Values";;;
+"Wireless Telecommunication Services";"Skewness-Corrected T";;;
+"Wireless Telecommunication Services";"Skewness-Corrected T P-Values";;;
+"Wireless Telecommunication Services";"CDA T";;;
+"Wireless Telecommunication Services";"CDA T P-Values";;;
+"Wireless Telecommunication Services";Wilcoxon;;;
+"Wireless Telecommunication Services";"Wilcoxon P-Values";;;
+Media;"Average Abnormal Return (AAR)";-0.0016;-0.0054;-0.0071
+Media;N;9;9;9
+Media;Pos:Neg;5:4;4:5;4:5
+Media;"Patell Z";0.0438;-3.0756;-0.7539
+Media;"Patell Z P-Values";0.965;0.0021;0.4509
+Media;"Generalized Sign Z";;;
+Media;"Generalized Sign Z P-Values";;;
+Media;"Sign Z";;;
+Media;"Sign Z P-Values";;;
+Media;"Csect T";-0.5184;-0.3122;-1.068
+Media;"Csect T P-Values";0.6182;0.7629;0.3167
+Media;"StdCSect T";0.0735;-0.8965;-0.6364
+Media;"StdCSect T P-Values";0.9432;0.3962;0.5423
+Media;"Rank Z";;;
+Media;"Rank Z P-Values";;;
+Media;"Generalized Rank T";;;
+Media;"Generalized Rank T P-Values";;;
+Media;"Generalized Rank Z";;;
+Media;"Generalized Rank Z P-Values";;;
+Media;"Adjusted Patell Z";;;
+Media;"Adjusted Patell Z P-Values";;;
+Media;"Adjusted StdCSect T";;;
+Media;"Adjusted StdCSect T P-Values";;;
+Media;"Skewness-Corrected T";;;
+Media;"Skewness-Corrected T P-Values";;;
+Media;"CDA T";;;
+Media;"CDA T P-Values";;;
+Media;Wilcoxon;;;
+Media;"Wilcoxon P-Values";;;
+"Leisure Products";"Average Abnormal Return (AAR)";-0.0002;0.0423;-0.0349
+"Leisure Products";N;3;3;3
+"Leisure Products";Pos:Neg;1:2;3:0;0:3
+"Leisure Products";"Patell Z";0.0159;2.6193;-2.2679
+"Leisure Products";"Patell Z P-Values";0.9873;0.0088;0.0233
+"Leisure Products";"Generalized Sign Z";;;
+"Leisure Products";"Generalized Sign Z P-Values";;;
+"Leisure Products";"Sign Z";;;
+"Leisure Products";"Sign Z P-Values";;;
+"Leisure Products";"Csect T";-0.0387;1.8518;-3.0835
+"Leisure Products";"Csect T P-Values";0.9726;0.2053;0.091
+"Leisure Products";"StdCSect T";0.0352;2.2379;-7.9942
+"Leisure Products";"StdCSect T P-Values";0.9751;0.1546;0.0153
+"Leisure Products";"Rank Z";;;
+"Leisure Products";"Rank Z P-Values";;;
+"Leisure Products";"Generalized Rank T";;;
+"Leisure Products";"Generalized Rank T P-Values";;;
+"Leisure Products";"Generalized Rank Z";;;
+"Leisure Products";"Generalized Rank Z P-Values";;;
+"Leisure Products";"Adjusted Patell Z";;;
+"Leisure Products";"Adjusted Patell Z P-Values";;;
+"Leisure Products";"Adjusted StdCSect T";;;
+"Leisure Products";"Adjusted StdCSect T P-Values";;;
+"Leisure Products";"Skewness-Corrected T";;;
+"Leisure Products";"Skewness-Corrected T P-Values";;;
+"Leisure Products";"CDA T";;;
+"Leisure Products";"CDA T P-Values";;;
+"Leisure Products";Wilcoxon;;;
+"Leisure Products";"Wilcoxon P-Values";;;
+"Electronic Equipment, Instruments & Components";"Average Abnormal Return (AAR)";-0.0053;0.0215;-0.013
+"Electronic Equipment, Instruments & Components";N;3;3;3
+"Electronic Equipment, Instruments & Components";Pos:Neg;1:2;2:1;0:3
+"Electronic Equipment, Instruments & Components";"Patell Z";-0.286;1.8475;-2.0973
+"Electronic Equipment, Instruments & Components";"Patell Z P-Values";0.7749;0.0647;0.036
+"Electronic Equipment, Instruments & Components";"Generalized Sign Z";;;
+"Electronic Equipment, Instruments & Components";"Generalized Sign Z P-Values";;;
+"Electronic Equipment, Instruments & Components";"Sign Z";;;
+"Electronic Equipment, Instruments & Components";"Sign Z P-Values";;;
+"Electronic Equipment, Instruments & Components";"Csect T";-0.5094;0.7941;-2.6315
+"Electronic Equipment, Instruments & Components";"Csect T P-Values";0.6611;0.5104;0.1191
+"Electronic Equipment, Instruments & Components";"StdCSect T";-0.1599;0.4413;-1.9398
+"Electronic Equipment, Instruments & Components";"StdCSect T P-Values";0.8876;0.7021;0.1919
+"Electronic Equipment, Instruments & Components";"Rank Z";;;
+"Electronic Equipment, Instruments & Components";"Rank Z P-Values";;;
+"Electronic Equipment, Instruments & Components";"Generalized Rank T";;;
+"Electronic Equipment, Instruments & Components";"Generalized Rank T P-Values";;;
+"Electronic Equipment, Instruments & Components";"Generalized Rank Z";;;
+"Electronic Equipment, Instruments & Components";"Generalized Rank Z P-Values";;;
+"Electronic Equipment, Instruments & Components";"Adjusted Patell Z";;;
+"Electronic Equipment, Instruments & Components";"Adjusted Patell Z P-Values";;;
+"Electronic Equipment, Instruments & Components";"Adjusted StdCSect T";;;
+"Electronic Equipment, Instruments & Components";"Adjusted StdCSect T P-Values";;;
+"Electronic Equipment, Instruments & Components";"Skewness-Corrected T";;;
+"Electronic Equipment, Instruments & Components";"Skewness-Corrected T P-Values";;;
+"Electronic Equipment, Instruments & Components";"CDA T";;;
+"Electronic Equipment, Instruments & Components";"CDA T P-Values";;;
+"Electronic Equipment, Instruments & Components";Wilcoxon;;;
+"Electronic Equipment, Instruments & Components";"Wilcoxon P-Values";;;
+"Paper & Forest Products";"Average Abnormal Return (AAR)";0.0077;-0.0304;0.0093
+"Paper & Forest Products";N;5;5;5
+"Paper & Forest Products";Pos:Neg;5:0;0:5;5:0
+"Paper & Forest Products";"Patell Z";1.6613;-6.9432;1.8593
+"Paper & Forest Products";"Patell Z P-Values";0.0967;3.8326E-12;0.063
+"Paper & Forest Products";"Generalized Sign Z";;;
+"Paper & Forest Products";"Generalized Sign Z P-Values";;;
+"Paper & Forest Products";"Sign Z";;;
+"Paper & Forest Products";"Sign Z P-Values";;;
+"Paper & Forest Products";"Csect T";4.2332;-2.1925;2.9942
+"Paper & Forest Products";"Csect T P-Values";0.0133;0.0934;0.0402
+"Paper & Forest Products";"StdCSect T";4.3894;-1.7968;3.1757
+"Paper & Forest Products";"StdCSect T P-Values";0.0118;0.1468;0.0337
+"Paper & Forest Products";"Rank Z";;;
+"Paper & Forest Products";"Rank Z P-Values";;;
+"Paper & Forest Products";"Generalized Rank T";;;
+"Paper & Forest Products";"Generalized Rank T P-Values";;;
+"Paper & Forest Products";"Generalized Rank Z";;;
+"Paper & Forest Products";"Generalized Rank Z P-Values";;;
+"Paper & Forest Products";"Adjusted Patell Z";;;
+"Paper & Forest Products";"Adjusted Patell Z P-Values";;;
+"Paper & Forest Products";"Adjusted StdCSect T";;;
+"Paper & Forest Products";"Adjusted StdCSect T P-Values";;;
+"Paper & Forest Products";"Skewness-Corrected T";;;
+"Paper & Forest Products";"Skewness-Corrected T P-Values";;;
+"Paper & Forest Products";"CDA T";;;
+"Paper & Forest Products";"CDA T P-Values";;;
+"Paper & Forest Products";Wilcoxon;;;
+"Paper & Forest Products";"Wilcoxon P-Values";;;
+"Passenger Airlines";"Average Abnormal Return (AAR)";-0.0376;-0.0166;0.0033
+"Passenger Airlines";N;4;4;4
+"Passenger Airlines";Pos:Neg;0:4;2:2;2:2
+"Passenger Airlines";"Patell Z";-3.1083;-1.1259;0.125
+"Passenger Airlines";"Patell Z P-Values";0.0019;0.2602;0.9005
+"Passenger Airlines";"Generalized Sign Z";;;
+"Passenger Airlines";"Generalized Sign Z P-Values";;;
+"Passenger Airlines";"Sign Z";;;
+"Passenger Airlines";"Sign Z P-Values";;;
+"Passenger Airlines";"Csect T";-2.2835;-0.7694;0.1844
+"Passenger Airlines";"Csect T P-Values";0.1066;0.4977;0.8655
+"Passenger Airlines";"StdCSect T";-2.508;-0.6662;0.089
+"Passenger Airlines";"StdCSect T P-Values";0.0871;0.5529;0.9347
+"Passenger Airlines";"Rank Z";;;
+"Passenger Airlines";"Rank Z P-Values";;;
+"Passenger Airlines";"Generalized Rank T";;;
+"Passenger Airlines";"Generalized Rank T P-Values";;;
+"Passenger Airlines";"Generalized Rank Z";;;
+"Passenger Airlines";"Generalized Rank Z P-Values";;;
+"Passenger Airlines";"Adjusted Patell Z";;;
+"Passenger Airlines";"Adjusted Patell Z P-Values";;;
+"Passenger Airlines";"Adjusted StdCSect T";;;
+"Passenger Airlines";"Adjusted StdCSect T P-Values";;;
+"Passenger Airlines";"Skewness-Corrected T";;;
+"Passenger Airlines";"Skewness-Corrected T P-Values";;;
+"Passenger Airlines";"CDA T";;;
+"Passenger Airlines";"CDA T P-Values";;;
+"Passenger Airlines";Wilcoxon;;;
+"Passenger Airlines";"Wilcoxon P-Values";;;
+"Marine Transportation";"Average Abnormal Return (AAR)";-0.0232;0.0155;-0.009
+"Marine Transportation";N;2;2;2
+"Marine Transportation";Pos:Neg;0:2;1:1;0:2
+"Marine Transportation";"Patell Z";-1.9507;1.4259;-0.7361
+"Marine Transportation";"Patell Z P-Values";0.0511;0.1539;0.4617
+"Marine Transportation";"Generalized Sign Z";;;
+"Marine Transportation";"Generalized Sign Z P-Values";;;
+"Marine Transportation";"Sign Z";;;
+"Marine Transportation";"Sign Z P-Values";;;
+"Marine Transportation";"Csect T";-3.1565;0.5065;-60
+"Marine Transportation";"Csect T P-Values";0.1953;0.7015;0.0106
+"Marine Transportation";"StdCSect T";-3.9556;0.5561;-11.2975
+"Marine Transportation";"StdCSect T P-Values";0.1576;0.6769;0.0562
+"Marine Transportation";"Rank Z";;;
+"Marine Transportation";"Rank Z P-Values";;;
+"Marine Transportation";"Generalized Rank T";;;
+"Marine Transportation";"Generalized Rank T P-Values";;;
+"Marine Transportation";"Generalized Rank Z";;;
+"Marine Transportation";"Generalized Rank Z P-Values";;;
+"Marine Transportation";"Adjusted Patell Z";;;
+"Marine Transportation";"Adjusted Patell Z P-Values";;;
+"Marine Transportation";"Adjusted StdCSect T";;;
+"Marine Transportation";"Adjusted StdCSect T P-Values";;;
+"Marine Transportation";"Skewness-Corrected T";;;
+"Marine Transportation";"Skewness-Corrected T P-Values";;;
+"Marine Transportation";"CDA T";;;
+"Marine Transportation";"CDA T P-Values";;;
+"Marine Transportation";Wilcoxon;;;
+"Marine Transportation";"Wilcoxon P-Values";;;
+"Industrial Conglomerates";"Average Abnormal Return (AAR)";-0.051;0.0266;-0.0214
+"Industrial Conglomerates";N;4;4;4
+"Industrial Conglomerates";Pos:Neg;2:2;3:1;0:4
+"Industrial Conglomerates";"Patell Z";-5.3266;2.9067;-2.3485
+"Industrial Conglomerates";"Patell Z P-Values";1.0004E-7;0.0037;0.0189
+"Industrial Conglomerates";"Generalized Sign Z";;;
+"Industrial Conglomerates";"Generalized Sign Z P-Values";;;
+"Industrial Conglomerates";"Sign Z";;;
+"Industrial Conglomerates";"Sign Z P-Values";;;
+"Industrial Conglomerates";"Csect T";-1.1536;1.9417;-2.3182
+"Industrial Conglomerates";"Csect T P-Values";0.3322;0.1475;0.1033
+"Industrial Conglomerates";"StdCSect T";-1.2342;1.5593;-3.0205
+"Industrial Conglomerates";"StdCSect T P-Values";0.305;0.2168;0.0567
+"Industrial Conglomerates";"Rank Z";;;
+"Industrial Conglomerates";"Rank Z P-Values";;;
+"Industrial Conglomerates";"Generalized Rank T";;;
+"Industrial Conglomerates";"Generalized Rank T P-Values";;;
+"Industrial Conglomerates";"Generalized Rank Z";;;
+"Industrial Conglomerates";"Generalized Rank Z P-Values";;;
+"Industrial Conglomerates";"Adjusted Patell Z";;;
+"Industrial Conglomerates";"Adjusted Patell Z P-Values";;;
+"Industrial Conglomerates";"Adjusted StdCSect T";;;
+"Industrial Conglomerates";"Adjusted StdCSect T P-Values";;;
+"Industrial Conglomerates";"Skewness-Corrected T";;;
+"Industrial Conglomerates";"Skewness-Corrected T P-Values";;;
+"Industrial Conglomerates";"CDA T";;;
+"Industrial Conglomerates";"CDA T P-Values";;;
+"Industrial Conglomerates";Wilcoxon;;;
+"Industrial Conglomerates";"Wilcoxon P-Values";;;
+"Retail REITs";"Average Abnormal Return (AAR)";-0.0052;0.0064;-0.0059
+"Retail REITs";N;2;2;2
+"Retail REITs";Pos:Neg;0:2;2:0;0:2
+"Retail REITs";"Patell Z";-0.3429;0.4431;-0.3957
+"Retail REITs";"Patell Z P-Values";0.7317;0.6577;0.6923
+"Retail REITs";"Generalized Sign Z";;;
+"Retail REITs";"Generalized Sign Z P-Values";;;
+"Retail REITs";"Sign Z";;;
+"Retail REITs";"Sign Z P-Values";;;
+"Retail REITs";"Csect T";-1.284;32;-2.7442
+"Retail REITs";"Csect T P-Values";0.4213;0.0199;0.2225
+"Retail REITs";"StdCSect T";-1.3627;10.4211;-4.0352
+"Retail REITs";"StdCSect T P-Values";0.403;0.0609;0.1546
+"Retail REITs";"Rank Z";;;
+"Retail REITs";"Rank Z P-Values";;;
+"Retail REITs";"Generalized Rank T";;;
+"Retail REITs";"Generalized Rank T P-Values";;;
+"Retail REITs";"Generalized Rank Z";;;
+"Retail REITs";"Generalized Rank Z P-Values";;;
+"Retail REITs";"Adjusted Patell Z";;;
+"Retail REITs";"Adjusted Patell Z P-Values";;;
+"Retail REITs";"Adjusted StdCSect T";;;
+"Retail REITs";"Adjusted StdCSect T P-Values";;;
+"Retail REITs";"Skewness-Corrected T";;;
+"Retail REITs";"Skewness-Corrected T P-Values";;;
+"Retail REITs";"CDA T";;;
+"Retail REITs";"CDA T P-Values";;;
+"Retail REITs";Wilcoxon;;;
+"Retail REITs";"Wilcoxon P-Values";;;
+"Technology Hardware, Storage & Peripherals";"Average Abnormal Return (AAR)";;;
+"Technology Hardware, Storage & Peripherals";N;;;
+"Technology Hardware, Storage & Peripherals";Pos:Neg;;;
+"Technology Hardware, Storage & Peripherals";"Patell Z";;;
+"Technology Hardware, Storage & Peripherals";"Patell Z P-Values";;;
+"Technology Hardware, Storage & Peripherals";"Generalized Sign Z";;;
+"Technology Hardware, Storage & Peripherals";"Generalized Sign Z P-Values";;;
+"Technology Hardware, Storage & Peripherals";"Sign Z";;;
+"Technology Hardware, Storage & Peripherals";"Sign Z P-Values";;;
+"Technology Hardware, Storage & Peripherals";"Csect T";;;
+"Technology Hardware, Storage & Peripherals";"Csect T P-Values";;;
+"Technology Hardware, Storage & Peripherals";"StdCSect T";;;
+"Technology Hardware, Storage & Peripherals";"StdCSect T P-Values";;;
+"Technology Hardware, Storage & Peripherals";"Rank Z";;;
+"Technology Hardware, Storage & Peripherals";"Rank Z P-Values";;;
+"Technology Hardware, Storage & Peripherals";"Generalized Rank T";;;
+"Technology Hardware, Storage & Peripherals";"Generalized Rank T P-Values";;;
+"Technology Hardware, Storage & Peripherals";"Generalized Rank Z";;;
+"Technology Hardware, Storage & Peripherals";"Generalized Rank Z P-Values";;;
+"Technology Hardware, Storage & Peripherals";"Adjusted Patell Z";;;
+"Technology Hardware, Storage & Peripherals";"Adjusted Patell Z P-Values";;;
+"Technology Hardware, Storage & Peripherals";"Adjusted StdCSect T";;;
+"Technology Hardware, Storage & Peripherals";"Adjusted StdCSect T P-Values";;;
+"Technology Hardware, Storage & Peripherals";"Skewness-Corrected T";;;
+"Technology Hardware, Storage & Peripherals";"Skewness-Corrected T P-Values";;;
+"Technology Hardware, Storage & Peripherals";"CDA T";;;
+"Technology Hardware, Storage & Peripherals";"CDA T P-Values";;;
+"Technology Hardware, Storage & Peripherals";Wilcoxon;;;
+"Technology Hardware, Storage & Peripherals";"Wilcoxon P-Values";;;
+"Water Utilities";"Average Abnormal Return (AAR)";0.0079;-0.0233;0.0138
+"Water Utilities";N;3;3;3
+"Water Utilities";Pos:Neg;3:0;0:3;3:0
+"Water Utilities";"Patell Z";1.8289;-4.9382;2.9455
+"Water Utilities";"Patell Z P-Values";0.0674;7.8836E-7;0.0032
+"Water Utilities";"Generalized Sign Z";;;
+"Water Utilities";"Generalized Sign Z P-Values";;;
+"Water Utilities";"Sign Z";;;
+"Water Utilities";"Sign Z P-Values";;;
+"Water Utilities";"Csect T";2.1225;-16.2033;4.6837
+"Water Utilities";"Csect T P-Values";0.1678;0.0038;0.0427
+"Water Utilities";"StdCSect T";2.1155;-32.2922;4.4593
+"Water Utilities";"StdCSect T P-Values";0.1687;0.001;0.0468
+"Water Utilities";"Rank Z";;;
+"Water Utilities";"Rank Z P-Values";;;
+"Water Utilities";"Generalized Rank T";;;
+"Water Utilities";"Generalized Rank T P-Values";;;
+"Water Utilities";"Generalized Rank Z";;;
+"Water Utilities";"Generalized Rank Z P-Values";;;
+"Water Utilities";"Adjusted Patell Z";;;
+"Water Utilities";"Adjusted Patell Z P-Values";;;
+"Water Utilities";"Adjusted StdCSect T";;;
+"Water Utilities";"Adjusted StdCSect T P-Values";;;
+"Water Utilities";"Skewness-Corrected T";;;
+"Water Utilities";"Skewness-Corrected T P-Values";;;
+"Water Utilities";"CDA T";;;
+"Water Utilities";"CDA T P-Values";;;
+"Water Utilities";Wilcoxon;;;
+"Water Utilities";"Wilcoxon P-Values";;;
+"Diversified Consumer Services";"Average Abnormal Return (AAR)";;;
+"Diversified Consumer Services";N;;;
+"Diversified Consumer Services";Pos:Neg;;;
+"Diversified Consumer Services";"Patell Z";;;
+"Diversified Consumer Services";"Patell Z P-Values";;;
+"Diversified Consumer Services";"Generalized Sign Z";;;
+"Diversified Consumer Services";"Generalized Sign Z P-Values";;;
+"Diversified Consumer Services";"Sign Z";;;
+"Diversified Consumer Services";"Sign Z P-Values";;;
+"Diversified Consumer Services";"Csect T";;;
+"Diversified Consumer Services";"Csect T P-Values";;;
+"Diversified Consumer Services";"StdCSect T";;;
+"Diversified Consumer Services";"StdCSect T P-Values";;;
+"Diversified Consumer Services";"Rank Z";;;
+"Diversified Consumer Services";"Rank Z P-Values";;;
+"Diversified Consumer Services";"Generalized Rank T";;;
+"Diversified Consumer Services";"Generalized Rank T P-Values";;;
+"Diversified Consumer Services";"Generalized Rank Z";;;
+"Diversified Consumer Services";"Generalized Rank Z P-Values";;;
+"Diversified Consumer Services";"Adjusted Patell Z";;;
+"Diversified Consumer Services";"Adjusted Patell Z P-Values";;;
+"Diversified Consumer Services";"Adjusted StdCSect T";;;
+"Diversified Consumer Services";"Adjusted StdCSect T P-Values";;;
+"Diversified Consumer Services";"Skewness-Corrected T";;;
+"Diversified Consumer Services";"Skewness-Corrected T P-Values";;;
+"Diversified Consumer Services";"CDA T";;;
+"Diversified Consumer Services";"CDA T P-Values";;;
+"Diversified Consumer Services";Wilcoxon;;;
+"Diversified Consumer Services";"Wilcoxon P-Values";;;
+"Health Care Technology";"Average Abnormal Return (AAR)";;;
+"Health Care Technology";N;;;
+"Health Care Technology";Pos:Neg;;;
+"Health Care Technology";"Patell Z";;;
+"Health Care Technology";"Patell Z P-Values";;;
+"Health Care Technology";"Generalized Sign Z";;;
+"Health Care Technology";"Generalized Sign Z P-Values";;;
+"Health Care Technology";"Sign Z";;;
+"Health Care Technology";"Sign Z P-Values";;;
+"Health Care Technology";"Csect T";;;
+"Health Care Technology";"Csect T P-Values";;;
+"Health Care Technology";"StdCSect T";;;
+"Health Care Technology";"StdCSect T P-Values";;;
+"Health Care Technology";"Rank Z";;;
+"Health Care Technology";"Rank Z P-Values";;;
+"Health Care Technology";"Generalized Rank T";;;
+"Health Care Technology";"Generalized Rank T P-Values";;;
+"Health Care Technology";"Generalized Rank Z";;;
+"Health Care Technology";"Generalized Rank Z P-Values";;;
+"Health Care Technology";"Adjusted Patell Z";;;
+"Health Care Technology";"Adjusted Patell Z P-Values";;;
+"Health Care Technology";"Adjusted StdCSect T";;;
+"Health Care Technology";"Adjusted StdCSect T P-Values";;;
+"Health Care Technology";"Skewness-Corrected T";;;
+"Health Care Technology";"Skewness-Corrected T P-Values";;;
+"Health Care Technology";"CDA T";;;
+"Health Care Technology";"CDA T P-Values";;;
+"Health Care Technology";Wilcoxon;;;
+"Health Care Technology";"Wilcoxon P-Values";;;
+"Energy Equipment & Services";"Average Abnormal Return (AAR)";;;
+"Energy Equipment & Services";N;;;
+"Energy Equipment & Services";Pos:Neg;;;
+"Energy Equipment & Services";"Patell Z";;;
+"Energy Equipment & Services";"Patell Z P-Values";;;
+"Energy Equipment & Services";"Generalized Sign Z";;;
+"Energy Equipment & Services";"Generalized Sign Z P-Values";;;
+"Energy Equipment & Services";"Sign Z";;;
+"Energy Equipment & Services";"Sign Z P-Values";;;
+"Energy Equipment & Services";"Csect T";;;
+"Energy Equipment & Services";"Csect T P-Values";;;
+"Energy Equipment & Services";"StdCSect T";;;
+"Energy Equipment & Services";"StdCSect T P-Values";;;
+"Energy Equipment & Services";"Rank Z";;;
+"Energy Equipment & Services";"Rank Z P-Values";;;
+"Energy Equipment & Services";"Generalized Rank T";;;
+"Energy Equipment & Services";"Generalized Rank T P-Values";;;
+"Energy Equipment & Services";"Generalized Rank Z";;;
+"Energy Equipment & Services";"Generalized Rank Z P-Values";;;
+"Energy Equipment & Services";"Adjusted Patell Z";;;
+"Energy Equipment & Services";"Adjusted Patell Z P-Values";;;
+"Energy Equipment & Services";"Adjusted StdCSect T";;;
+"Energy Equipment & Services";"Adjusted StdCSect T P-Values";;;
+"Energy Equipment & Services";"Skewness-Corrected T";;;
+"Energy Equipment & Services";"Skewness-Corrected T P-Values";;;
+"Energy Equipment & Services";"CDA T";;;
+"Energy Equipment & Services";"CDA T P-Values";;;
+"Energy Equipment & Services";Wilcoxon;;;
+"Energy Equipment & Services";"Wilcoxon P-Values";;;
+"Residential REITs";"Average Abnormal Return (AAR)";;;
+"Residential REITs";N;;;
+"Residential REITs";Pos:Neg;;;
+"Residential REITs";"Patell Z";;;
+"Residential REITs";"Patell Z P-Values";;;
+"Residential REITs";"Generalized Sign Z";;;
+"Residential REITs";"Generalized Sign Z P-Values";;;
+"Residential REITs";"Sign Z";;;
+"Residential REITs";"Sign Z P-Values";;;
+"Residential REITs";"Csect T";;;
+"Residential REITs";"Csect T P-Values";;;
+"Residential REITs";"StdCSect T";;;
+"Residential REITs";"StdCSect T P-Values";;;
+"Residential REITs";"Rank Z";;;
+"Residential REITs";"Rank Z P-Values";;;
+"Residential REITs";"Generalized Rank T";;;
+"Residential REITs";"Generalized Rank T P-Values";;;
+"Residential REITs";"Generalized Rank Z";;;
+"Residential REITs";"Generalized Rank Z P-Values";;;
+"Residential REITs";"Adjusted Patell Z";;;
+"Residential REITs";"Adjusted Patell Z P-Values";;;
+"Residential REITs";"Adjusted StdCSect T";;;
+"Residential REITs";"Adjusted StdCSect T P-Values";;;
+"Residential REITs";"Skewness-Corrected T";;;
+"Residential REITs";"Skewness-Corrected T P-Values";;;
+"Residential REITs";"CDA T";;;
+"Residential REITs";"CDA T P-Values";;;
+"Residential REITs";Wilcoxon;;;
+"Residential REITs";"Wilcoxon P-Values";;;
